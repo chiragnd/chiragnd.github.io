@@ -1,0 +1,48 @@
+highlighter: "rouge"
+# - markdown: "kramdown"
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+
+plugins:
+  - jekyll-sitemap
+
+title: "Chirag Desai"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/Chirag\">@Chirag on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/Chirag\">@Chirag on Micro.blog</a>."
+baseurl: ""
+url: "https://www.chirag.biz"
+markdown: "kramdown"
+username: "Chirag"
+microblog_user: "Chirag"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Chirag Desai"
+name: "Chirag Desai"
+gravatar_hash: "9325806563cea7d77904f0f218a93021"
+avatar: "https://micro.blog/Chirag/avatar.jpg"
+full_name: "Chirag Desai"
+bio: ""
+twitter_username: "chiragnd"
+github_username: "chiragnd"
+instagram_username: "chirag.nd"
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "W-SU"
+site_id: "1795"
+gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Chirag Desai"
