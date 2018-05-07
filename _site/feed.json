@@ -1,0 +1,231 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Chirag Desai",
+	"home_page_url": "https://www.chirag.biz/",
+	"feed_url": "https://www.chirag.biz/feed.json",
+	"items": [
+		
+		{
+			"id": "http://chirag.micro.blog/2018/05/07/061411.html",
+	      	
+			"content_html": "<p>Micro Monday shoutout to <a href=\"https://micro.blog/hartlco\">@hartlco</a>, not just a community member but also actively growing the ecosystem with Icro. Excited that the app is now approved!</p>\n",
+			"date_published": "2018-05-07T10:14:11+04:00",
+			"url": "https://www.chirag.biz/2018/05/07/061411.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/05/06/bans-on-skype.html",
+	      	
+			"title": "Bans on Skype & FaceTime could be lifted in the UAE",
+			
+			"content_html": "<p><a href=\"https://www.cnbc.com/2018/05/02/microsoft-and-apple-could-get-skype-and-facetime-bans-lifted-in-uae.html?__source=chirag.biz\">Natasha Turak, reporting for CNBC</a></p>\n\n<blockquote>\n  <p>UAE Telecommunications Regulatory Authority (TRA) Director General Hamad Obaid Al Mansouri confirmed the talks this week, according to local news reports, citing Microsoft and Apple’s growing investment plans in the UAE and the desire to forge closer relationships with tech companies as primary reasons.</p>\n</blockquote>\n\n<p>Let’s hope.</p>\n",
+			"date_published": "2018-05-06T10:56:51+04:00",
+			"url": "https://www.chirag.biz/2018/05/06/bans-on-skype.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/05/06/tchtree-httptechtreeshow-we.html",
+	      	
+			"title": "t3chtree #7: Careem breach, password management",
+			
+			"content_html": "<p>We chat about ride-sharing platform Careem’s security breach notification &amp; some password management tips. Plus, my first @microdotblog outro :)</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/362f771c37e1c2/primary/1525361728.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.\n</audio>\n\n<p>Detailed show notes are available <a href=\"http://techtree.show/7\">here</a>.</p>\n",
+			"date_published": "2018-05-06T10:18:03+04:00",
+			"url": "https://www.chirag.biz/2018/05/06/tchtree-httptechtreeshow-we.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/05/05/was-told-today.html",
+	      	
+			"content_html": "<p>Was told today I look like I’m 28. Either I’m doing something right or this person is doing something wrong, but regardless, a happy Saturday :)</p>\n",
+			"date_published": "2018-05-05T20:39:25+04:00",
+			"url": "https://www.chirag.biz/2018/05/05/was-told-today.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/05/03/picked-up-my.html",
+	      	
+			"content_html": "<p>Picked up my @instagram archive, will look into importing it to the current blog hopefully. Not planning to quit the platform just yet but glad I have a copy. If you didn’t know, you can pick it up <a href=\"https://instagram.com/download/request\">here</a>.</p>\n",
+			"date_published": "2018-05-03T10:14:56+04:00",
+			"url": "https://www.chirag.biz/2018/05/03/picked-up-my.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/30/its-been-ages.html",
+	      	
+			"content_html": "<p>It’s been ages since anyone tried to redesign or uplift the usual Twitter experience (<a href=\"http://www.chirag.biz/2018/04/11/what-twitter-was.html\">little surprise there</a>). <a href=\"https://www.flutterios.com\">Flitter</a> reminds me of @Twittelator Neue in a way, something very clean about it.\n<a href=\"https://vimeo.com/266730374\">vimeo.com/266730374</a></p>\n",
+			"date_published": "2018-04-30T15:54:35+04:00",
+			"url": "https://www.chirag.biz/2018/04/30/its-been-ages.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/29/electricity-reached-all.html",
+	      	
+			"title": "Electricity reached all Indian villages on Saturday",
+			
+			"content_html": "<p><a href=\"https://www.livemint.com/Industry/ORuZWrj6czTef21a2dIHGK/Electricity-reached-all-Indian-villages-on-Saturday.html\">Utpal Bhaskar, reporting for LiveMint</a>:</p>\n\n<blockquote>\n  <p>All Indian villages now have access to electricity. The last village to be brought on the national power grid was Leisang village in the Senapati district of Manipur at 5.30pm on Saturday.</p>\n</blockquote>\n\n<p><em>Finally</em>.</p>\n",
+			"date_published": "2018-04-29T10:28:25+04:00",
+			"url": "https://www.chirag.biz/2018/04/29/electricity-reached-all.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/24/maybe-together-we.html",
+	      	
+			"content_html": "<p>“Maybe together we can get somewhere”</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=SCZepEhIqHw\">When life forces you to replace your car tyres, and you’re just sitting there waiting</a>, courtesy @gayamusic.\n#music #cover</p>\n",
+			"date_published": "2018-04-24T12:49:54+04:00",
+			"url": "https://www.chirag.biz/2018/04/24/maybe-together-we.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/22/the-story-behind.html",
+	      	
+			"title": "The story behind @FryingPanAdventures 🎧 ",
+			
+			"content_html": "<p>The start of a new season of the ‘Coffee &amp; Iced Tea’ podcast, where I speak to the sisters behind <a href=\"http://fryingpanadventures.com\">Frying Pan Adventures</a>, Dubai’s first tour company &amp; how they got started.</p>\n\n<iframe class=\"player responsive-iframe\" src=\"//coffeeandicedtea.podiant.co/e/361e34c1412252/embed/\" height=\"150\" width=\"100%\" frameborder=\"0\"></iframe>\n\n<p>Detailed show notes are available <a href=\"http://pod.coffeeandicedtea.com/FryingPanAdventures\">here</a>.</p>\n",
+			"date_published": "2018-04-22T15:04:02+04:00",
+			"url": "https://www.chirag.biz/2018/04/22/the-story-behind.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/20/a-new-season.html",
+	      	
+			"title": "A new season of Coffee & Iced Tea begins April 22!",
+			
+			"content_html": "<audio style=\"width:100%\" controls=\"\">\n<source src=\"https://tracking.podiant.co/d/spoke/coffeeandicedtea/episodes/362617a0c9bc4a/primary/1524739908.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.\n</audio>\n\n<p>Links to subscribe and other fun stuff are <a href=\"http://coffeeandicedtea.com/podcast/e/362617a0c9bc4a/\">here</a>.</p>\n",
+			"date_published": "2018-04-20T09:41:30+04:00",
+			"url": "https://www.chirag.biz/2018/04/20/a-new-season.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/18/excited-to-see.html",
+	      	
+			"content_html": "<p>Excited to see our podcast @t3chtree as a friend of @TieDubai &amp; media partner for #TiEConDubai 2018. \n#entrepreneurship #dubai #podcast</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/985df2134d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-18T12:35:03+04:00",
+			"url": "https://www.chirag.biz/2018/04/18/excited-to-see.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/16/podcast-tchtree-grassroots.html",
+	      	
+			"title": "[Podcast] t3chtree 6: Grassroots innovation, mentorship & @TiEDubai Con 2018",
+			
+			"content_html": "<p>We’re talking grassroots innovation in our region, mentorship &amp; the TiECon 2018. We also have some invite codes to give away if you’re looking to attend the conference.</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/audio/362222e748b630.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.\n</audio>\n\n<p>Detailed show notes are available <a href=\"http://techtree.show/6\">here</a>.</p>\n",
+			"date_published": "2018-04-16T14:53:54+04:00",
+			"url": "https://www.chirag.biz/2018/04/16/podcast-tchtree-grassroots.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/11/what-twitter-was.html",
+	      	
+			"title": "What Twitter was, and what it is now",
+			
+			"content_html": "<p><a href=\"https://macgenie.micro.blog/2018/04/10/a-guide-to.html\">Jean MacDonald</a>:</p>\n<blockquote>\n  <p>I have several friends in “real life” who started as Twitter buddies. But over the years, Twitter has become something I don’t recognize anymore, a place where hate and intolerance and crass commercialism have found a welcoming home.</p>\n</blockquote>\n\n<p>As a side note, a nice insight into understanding micro.blog as a Twitter user—how they’re same in some ways, and how they’re different.</p>\n\n<p>Her Twitter experience though is not far away from mine; some of my closest friendships &amp; collaborations have their origins on the network, but … here we are now.</p>\n\n<p>Jean doesn’t get into this much but a long-standing problem with Twitter is how they’ve stifled third party development, <a href=\"https://blog.chirag.biz/goodbye-twimbow-33be1b392cce\">over</a>, <a href=\"https://blog.chirag.biz/more-twitter-api-restrictions-now-for-win8-b14d5ba783fa\">over</a> and <a href=\"http://apps-of-a-feather.com\">over</a> again. I mean, even a service like <a href=\"https://blog.chirag.biz/twitter-vs-linkedin-529c67a84ebc\">LinkedIn doesn’t—well, can’t—really integrate with Twitter</a>.</p>\n\n<p>The ‘philosophy’ of increasingly closing off the network to the outside world or the open Web at large has been seeping into other aspects of Twitter’s culture as an organization &amp; a platform. The last few real Twitter apps are now bending under this weight.</p>\n\n<p>Considering <a href=\"http://www.chirag.biz/2018/04/08/massaging-egos-facebook.html\">Facebook isn’t in a particularly great place currently</a> either, hello to an free-er, open-er Web. And hello, Micro.blog.</p>\n",
+			"date_published": "2018-04-11T14:59:50+04:00",
+			"url": "https://www.chirag.biz/2018/04/11/what-twitter-was.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/10/what-is-this.html",
+	      	
+			"content_html": "<blockquote>\n  <p>What is this life if, full of care,</p>\n\n  <p>We have no time to stand and stare.</p>\n</blockquote>\n\n<p>Someday, maybe. Not today. \n#2018</p>\n",
+			"date_published": "2018-04-10T08:02:16+04:00",
+			"url": "https://www.chirag.biz/2018/04/10/what-is-this.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/08/massaging-egos-facebook.html",
+	      	
+			"title": "Massaging egos #facebook",
+			
+			"content_html": "<p><a href=\"https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/\">Zeynep Tufekci, writing for WIRED</a>:</p>\n\n<blockquote>\n  <p>“It’s Time to Make Our Privacy Tools Easier to Find”, the company announced without a hint of irony—or any other kind of hint—that Zuckerberg had promised to do just that in the “coming few weeks” eight full years ago. On the company blog, Facebook’s chief privacy editor wrote that instead of being “spread across nearly 20 different screens” (why were they ever spread all over the place?), the controls would now finally be in one place.</p>\n</blockquote>\n\n<p>It’s a long read but a great piece that highlights the right things. Any other company would have lost trust years ago but Facebook continues to enjoy the advantage of the ‘gravity’ effect of having 2 billion users.</p>\n\n<p>My co-host Partha <a href=\"https://coffeeandicedtea.com/techtree/5\">made a super important point last week</a>:</p>\n\n<blockquote>\n  <p>These products have been made by the same people who lived with the same sort of theory that [our generation] grew up with […] they understand the importance of this privacy and they’ve been building on top of this to try and massage the egos of all the newer generations […] to try and make sure they’re comfortable about it.</p>\n</blockquote>\n\n<p>The more I think about this, the more spot-on this is. People who watched—ushered in, even—the social media era and understand the privacy implications could have gone about it in two ways: ensure that even those who do not understand this are protected, or help transition the vary ones into being more comfortable about sharing. Facebook has gone the latter way too often that it’s now part of its core, making it impossible to be anything else.</p>\n",
+			"date_published": "2018-04-08T14:18:55+04:00",
+			"url": "https://www.chirag.biz/2018/04/08/massaging-egos-facebook.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/07/always-weekend-birthday.html",
+	      	
+			"content_html": "<p>#always \n#weekend #birthday #whiskey</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/b4475e55f3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-07T23:22:06+04:00",
+			"url": "https://www.chirag.biz/2018/04/07/always-weekend-birthday.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/06/were-talking-privacy.html",
+	      	
+			"content_html": "<p>We’re talking #privacy &amp; @facebook on the latest episode of @t3chtree, do <a href=\"https://coffeeandicedtea.com/techtree/5\">check it out</a>! \n#podcast 🎧</p>\n",
+			"date_published": "2018-04-06T12:18:51+04:00",
+			"url": "https://www.chirag.biz/2018/04/06/were-talking-privacy.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/05/up-to-million.html",
+	      	
+			"title": "‘Up to 87 million’ #facebook",
+			
+			"content_html": "<p><a href=\"https://www.reuters.com/article/us-facebook-privacy/facebook-says-data-leak-hits-87-million-users-widening-privacy-scandal-idUSKCN1HB2CM\">David Ingram, writing for Reuters</a>:</p>\n\n<blockquote>\n  <p>Facebook Inc said on Wednesday the personal information of up to 87 million users, mostly in the United States, may have been improperly shared with political consultancy Cambridge Analytica, up from a previous news media estimate of more than 50 million.</p>\n</blockquote>\n\n<p>Yay.</p>\n",
+			"date_published": "2018-04-05T09:54:38+04:00",
+			"url": "https://www.chirag.biz/2018/04/05/up-to-million.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/04/privacy-ios-users.html",
+	      	
+			"content_html": "<p>#Privacy iOS users, Settings → Privacy is your friend. Review &amp; turn things off for apps that don’t need content they have access to. Turn on Advertising → Limit Ad Tracking, which stops providers from targeting ads to you (you can reset this ad ID if the setting was off).</p>\n",
+			"date_published": "2018-04-04T19:28:39+04:00",
+			"url": "https://www.chirag.biz/2018/04/04/privacy-ios-users.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/04/02/micro-monday-shoutout.html",
+	      	
+			"content_html": "<p>Micro Monday shoutout to <a href=\"https://micro.blog/Macgenie\">@Macgenie</a>, who’s also a great resource to get started on micro.blog. Plus really enjoying the <a href=\"https://micro.blog/monday\">@monday</a> microcast, do check it out with you haven’t.</p>\n",
+			"date_published": "2018-04-02T19:13:50+04:00",
+			"url": "https://www.chirag.biz/2018/04/02/micro-monday-shoutout.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/03/28/ep-on-the.html",
+	      	
+			"content_html": "<p>Ep # 4: On the latest episode of @t3chtree talking <a href=\"https://coffeeandicedtea.com/techtree/4\">Blackberry suing Facebook &amp; smartphones: OS’, batteries &amp; cameras</a>, with my recommendation for @halidecamera on iOS.</p>\n\n<audio style=\"width:100%\" controls=\"\">\n  <source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/audio/361af7fa349610.mp3\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.\n</audio>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/d284d1533e.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"date_published": "2018-03-28T10:26:01+04:00",
+			"url": "https://www.chirag.biz/2018/03/28/ep-on-the.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/03/28/foxconn-buys-belkin.html",
+	      	
+			"content_html": "<p><a href=\"https://techcrunch.com/2018/03/26/foxconn-buys-peripheral-maker-belkin-for-866m/\">Foxconn buys Belkin for $866m</a></p>\n",
+			"date_published": "2018-03-28T10:03:50+04:00",
+			"url": "https://www.chirag.biz/2018/03/28/foxconn-buys-belkin.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/03/26/facebook-everyones-doing.html",
+	      	
+			"title": "Facebook: ‘Everyone’s doing it’",
+			
+			"content_html": "<p><a href=\"https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones/\">Sean Gallagher, writing for Ars Technica</a>:</p>\n\n<blockquote>\n  <p>In response to an email inquiry by Ars about this data gathering, a Facebook spokesperson replied, “The most important part of apps and services that help you make connections is to make it easy to find the people you want to connect with. So, the first time you sign in on your phone to a messaging or social app, it’s a widely used practice to begin by uploading your phone contacts.”</p>\n</blockquote>\n\n<p>A widely used practice is something Facebook could have taken a stand on, eons ago, and led the industry, rather hiding under its cover.</p>\n\n<p>As much as the headlines about Facebook having a bad week will continue, it’s amazing how unchecked the whole system was:</p>\n\n<blockquote>\n  <p>If you granted permission to read contacts during Facebook’s installation on Android a few versions ago—specifically before Android 4.1 (Jelly Bean)—that permission also granted Facebook access to call and message logs by default. The permission structure was changed in the Android API in version 16. But Android applications could bypass this change if they were written to earlier versions of the API, so Facebook API could continue to gain access to call and SMS data by specifying an earlier Android SDK version. Google deprecated version 4.0 of the Android API in October 2017—the point at which the latest call metadata in Facebook users’ data was found.</p>\n</blockquote>\n\n<p>The issue with such far reaching applications and OS’ is that there aren’t—and are unlikely to be anytime soon—overarching regulations that can manage these issues. Even if the US or the EU has stringent privacy regulations that will allow them to penalize Facebook’s entities within their jurisdiction, that’s as far as they’d be able to go.</p>\n\n<p>Six months down the road, where will this situation be? Will Facebook brazen it out through via heres-another-setting-under-privacy-settings? That can be the only real indicator.</p>\n",
+			"date_published": "2018-03-26T11:53:36+04:00",
+			"url": "https://www.chirag.biz/2018/03/26/facebook-everyones-doing.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/03/17/yowza-india-alerts.html",
+	      	
+			"content_html": "<p>Yowza: <a href=\"http://www.ibtimes.co.in/india-alerts-40-countries-about-pedophiles-busted-whatsapp-child-porn-racket-763715\">India alerts 40 countries about pedophiles who were members of a whatsapp group that was busted in February</a> #CBI #India #Whatsapp</p>\n",
+			"date_published": "2018-03-17T10:07:47+04:00",
+			"url": "https://www.chirag.biz/2018/03/17/yowza-india-alerts.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/02/28/nanima.html",
+	      	
+			"title": "Nanima",
+			
+			"content_html": "<p>You were a phenomal woman who moved mountains for her children &amp; grandchildren. The way you’d share stories of your kids growing up … almost like a child skipping through a garden in excitement. I learnt this week that maybe I’ve inherited my eyes from you…\n<br />\nWhy don’t I hear your voice say “Who is it, is that you Chirag” as I walk past the door? Always checking to make sure I’d eaten. Something that hasn’t changed since 9th grade incidentally, when I spent 2 months living alone with you &amp; Nanaji. That time though, you just cooked for me the whole time and turned me into a nice little ball. Things I wanted to eat, and things I didn’t even think of. In many ways, I’m a product of those 2 months, as much as I am a product of your daugther’s hard work, something she entirely learnt from you.\n<br />\nYou fought hard I know, and I hope it is nothing but peaceful now. \n<br />\nThe last time I heard your voice … you insisted on speaking to me … it was tough to hear you sound like you were giving up. Today, with time, I can reflect on your powerful words … and your belief in me through them.<br />\n<br />\nTo your legacy.\n<br /><br />\nॐ शांति</p>\n\n<p><img src=\"http://chirag.micro.blog/uploads/2018/4636c3ce80.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-28T14:50:03+04:00",
+			"url": "https://www.chirag.biz/2018/02/28/nanima.html"
+		}
+		
+	]
+}
