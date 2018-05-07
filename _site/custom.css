@@ -1,0 +1,24 @@
+body {
+  font-family: -apple-system, sans-serif;
+  
+}
+
+#wrapper { max-width: 980px; }
+
+nav.main-nav a.cta {
+	background: #fff;
+	color: #d9534f;
+	border: 2px solid #fcdae9;
+}
+
+nav.main-nav a, #footer a, #post-nav a, p a{
+   color: cornflowerblue;
+  box-shadow: none;
+  font-weight: 200;
+}
+
+nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {
+	box-shadow: none;
+} 
+
+nav.main-nav a.cta { display: none; }
