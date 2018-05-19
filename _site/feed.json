@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/05/19/building-the-microdotblog.html",
+	      	
+			"title": "Building the @microdotblog ecosystem",
+			
+			"content_html": "<p><a href=\"http://www.manton.org/2018/05/twitter-streaming-api-and-micro-blog.html\">Manton Reece</a>:</p>\n\n<blockquote>\n  <p>I think a goal for us with Micro.blog should be that third-party developers get access to the same basic tools that we use to build our own apps. Rate-limits should be the same for an app like Icro as they are for the official Micro.blog app, for example.</p>\n</blockquote>\n\n<p>For the last few weeks, I’ve been thinking about blogging and content, and how the breakup of traditional ‘blogs’ have cost us, the netizens, a whole lot.</p>\n\n<p>The more time passes, the more I appreciate the philosophy that sits behind Micro.blog. Every decision won’t be perfect and/or popular, but it is good to see that the driving principles of it all are rooted in the <a href=\"http://www.indieweb.org\">right place</a>. Manton’s been extremely open and communicative about it, so I hope that part scales as this gets bigger. With <a href=\"http://www.chirag.biz/2018/05/16/steve-straza-the.html\">the way Twitter is handling third-party apps that built the platform</a>, the timing is perfect too.</p>\n\n<p>Oh, and:</p>\n\n<blockquote>\n  <p>(To be clear, we’d offer this for free. Our business is blog hosting.)</p>\n</blockquote>\n\n<p>I’m glad to see Micro.blog’s monetary stream is both clear upfront and doesn’t require surrendering user privacy.</p>\n\n",
+			"date_published": "2018-05-19T09:18:56+04:00",
+			"url": "https://www.chirag.biz/2018/05/19/building-the-microdotblog.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/05/16/steve-straza-the.html",
 	      	
 			"content_html": "<p><a href=\"https://twitter.com/stevestreza/status/996786235384516608?s=21\">Steve Straza</a>:</p>\n\n<blockquote>\n  <p>The pricing for Twitter’s new account activity API is ridiculous and doesn’t address how Twitter clients have used the streaming APIs until now. Streaming is effectively dead as of August.</p>\n</blockquote>\n\n<p><a href=\"http://www.chirag.biz/2018/04/11/what-twitter-was.html\">Predictable</a>, but still sad.</p>\n",
@@ -215,14 +225,6 @@
 			"content_html": "<p>Ep # 4: On the latest episode of @t3chtree talking <a href=\"https://coffeeandicedtea.com/techtree/4\">Blackberry suing Facebook &amp; smartphones: OS’, batteries &amp; cameras</a>, with my recommendation for @halidecamera on iOS.</p>\n\n<audio style=\"width:100%\" controls=\"\">\n  <source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/audio/361af7fa349610.mp3\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.\n</audio>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/d284d1533e.jpg\" width=\"600\" height=\"400\" /></p>\n",
 			"date_published": "2018-03-28T10:26:01+04:00",
 			"url": "https://www.chirag.biz/2018/03/28/ep-on-the.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/03/28/foxconn-buys-belkin.html",
-	      	
-			"content_html": "<p><a href=\"https://techcrunch.com/2018/03/26/foxconn-buys-peripheral-maker-belkin-for-866m/\">Foxconn buys Belkin for $866m</a></p>\n",
-			"date_published": "2018-03-28T10:03:50+04:00",
-			"url": "https://www.chirag.biz/2018/03/28/foxconn-buys-belkin.html"
 		}
 		
 	]
