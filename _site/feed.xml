@@ -4,8 +4,36 @@
     <title>Chirag Desai</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/Chirag&quot;&gt;@Chirag on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.chirag.biz/</link>
-    <pubDate>Wed, 16 May 2018 22:44:29 +0400</pubDate>
-    <lastBuildDate>Wed, 16 May 2018 22:44:29 +0400</lastBuildDate>
+    <pubDate>Sat, 19 May 2018 09:25:31 +0400</pubDate>
+    <lastBuildDate>Sat, 19 May 2018 09:25:31 +0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>Building the @microdotblog ecosystem</title>
+        
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.manton.org/2018/05/twitter-streaming-api-and-micro-blog.html&quot;&gt;Manton Reece&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I think a goal for us with Micro.blog should be that third-party developers get access to the same basic tools that we use to build our own apps. Rate-limits should be the same for an app like Icro as they are for the official Micro.blog app, for example.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For the last few weeks, I’ve been thinking about blogging and content, and how the breakup of traditional ‘blogs’ have cost us, the netizens, a whole lot.&lt;/p&gt;
+
+&lt;p&gt;The more time passes, the more I appreciate the philosophy that sits behind Micro.blog. Every decision won’t be perfect and/or popular, but it is good to see that the driving principles of it all are rooted in the &lt;a href=&quot;http://www.indieweb.org&quot;&gt;right place&lt;/a&gt;. Manton’s been extremely open and communicative about it, so I hope that part scales as this gets bigger. With &lt;a href=&quot;http://www.chirag.biz/2018/05/16/steve-straza-the.html&quot;&gt;the way Twitter is handling third-party apps that built the platform&lt;/a&gt;, the timing is perfect too.&lt;/p&gt;
+
+&lt;p&gt;Oh, and:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;(To be clear, we’d offer this for free. Our business is blog hosting.)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’m glad to see Micro.blog’s monetary stream is both clear upfront and doesn’t require surrendering user privacy.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 19 May 2018 09:18:56 +0400</pubDate>
+        <link>https://www.chirag.biz/2018/05/19/building-the-microdotblog.html</link>
+        <guid isPermaLink="true">http://chirag.micro.blog/2018/05/19/building-the-microdotblog.html</guid>
+      </item>
     
       <item>
       	
@@ -639,17 +667,6 @@ To your legacy.
         <pubDate>Sun, 26 Nov 2017 09:36:15 +0400</pubDate>
         <link>https://www.chirag.biz/2017/11/26/pomelo-citrus-iced.html</link>
         <guid isPermaLink="true">http://chirag.micro.blog/2017/11/26/pomelo-citrus-iced.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Smoke ‘em. #dubai #nightlife #whiskey #oldfashioned #cocktails #tgif #iphonephotography&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://chirag.micro.blog/uploads/2017/be7d81e385.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 23 Nov 2017 23:17:06 +0400</pubDate>
-        <link>https://www.chirag.biz/2017/11/23/smoke-em-dubai.html</link>
-        <guid isPermaLink="true">http://chirag.micro.blog/2017/11/23/smoke-em-dubai.html</guid>
       </item>
     
   </channel>
