@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building the @microdotblog ecosystem"
+title: "Building the Micro.blog ecosystem"
 microblog: false
 audio: 
 date: 2018-05-19 09:18:56 +0400
