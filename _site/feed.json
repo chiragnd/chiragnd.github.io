@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/05/20/tchtree-why-are.html",
+	      	
+			"title": "t3chtree #8: “Why are you doing my job?”  🎧",
+			
+			"content_html": "<p>We chat about Google I/O &amp; our reactions to the Duplex call. Plus a follow up to the #askt3chtree question on smartphone batteries.</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/363a7d3849d5ec/primary/1526567967.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\n</audio>\n\n<p>Full show notes &amp; links to subscribe are <a href=\"http://techtree.show/8\">here</a>.</p>\n",
+			"date_published": "2018-05-20T10:52:44+04:00",
+			"url": "https://www.chirag.biz/2018/05/20/tchtree-why-are.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/05/19/building-the-microdotblog.html",
 	      	
 			"title": "Building the Micro.blog ecosystem",
@@ -217,14 +227,6 @@
 			"content_html": "<p>Micro Monday shoutout to <a href=\"https://micro.blog/Macgenie\">@Macgenie</a>, who’s also a great resource to get started on micro.blog. Plus really enjoying the <a href=\"https://micro.blog/monday\">@monday</a> microcast, do check it out with you haven’t.</p>\n",
 			"date_published": "2018-04-02T19:13:50+04:00",
 			"url": "https://www.chirag.biz/2018/04/02/micro-monday-shoutout.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/03/28/ep-on-the.html",
-	      	
-			"content_html": "<p>Ep # 4: On the latest episode of @t3chtree talking <a href=\"https://coffeeandicedtea.com/techtree/4\">Blackberry suing Facebook &amp; smartphones: OS’, batteries &amp; cameras</a>, with my recommendation for @halidecamera on iOS.</p>\n\n<audio style=\"width:100%\" controls=\"\">\n  <source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/audio/361af7fa349610.mp3\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.\n</audio>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/d284d1533e.jpg\" width=\"600\" height=\"400\" /></p>\n",
-			"date_published": "2018-03-28T10:26:01+04:00",
-			"url": "https://www.chirag.biz/2018/03/28/ep-on-the.html"
 		}
 		
 	]
