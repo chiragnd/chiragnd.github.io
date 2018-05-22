@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/05/22/behind-deadpools-bluray.html",
+	      	
+			"title": "Behind Deadpool’s blu-ray takeover at Walmart",
+			
+			"content_html": "<p><a href=\"http://www.adweek.com/brand-marketing/heres-the-story-behind-deadpools-incredible-blu-ray-takeover-at-walmart/amp/\">Julia Howe, as interviewed by David Griner</a>:</p>\n\n<blockquote>\n  <p>We asked ourselves, if Deadpool wanted to self-promote himself at retail, how would he do it? The character is a treasure trove of pop culture references, so it just seemed like the logical solution.</p>\n</blockquote>\n\n<p>Was fun seeing the initial pictures flood social media over the last week. While it was obviously an agency-driven campaign, it was still refreshing to see something new, and simultaneously fearing quite a few copycats considering the success.</p>\n",
+			"date_published": "2018-05-22T09:10:58+04:00",
+			"url": "https://www.chirag.biz/2018/05/22/behind-deadpools-bluray.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/05/21/all-i-can.html",
 	      	
 			"content_html": "<p>All I can see is poison…\n#musings</p>\n",
@@ -219,14 +229,6 @@
 			"content_html": "<p><a href=\"https://www.reuters.com/article/us-facebook-privacy/facebook-says-data-leak-hits-87-million-users-widening-privacy-scandal-idUSKCN1HB2CM\">David Ingram, writing for Reuters</a>:</p>\n\n<blockquote>\n  <p>Facebook Inc said on Wednesday the personal information of up to 87 million users, mostly in the United States, may have been improperly shared with political consultancy Cambridge Analytica, up from a previous news media estimate of more than 50 million.</p>\n</blockquote>\n\n<p>Yay.</p>\n",
 			"date_published": "2018-04-05T09:54:38+04:00",
 			"url": "https://www.chirag.biz/2018/04/05/up-to-million.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/04/04/privacy-ios-users.html",
-	      	
-			"content_html": "<p>#Privacy iOS users, Settings → Privacy is your friend. Review &amp; turn things off for apps that don’t need content they have access to. Turn on Advertising → Limit Ad Tracking, which stops providers from targeting ads to you (you can reset this ad ID if the setting was off).</p>\n",
-			"date_published": "2018-04-04T19:28:39+04:00",
-			"url": "https://www.chirag.biz/2018/04/04/privacy-ios-users.html"
 		}
 		
 	]
