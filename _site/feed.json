@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/05/24/a-fantastic-listing.html",
+	      	
+			"content_html": "<p>A <a href=\"https://m.b.wiki.eli.li\">fantastic listing of resources</a> for Micro.blog users by <a href=\"https://micro.blog/eli\">@eli</a>.</p>\n\n<p>(Thanks <a href=\"https://micro.blog/manton\">@manton</a> for sharing)</p>\n",
+			"date_published": "2018-05-24T09:50:03+04:00",
+			"url": "https://www.chirag.biz/2018/05/24/a-fantastic-listing.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/05/22/behind-deadpools-bluray.html",
 	      	
 			"title": "Behind Deadpool’s blu-ray takeover at Walmart",
@@ -219,16 +227,6 @@
 			"content_html": "<p>We’re talking #privacy &amp; @facebook on the latest episode of @t3chtree, do <a href=\"https://coffeeandicedtea.com/techtree/5\">check it out</a>! \n#podcast 🎧</p>\n",
 			"date_published": "2018-04-06T12:18:51+04:00",
 			"url": "https://www.chirag.biz/2018/04/06/were-talking-privacy.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/04/05/up-to-million.html",
-	      	
-			"title": "‘Up to 87 million’ #facebook",
-			
-			"content_html": "<p><a href=\"https://www.reuters.com/article/us-facebook-privacy/facebook-says-data-leak-hits-87-million-users-widening-privacy-scandal-idUSKCN1HB2CM\">David Ingram, writing for Reuters</a>:</p>\n\n<blockquote>\n  <p>Facebook Inc said on Wednesday the personal information of up to 87 million users, mostly in the United States, may have been improperly shared with political consultancy Cambridge Analytica, up from a previous news media estimate of more than 50 million.</p>\n</blockquote>\n\n<p>Yay.</p>\n",
-			"date_published": "2018-04-05T09:54:38+04:00",
-			"url": "https://www.chirag.biz/2018/04/05/up-to-million.html"
 		}
 		
 	]
