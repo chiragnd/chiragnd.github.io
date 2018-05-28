@@ -1,0 +1,16 @@
+---
+layout: post
+title: "How to cure a cheesecake infatuation"
+microblog: false
+audio: 
+date: 2010-08-10 14:34:00 +0400
+guid: http://chirag.micro.blog/2010/08/10/how-to-cure.html
+---
+<figure><img alt="Img00234-20100808-1914" src="http://www.chirag.biz/uploads/2018/1e3b514fb1.jpg"></figure><figure><img alt="Img00237-20100808-1918" src="http://www.chirag.biz/uploads/2018/d9fa5292f6.jpg"></figure><figure><img alt="Img00238-20100808-1918" src="http://www.chirag.biz/uploads/2018/845ef01698.jpg"></figure><p>I have now taken my infatuation with the creation of the perfect cheesecake to the next level. Trying to figure out different ways to make the cheesecake set is an interesting if difficult feat. I trawl through cookbooks religiously on a regular basis, for a little light reading of course, as any aspiring cook would do.</p>
+<p>Though some would bake the humble cheesecake for the new york style, others put gelatine in to set the cream cheese. I have found the perfect alternative, inspired by the <a href="http://www.naihar.com/bite-sized-demonstration-strawberry-delights" target="_blank">bite sized demonstration</a>, using white chocolate in the cream cheese helps it to set firm. Whats more, it actually tastes of that creamy velvety chocolate and adds a new level of richness to the cheesecake, as opposed to the tasteless nature of gelatine or agar agar.</p>
+<p>Whatever the event, try this cheesecake on for size, you will not be disappointed. Different variations of the fruit coulis can be tailored to your own tastes, as per my previous <a href="http://www.naihar.com/mango-cheesecake-i-just-couldnt-resist-the-te" target="_blank">mango cheesecake</a>, but remember not to overdo the sugar content. A cheesecake should be sweet and I prefer the coulis a little tart to offset the balance of sweet cream cheese and crunchy nutty biscuits with sharp fresh fruit. Remember folks practice makes perfect, keep experimenting and find the balance that suits you, if mascarpone (which is amazing by the way) is too cheesy for you, stick to Philadelphia. If you would like a baked cheesecake, experiment with the recipe that uses eggs, but always follow these simple rules.</p>
+<p>1. Biscuits: usually a biscuit with a crunch, digestive biscuits, hobnobs, shortbread.</p>
+<p>2. Cream Cheese: Philadelphia, mascarpone, cottage cheese, low fat cream cheese is all fine.</p>
+<p>3. Toppings: I love berries on cheesecakes, and most recipes point you in this direction, but look at the fruit you have in your fruit bowl, I found a mango and tested out my hypotheses; largely being that cheesecakes are amazing with most fruits, as long as you consider the sharpness and sweetness of each fruit on its own and alter the sugar content of your cheesecake to match. Chocolate is also a great topping. Use your imagination.</p>
+<p>4. Have fun. There is no point of being in a kitchen if you are not going to have a little fun, a little drama when the utensils crash and the blenders hum, is what makes the cheesecake or any other dessert turn out beautiful.</p>
+<p>With regards to the title ‘How to cure a cheesecake infatutation’: if any of you ever figure this out, please do not contact me. I like to be blissfully unaware of the fat and calorie content of my cheesecakes, for what is a dessert if not a little indulgence every now and then.</p>
