@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/06/05/still-funny-on.html",
+	      	
+			"content_html": "<p>Still funny on a second watch: <a href=\"https://micro.blog/Apple\">@Apple</a>’s “<a href=\"https://www.youtube.com/watch?v=xp6UCQvKKzI\">The Developer Migration</a>” video.</p>\n\n<p>#WWDC18</p>\n",
+			"date_published": "2018-06-05T09:40:36+04:00",
+			"url": "https://www.chirag.biz/2018/06/05/still-funny-on.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/06/04/workflow-wwdcalso-looks.html",
+	      	
+			"content_html": "<p>Workflow 2.0 :) #WWDC\nAlso looks like we have a new notification design?</p>\n",
+			"date_published": "2018-06-04T21:37:26+04:00",
+			"url": "https://www.chirag.biz/2018/06/04/workflow-wwdcalso-looks.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/06/04/hair-force-one.html",
+	      	
+			"content_html": "<p>Hair force one is the reason we watch the WWDC keynote :)</p>\n",
+			"date_published": "2018-06-04T21:12:07+04:00",
+			"url": "https://www.chirag.biz/2018/06/04/hair-force-one.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/06/04/great-opening-video.html",
+	      	
+			"content_html": "<p>Great opening video at WWDC 2018. A genuine laugh after over a week.</p>\n",
+			"date_published": "2018-06-04T21:08:00+04:00",
+			"url": "https://www.chirag.biz/2018/06/04/great-opening-video.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/05/30/took-about-minutes.html",
 	      	
 			"content_html": "<p>Took about 30 minutes to submit my first VAT return &amp; set up a bank transfer to the UAE <a href=\"https://www.tax.gov.ae/index.aspx\">Federal Tax Authority</a>. Payment was acknowledged later the same day.<br />\n#smooth</p>\n",
@@ -191,42 +223,6 @@
 			"content_html": "<p>We’re talking grassroots innovation in our region, mentorship &amp; the TiECon 2018. We also have some invite codes to give away if you’re looking to attend the conference.</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/audio/362222e748b630.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.\n</audio>\n\n<p>Detailed show notes are available <a href=\"http://techtree.show/6\">here</a>.</p>\n",
 			"date_published": "2018-04-16T14:53:54+04:00",
 			"url": "https://www.chirag.biz/2018/04/16/podcast-tchtree-grassroots.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/04/11/what-twitter-was.html",
-	      	
-			"title": "What Twitter was, and what it is now",
-			
-			"content_html": "<p><a href=\"https://macgenie.micro.blog/2018/04/10/a-guide-to.html\">Jean MacDonald</a>:</p>\n<blockquote>\n  <p>I have several friends in “real life” who started as Twitter buddies. But over the years, Twitter has become something I don’t recognize anymore, a place where hate and intolerance and crass commercialism have found a welcoming home.</p>\n</blockquote>\n\n<p>As a side note, a nice insight into understanding micro.blog as a Twitter user—how they’re same in some ways, and how they’re different.</p>\n\n<p>Her Twitter experience though is not far away from mine; some of my closest friendships &amp; collaborations have their origins on the network, but … here we are now.</p>\n\n<p>Jean doesn’t get into this much but a long-standing problem with Twitter is how they’ve stifled third party development, <a href=\"https://blog.chirag.biz/goodbye-twimbow-33be1b392cce\">over</a>, <a href=\"https://blog.chirag.biz/more-twitter-api-restrictions-now-for-win8-b14d5ba783fa\">over</a> and <a href=\"http://apps-of-a-feather.com\">over</a> again. I mean, even a service like <a href=\"https://blog.chirag.biz/twitter-vs-linkedin-529c67a84ebc\">LinkedIn doesn’t—well, can’t—really integrate with Twitter</a>.</p>\n\n<p>The ‘philosophy’ of increasingly closing off the network to the outside world or the open Web at large has been seeping into other aspects of Twitter’s culture as an organization &amp; a platform. The last few real Twitter apps are now bending under this weight.</p>\n\n<p>Considering <a href=\"http://www.chirag.biz/2018/04/08/massaging-egos-facebook.html\">Facebook isn’t in a particularly great place currently</a> either, hello to an free-er, open-er Web. And hello, Micro.blog.</p>\n",
-			"date_published": "2018-04-11T14:59:50+04:00",
-			"url": "https://www.chirag.biz/2018/04/11/what-twitter-was.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/04/10/what-is-this.html",
-	      	
-			"content_html": "<blockquote>\n  <p>What is this life if, full of care,</p>\n\n  <p>We have no time to stand and stare.</p>\n</blockquote>\n\n<p>Someday, maybe. Not today. \n#2018</p>\n",
-			"date_published": "2018-04-10T08:02:16+04:00",
-			"url": "https://www.chirag.biz/2018/04/10/what-is-this.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/04/08/massaging-egos-facebook.html",
-	      	
-			"title": "Massaging egos #facebook",
-			
-			"content_html": "<p><a href=\"https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/\">Zeynep Tufekci, writing for WIRED</a>:</p>\n\n<blockquote>\n  <p>“It’s Time to Make Our Privacy Tools Easier to Find”, the company announced without a hint of irony—or any other kind of hint—that Zuckerberg had promised to do just that in the “coming few weeks” eight full years ago. On the company blog, Facebook’s chief privacy editor wrote that instead of being “spread across nearly 20 different screens” (why were they ever spread all over the place?), the controls would now finally be in one place.</p>\n</blockquote>\n\n<p>It’s a long read but a great piece that highlights the right things. Any other company would have lost trust years ago but Facebook continues to enjoy the advantage of the ‘gravity’ effect of having 2 billion users.</p>\n\n<p>My co-host Partha <a href=\"https://coffeeandicedtea.com/techtree/5\">made a super important point last week</a>:</p>\n\n<blockquote>\n  <p>These products have been made by the same people who lived with the same sort of theory that [our generation] grew up with […] they understand the importance of this privacy and they’ve been building on top of this to try and massage the egos of all the newer generations […] to try and make sure they’re comfortable about it.</p>\n</blockquote>\n\n<p>The more I think about this, the more spot-on this is. People who watched—ushered in, even—the social media era and understand the privacy implications could have gone about it in two ways: ensure that even those who do not understand this are protected, or help transition the vary ones into being more comfortable about sharing. Facebook has gone the latter way too often that it’s now part of its core, making it impossible to be anything else.</p>\n",
-			"date_published": "2018-04-08T14:18:55+04:00",
-			"url": "https://www.chirag.biz/2018/04/08/massaging-egos-facebook.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/04/07/always-weekend-birthday.html",
-	      	
-			"content_html": "<p>#always \n#weekend #birthday #whiskey</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/b4475e55f3.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-07T23:22:06+04:00",
-			"url": "https://www.chirag.biz/2018/04/07/always-weekend-birthday.html"
 		}
 		
 	]
