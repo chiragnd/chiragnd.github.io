@@ -6,9 +6,17 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/06/06/ryan-christoffel-one.html",
+	      	
+			"content_html": "<p><a href=\"https://twitter.com/iryantldr/status/1003842906782863362?s=21\">Ryan Christoffel</a>:</p>\n\n<blockquote>\n  <p>One more thing in iOS 12: Apple Podcasts now supports MP3 chapters, which can be skipped using Siri. 🙌</p>\n</blockquote>\n\n<p>Yay. Also nice it will already work with previous episodes :)</p>\n",
+			"date_published": "2018-06-06T12:51:14+04:00",
+			"url": "https://www.chirag.biz/2018/06/06/ryan-christoffel-one.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/06/05/still-funny-on.html",
 	      	
-			"content_html": "<p>Still funny on a second watch: <a href=\"https://micro.blog/Apple\">@Apple</a>’s “<a href=\"https://www.youtube.com/watch?v=xp6UCQvKKzI\">The Developer Migration</a>” video.</p>\n\n<p>#WWDC18</p>\n",
+			"content_html": "<p>Still funny on a second watch: Apple’s “<a href=\"https://www.youtube.com/watch?v=xp6UCQvKKzI\">The Developer Migration</a>” video.</p>\n\n<p>#WWDC18</p>\n",
 			"date_published": "2018-06-05T09:40:36+04:00",
 			"url": "https://www.chirag.biz/2018/06/05/still-funny-on.html"
 		},
@@ -213,16 +221,6 @@
 			"content_html": "<p>Excited to see our podcast @t3chtree as a friend of @TieDubai &amp; media partner for #TiEConDubai 2018. \n#entrepreneurship #dubai #podcast</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/985df2134d.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-18T12:35:03+04:00",
 			"url": "https://www.chirag.biz/2018/04/18/excited-to-see.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/04/16/podcast-tchtree-grassroots.html",
-	      	
-			"title": "[Podcast] t3chtree 6: Grassroots innovation, mentorship & @TiEDubai Con 2018",
-			
-			"content_html": "<p>We’re talking grassroots innovation in our region, mentorship &amp; the TiECon 2018. We also have some invite codes to give away if you’re looking to attend the conference.</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/audio/362222e748b630.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.\n</audio>\n\n<p>Detailed show notes are available <a href=\"http://techtree.show/6\">here</a>.</p>\n",
-			"date_published": "2018-04-16T14:53:54+04:00",
-			"url": "https://www.chirag.biz/2018/04/16/podcast-tchtree-grassroots.html"
 		}
 		
 	]
