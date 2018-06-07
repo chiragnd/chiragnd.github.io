@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/06/07/im-really-glad.html",
+	      	
+			"content_html": "<p>I’m really glad I chanced upon this WWDC design session live. A must watch on the qualities of great design, which was really well documented &amp; presented by <a href=\"https://twitter.com/laurenstrehlow\">Lauren Strehlow</a>:</p>\n\n<p><a href=\"https://developer.apple.com/videos/play/wwdc2018/801/\">The Qualities of Great Design</a></p>\n",
+			"date_published": "2018-06-07T13:09:03+04:00",
+			"url": "https://www.chirag.biz/2018/06/07/im-really-glad.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/06/06/ryan-christoffel-one.html",
 	      	
 			"content_html": "<p><a href=\"https://twitter.com/iryantldr/status/1003842906782863362?s=21\">Ryan Christoffel</a>:</p>\n\n<blockquote>\n  <p>One more thing in iOS 12: Apple Podcasts now supports MP3 chapters, which can be skipped using Siri. 🙌</p>\n</blockquote>\n\n<p>Yay. Also nice it will already work with previous episodes :)</p>\n",
@@ -213,14 +221,6 @@
 			"content_html": "<audio style=\"width:100%\" controls=\"\">\n<source src=\"https://tracking.podiant.co/d/spoke/coffeeandicedtea/episodes/362617a0c9bc4a/primary/1524739908.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.\n</audio>\n\n<p>Links to subscribe and other fun stuff are <a href=\"http://coffeeandicedtea.com/podcast/e/362617a0c9bc4a/\">here</a>.</p>\n",
 			"date_published": "2018-04-20T09:41:30+04:00",
 			"url": "https://www.chirag.biz/2018/04/20/a-new-season.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/04/18/excited-to-see.html",
-	      	
-			"content_html": "<p>Excited to see our podcast @t3chtree as a friend of @TieDubai &amp; media partner for #TiEConDubai 2018. \n#entrepreneurship #dubai #podcast</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/985df2134d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-18T12:35:03+04:00",
-			"url": "https://www.chirag.biz/2018/04/18/excited-to-see.html"
 		}
 		
 	]
