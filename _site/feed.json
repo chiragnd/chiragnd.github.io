@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/06/08/had-tons-of.html",
+	      	
+			"content_html": "<p>Had tons of fun reminiscing about tech we grew up with on our latest t3chtree episode:</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/364a51aefc4d5e/primary/1528355361.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\n</audio>\n\n<p>🎧</p>\n",
+			"date_published": "2018-06-08T21:56:16+04:00",
+			"url": "https://www.chirag.biz/2018/06/08/had-tons-of.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/06/07/im-really-glad.html",
 	      	
 			"content_html": "<p>I’m really glad I chanced upon this WWDC design session live. A must watch on the qualities of great design, which was really well documented &amp; presented by <a href=\"https://twitter.com/laurenstrehlow\">Lauren Strehlow</a>:</p>\n\n<p><a href=\"https://developer.apple.com/videos/play/wwdc2018/801/\">The Qualities of Great Design</a></p>\n",
@@ -211,16 +219,6 @@
 			"content_html": "<p>The start of a new season of the ‘Coffee &amp; Iced Tea’ podcast, where I speak to the sisters behind <a href=\"http://fryingpanadventures.com\">Frying Pan Adventures</a>, Dubai’s first tour company &amp; how they got started.</p>\n\n<iframe class=\"player responsive-iframe\" src=\"//coffeeandicedtea.podiant.co/e/361e34c1412252/embed/\" height=\"150\" width=\"100%\" frameborder=\"0\"></iframe>\n\n<p>Detailed show notes are available <a href=\"http://pod.coffeeandicedtea.com/FryingPanAdventures\">here</a>.</p>\n",
 			"date_published": "2018-04-22T15:04:02+04:00",
 			"url": "https://www.chirag.biz/2018/04/22/the-story-behind.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/04/20/a-new-season.html",
-	      	
-			"title": "A new season of Coffee & Iced Tea begins April 22!",
-			
-			"content_html": "<audio style=\"width:100%\" controls=\"\">\n<source src=\"https://tracking.podiant.co/d/spoke/coffeeandicedtea/episodes/362617a0c9bc4a/primary/1524739908.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.\n</audio>\n\n<p>Links to subscribe and other fun stuff are <a href=\"http://coffeeandicedtea.com/podcast/e/362617a0c9bc4a/\">here</a>.</p>\n",
-			"date_published": "2018-04-20T09:41:30+04:00",
-			"url": "https://www.chirag.biz/2018/04/20/a-new-season.html"
 		}
 		
 	]
