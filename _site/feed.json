@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/06/12/so-far-unable.html",
+	      	
+			"content_html": "<p>So far, unable to tell whether the current rumblings in (every aspect of my) life are a precursor to big breakthroughs or calm before an extremely unneeded storm.</p>\n",
+			"date_published": "2018-06-12T17:05:55+04:00",
+			"url": "https://www.chirag.biz/2018/06/12/so-far-unable.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/06/08/had-tons-of.html",
 	      	
 			"content_html": "<p>Had tons of fun reminiscing about tech we grew up with on our latest <a href=\"http://techtree.show/9\">t3chtree episode</a>:</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/364a51aefc4d5e/primary/1528355361.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\n</audio>\n\n<p>🎧</p>\n",
@@ -209,16 +217,6 @@
 			"content_html": "<p>“Maybe together we can get somewhere”</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=SCZepEhIqHw\">When life forces you to replace your car tyres, and you’re just sitting there waiting</a>, courtesy @gayamusic.\n#music #cover</p>\n",
 			"date_published": "2018-04-24T12:49:54+04:00",
 			"url": "https://www.chirag.biz/2018/04/24/maybe-together-we.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/04/22/the-story-behind.html",
-	      	
-			"title": "The story behind @FryingPanAdventures 🎧 ",
-			
-			"content_html": "<p>The start of a new season of the ‘Coffee &amp; Iced Tea’ podcast, where I speak to the sisters behind <a href=\"http://fryingpanadventures.com\">Frying Pan Adventures</a>, Dubai’s first tour company &amp; how they got started.</p>\n\n<iframe class=\"player responsive-iframe\" src=\"//coffeeandicedtea.podiant.co/e/361e34c1412252/embed/\" height=\"150\" width=\"100%\" frameborder=\"0\"></iframe>\n\n<p>Detailed show notes are available <a href=\"http://pod.coffeeandicedtea.com/FryingPanAdventures\">here</a>.</p>\n",
-			"date_published": "2018-04-22T15:04:02+04:00",
-			"url": "https://www.chirag.biz/2018/04/22/the-story-behind.html"
 		}
 		
 	]
