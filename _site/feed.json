@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/06/27/production-of-madeinindia.html",
+	      	
+			"title": "Production of made-in-India 6s iPhones begins",
+			
+			"content_html": "<p><a href=\"http://economictimes.indiatimes.com/articleshow/64741606.cms\">Writankar Mukherjee, reporting for The Economic Times</a>:</p>\n\n<blockquote>\n  <p>Apple has started commercial production of the iPhone 6s in India since last week at the Bengaluru facility of its Taiwan-based contract manufacturer Wistron that has set up a new line for the handsets, two senior industry executives said.</p>\n</blockquote>\n\n<p>[ … ]</p>\n\n<blockquote>\n  <p>The Cupertino-based maker of iPhones and Mac computers already makes iPhone SE since last May at the Wistron facility, which will now produce two iPhone models locally.</p>\n</blockquote>\n",
+			"date_published": "2018-06-27T09:49:10+04:00",
+			"url": "https://www.chirag.biz/2018/06/27/production-of-madeinindia.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/06/26/192611.html",
+	      	
+			"content_html": "<p><a href=\"http://www.chirag.biz/uploads/2018/c97a913a2e.jpg\"><img src=\"http://www.chirag.biz/uploads/2018/c97a913a2e.jpg\" width=\"277\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>😬</p>\n\n",
+			"date_published": "2018-06-26T23:26:11+04:00",
+			"url": "https://www.chirag.biz/2018/06/26/192611.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/06/12/so-far-unable.html",
 	      	
 			"content_html": "<p>So far, unable to tell whether the current rumblings in (every aspect of my) life are a precursor to big breakthroughs or calm before an extremely unneeded storm.</p>\n",
@@ -199,24 +217,6 @@
 			"content_html": "<p>It’s been ages since anyone tried to redesign or uplift the usual Twitter experience (<a href=\"http://www.chirag.biz/2018/04/11/what-twitter-was.html\">little surprise there</a>). <a href=\"https://www.flutterios.com\">Flitter</a> reminds me of @Twittelator Neue in a way, something very clean about it.\n<a href=\"https://vimeo.com/266730374\">vimeo.com/266730374</a></p>\n",
 			"date_published": "2018-04-30T15:54:35+04:00",
 			"url": "https://www.chirag.biz/2018/04/30/its-been-ages.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/04/29/electricity-reached-all.html",
-	      	
-			"title": "Electricity reached all Indian villages on Saturday",
-			
-			"content_html": "<p><a href=\"https://www.livemint.com/Industry/ORuZWrj6czTef21a2dIHGK/Electricity-reached-all-Indian-villages-on-Saturday.html\">Utpal Bhaskar, reporting for LiveMint</a>:</p>\n\n<blockquote>\n  <p>All Indian villages now have access to electricity. The last village to be brought on the national power grid was Leisang village in the Senapati district of Manipur at 5.30pm on Saturday.</p>\n</blockquote>\n\n<p><em>Finally</em>.</p>\n",
-			"date_published": "2018-04-29T10:28:25+04:00",
-			"url": "https://www.chirag.biz/2018/04/29/electricity-reached-all.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/04/24/maybe-together-we.html",
-	      	
-			"content_html": "<p>“Maybe together we can get somewhere”</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=SCZepEhIqHw\">When life forces you to replace your car tyres, and you’re just sitting there waiting</a>, courtesy @gayamusic.\n#music #cover</p>\n",
-			"date_published": "2018-04-24T12:49:54+04:00",
-			"url": "https://www.chirag.biz/2018/04/24/maybe-together-we.html"
 		}
 		
 	]
