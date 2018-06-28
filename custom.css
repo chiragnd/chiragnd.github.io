@@ -1,9 +1,14 @@
+@import url('//fonts.googleapis.com/css?family=Quicksand');
+
 body {
-  font-family: -apple-system, sans-serif;
-  
+  font-family: 'Quicksand', -apple-system, sans-serif;  
 }
 
 #wrapper { max-width: 980px; }
+
+img {
+ height: auto; max-width: 300px;
+ }
 
 nav.main-nav a.cta {
 	background: #fff;
