@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/07/02/no-brainer-micro.html",
+	      	
+			"content_html": "<p>No brainer Micro Monday shoutout to <a href=\"https://micro.blog/rosemaryorchard\">@rosemaryorchard</a>! Among the most helpful people I’ve seen online aaaand now host of Automaters with the cool David Sparks covering automation on Apple platforms. Looking forward to episode 1.</p>\n",
+			"date_published": "2018-07-02T21:32:30+04:00",
+			"url": "https://www.chirag.biz/2018/07/02/no-brainer-micro.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/06/27/production-of-madeinindia.html",
 	      	
 			"title": "Production of made-in-India 6s iPhones begins",
@@ -209,14 +217,6 @@
 			"content_html": "<p>Picked up my @instagram archive, will look into importing it to the current blog hopefully. Not planning to quit the platform just yet but glad I have a copy. If you didn’t know, you can pick it up <a href=\"https://instagram.com/download/request\">here</a>.</p>\n",
 			"date_published": "2018-05-03T10:14:56+04:00",
 			"url": "https://www.chirag.biz/2018/05/03/picked-up-my.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/04/30/its-been-ages.html",
-	      	
-			"content_html": "<p>It’s been ages since anyone tried to redesign or uplift the usual Twitter experience (<a href=\"http://www.chirag.biz/2018/04/11/what-twitter-was.html\">little surprise there</a>). <a href=\"https://www.flutterios.com\">Flitter</a> reminds me of @Twittelator Neue in a way, something very clean about it.\n<a href=\"https://vimeo.com/266730374\">vimeo.com/266730374</a></p>\n",
-			"date_published": "2018-04-30T15:54:35+04:00",
-			"url": "https://www.chirag.biz/2018/04/30/its-been-ages.html"
 		}
 		
 	]
