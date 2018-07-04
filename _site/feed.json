@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/07/03/im-delighted-to.html",
+	      	
+			"content_html": "<p>I’m delighted to share that the awesome <a href=\"http://www.gayamusic.com\">Gaya</a> joins the <a href=\"https://micro.blog/Amaeya\">@Amaeya</a> network as producer for its flagship podcast. She’s put together a <a href=\"https://www.youtube.com/embed/zXKAW9tiVUc\">Vlog on how it’s coming together so far</a>.</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zXKAW9tiVUc\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>\n\n<p>🎙️</p>\n",
+			"date_published": "2018-07-03T12:48:08+04:00",
+			"url": "https://www.chirag.biz/2018/07/03/im-delighted-to.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/07/02/no-brainer-micro.html",
 	      	
 			"content_html": "<p>No brainer Micro Monday shoutout to <a href=\"https://micro.blog/rosemaryorchard\">@rosemaryorchard</a>! Among the most helpful people I’ve seen online aaaand now host of Automaters with the cool David Sparks covering automation on Apple platforms. Looking forward to episode 1.</p>\n",
@@ -209,14 +217,6 @@
 			"content_html": "<p>Was told today I look like I’m 28. Either I’m doing something right or this person is doing something wrong, but regardless, a happy Saturday :)</p>\n",
 			"date_published": "2018-05-05T20:39:25+04:00",
 			"url": "https://www.chirag.biz/2018/05/05/was-told-today.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/05/03/picked-up-my.html",
-	      	
-			"content_html": "<p>Picked up my @instagram archive, will look into importing it to the current blog hopefully. Not planning to quit the platform just yet but glad I have a copy. If you didn’t know, you can pick it up <a href=\"https://instagram.com/download/request\">here</a>.</p>\n",
-			"date_published": "2018-05-03T10:14:56+04:00",
-			"url": "https://www.chirag.biz/2018/05/03/picked-up-my.html"
 		}
 		
 	]
