@@ -1,7 +1,7 @@
 ---
 title: "AMAEYA.FM"
 permalink: "/amaeyafm/"
-layout: page
+layout: null
 order: 3
 date: 2018-07-03 12:49:27 +0400
 ---
