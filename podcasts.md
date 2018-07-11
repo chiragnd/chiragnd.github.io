@@ -3,14 +3,15 @@ title: "Podcasts"
 permalink: "/podcasts/"
 layout: page
 order: 1
-date: 2018-04-23 16:33:12 +0400
+date: 2018-07-11 12:01:24 +0400
 ---
 A list of shows I either feature on, or produce:
 
-* Coffee & Iced Tea Network
-	* [Coffee & Iced Tea](http://coffeeandicedtea.com/podcast)
-	* [The Two Vegans](https://coffeeandicedtea.com/twovegans/)
-	* [t3chtree](https://coffeeandicedtea.com/techtree/)
+* AMAEYA.FM Network
+	* [Tales of the Trade](https://talesofthe.trade)
+	* [The Two Vegans](https://amaeya.fm/twovegans/)
+	* [t3chtree](https://amaeya.fm/techtree/)
+    * [DeCluttr Me](https://amaeya.fm/decluttrme/)
 
 
 * Ek Drishti Network
