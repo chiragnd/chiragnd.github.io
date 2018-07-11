@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/07/11/samsung-opens-worlds.html",
+	      	
+			"title": "Samsung opens world’s largest mobile phone factory in India",
+			
+			"content_html": "<p><a href=\"https://thenextweb.com/asia/2018/07/10/samsung-opens-worlds-largest-mobile-phone-factory-in-india/\">VISHWAM SANKARAN, writing for The Next Web</a>:</p>\n<blockquote>\n  <p>The new plant – located in the industrial city of Noida – will help Samsung gradually double its current annual production capacity in India from 67 million phones to 120 million in the next three years. The factory is also expected to provide at least 1,000 more local jobs.</p>\n</blockquote>\n\n<p>This comes not long after news earlier this year that <a href=\"http://www.chirag.biz/2018/06/27/production-of-madeinindia.html\">Apple is ramping up production of iPhones</a>, <a href=\"https://www.androidcentral.com/xiaomi-setting-three-new-smartphone-factories-india-meet-demand\">Xiaomi plans to add 3 factories</a> &amp; <a href=\"https://economictimes.indiatimes.com/tech/hardware/oppo-gets-green-nod-to-set-up-manufacturing-unit-in-noida/articleshow/62006240.cms\">Oppo will be setting up a $320m manufacturing facility</a>. India’s smartphone market grew 14% last year with 127 million units shipped.</p>\n",
+			"date_published": "2018-07-11T09:53:20+04:00",
+			"url": "https://www.chirag.biz/2018/07/11/samsung-opens-worlds.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/07/03/im-delighted-to.html",
 	      	
 			"content_html": "<p>I’m delighted to share that the awesome <a href=\"http://www.gayamusic.com\">Gaya</a> joins the <a href=\"https://micro.blog/Amaeya\">@Amaeya</a> network as producer for its flagship podcast. She’s put together a <a href=\"https://www.youtube.com/embed/zXKAW9tiVUc\">Vlog on how it’s coming together so far</a>.</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zXKAW9tiVUc\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>\n\n<p>More details <a href=\"https://amaeya.fm/talesofthetrade/b/365b718e646332/\">here</a>.</p>\n\n<p>🎙️</p>\n",
@@ -209,14 +219,6 @@
 			"content_html": "<p>We chat about ride-sharing platform Careem’s security breach notification &amp; some password management tips. Plus, my first @microdotblog outro :)</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/362f771c37e1c2/primary/1525361728.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.\n</audio>\n\n<p>Detailed show notes are available <a href=\"http://techtree.show/7\">here</a>.</p>\n",
 			"date_published": "2018-05-06T10:18:03+04:00",
 			"url": "https://www.chirag.biz/2018/05/06/tchtree-httptechtreeshow-we.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/05/05/was-told-today.html",
-	      	
-			"content_html": "<p>Was told today I look like I’m 28. Either I’m doing something right or this person is doing something wrong, but regardless, a happy Saturday :)</p>\n",
-			"date_published": "2018-05-05T20:39:25+04:00",
-			"url": "https://www.chirag.biz/2018/05/05/was-told-today.html"
 		}
 		
 	]
