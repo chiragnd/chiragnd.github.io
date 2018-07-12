@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/07/12/manton-reece-ive.html",
+	      	
+			"content_html": "<p><a href=\"https://www.manton.org/2018/07/12/following-users-ui.html\">Manton Reece</a>:</p>\n\n<blockquote>\n  <p>I’ve now tried to reduce this feature to its simplest form that solves the problem of finding new users […] I’ve reverted the change from earlier this week and replaced it with a list of who someone is following that you aren’t following already.</p>\n</blockquote>\n\n<p>Aces.</p>\n",
+			"date_published": "2018-07-12T19:29:01+04:00",
+			"url": "https://www.chirag.biz/2018/07/12/manton-reece-ive.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/07/12/social-media-actually.html",
 	      	
 			"title": "Social media & actually owning what you publish",
@@ -209,16 +217,6 @@
 			"content_html": "<p>Micro Monday shoutout to <a href=\"https://micro.blog/hartlco\">@hartlco</a>, not just a community member but also actively growing the ecosystem with Icro. Excited that the app is now approved!</p>\n",
 			"date_published": "2018-05-07T10:14:11+04:00",
 			"url": "https://www.chirag.biz/2018/05/07/061411.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/05/06/bans-on-skype.html",
-	      	
-			"title": "Bans on Skype & FaceTime could be lifted in the UAE",
-			
-			"content_html": "<p><a href=\"https://www.cnbc.com/2018/05/02/microsoft-and-apple-could-get-skype-and-facetime-bans-lifted-in-uae.html?__source=chirag.biz\">Natasha Turak, reporting for CNBC</a></p>\n\n<blockquote>\n  <p>UAE Telecommunications Regulatory Authority (TRA) Director General Hamad Obaid Al Mansouri confirmed the talks this week, according to local news reports, citing Microsoft and Apple’s growing investment plans in the UAE and the desire to forge closer relationships with tech companies as primary reasons.</p>\n</blockquote>\n\n<p>Let’s hope.</p>\n",
-			"date_published": "2018-05-06T10:56:51+04:00",
-			"url": "https://www.chirag.biz/2018/05/06/bans-on-skype.html"
 		}
 		
 	]
