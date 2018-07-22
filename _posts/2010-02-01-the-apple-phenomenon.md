@@ -3,7 +3,7 @@ layout: post
 title: "The Apple phenomenon"
 microblog: false
 audio: 
-date: 2010-02-02 00:00:00 +0400
+date: 2010-02-01 07:00:00 +0400
 guid: http://chirag.micro.blog/2010/02/01/the-apple-phenomenon.html
 ---
 <p><em>Originally posted at the Shufflegazine Blog (no longer exists)</em></p>
