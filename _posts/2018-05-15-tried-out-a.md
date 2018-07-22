@@ -3,7 +3,7 @@ layout: post
 title: "The story behind Wildpeeta  🎧"
 microblog: false
 audio: 
-date: 2018-05-15 20:27:57 +0400
+date: 2018-05-15 04:27:57 +0400
 guid: http://chirag.micro.blog/2018/05/15/tried-out-a.html
 ---
 I attempted a storytelling format on my latest episode on the [Wildpeeta](https:/twitter.com/wildpeeta) brothers & their journey from startup to shut down, and how the lessons they learnt have led to them coming back in partnership with [Freedom Pizza](https://freedompizza.ae).
