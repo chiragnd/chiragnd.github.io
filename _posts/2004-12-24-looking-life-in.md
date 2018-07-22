@@ -3,7 +3,7 @@ layout: post
 title: "Looking life in the eye…"
 microblog: false
 audio: 
-date: 2004-12-24 06:55:00 +0400
+date: 2004-12-23 13:55:00 +0400
 guid: http://chirag.micro.blog/2004/12/24/looking-life-in.html
 ---
 <p><em>When the going gets tough, the tough get going.</em></p>
