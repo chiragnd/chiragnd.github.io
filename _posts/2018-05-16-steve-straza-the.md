@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-16 22:44:22 +0400
+date: 2018-05-16 06:44:22 +0400
 guid: http://chirag.micro.blog/2018/05/16/steve-straza-the.html
 ---
 [Steve Straza](https://twitter.com/stevestreza/status/996786235384516608?s=21):
