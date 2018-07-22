@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-02 22:37:53 +0400
+date: 2017-12-02 05:37:53 +0400
 guid: http://chirag.micro.blog/2017/12/02/galgota-flowers-blackandwhite.html
 ---
 Galgota. #flowers #blackandwhite #iphonography #marigold #decor #wedding
