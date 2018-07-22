@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/07/22/good-coffee-fuelsgreat.html",
+	      	
+			"content_html": "<p>Good coffee fuels.\nGreat coffee creates.\nWhat are you guys creating currently?\n#coffee #chemex</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/a00e6016bc.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-22T07:41:13+04:00",
+			"url": "https://www.chirag.biz/2018/07/22/good-coffee-fuelsgreat.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/07/21/indian-hands-turning.html",
 	      	
 			"title": "Indian hands turning wheels of global auto companies",
@@ -163,8 +171,8 @@
 			"id": "http://chirag.micro.blog/2018/05/24/a-fantastic-listing.html",
 	      	
 			"content_html": "<p>A <a href=\"https://m.b.wiki.eli.li\">fantastic listing of resources</a> for Micro.blog users by <a href=\"https://micro.blog/eli\">@eli</a>.</p>\n\n<p>(Thanks <a href=\"https://micro.blog/manton\">@manton</a> for sharing)</p>\n",
-			"date_published": "2018-05-24T09:50:03+04:00",
-			"url": "https://www.chirag.biz/2018/05/24/a-fantastic-listing.html"
+			"date_published": "2018-05-23T17:50:03+04:00",
+			"url": "https://www.chirag.biz/2018/05/23/a-fantastic-listing.html"
 		},
 		
 		{
@@ -173,15 +181,15 @@
 			"title": "Behind Deadpool’s blu-ray takeover at Walmart",
 			
 			"content_html": "<p><a href=\"http://www.adweek.com/brand-marketing/heres-the-story-behind-deadpools-incredible-blu-ray-takeover-at-walmart/amp/\">Julia Howe, as interviewed by David Griner</a>:</p>\n\n<blockquote>\n  <p>We asked ourselves, if Deadpool wanted to self-promote himself at retail, how would he do it? The character is a treasure trove of pop culture references, so it just seemed like the logical solution.</p>\n</blockquote>\n\n<p>Was fun seeing the initial pictures flood social media over the last week. While it was obviously an agency-driven campaign, it was still refreshing to see something new, and simultaneously fearing quite a few copycats considering the success.</p>\n",
-			"date_published": "2018-05-22T09:10:58+04:00",
-			"url": "https://www.chirag.biz/2018/05/22/behind-deadpools-bluray.html"
+			"date_published": "2018-05-21T17:10:58+04:00",
+			"url": "https://www.chirag.biz/2018/05/21/behind-deadpools-bluray.html"
 		},
 		
 		{
 			"id": "http://chirag.micro.blog/2018/05/21/all-i-can.html",
 	      	
 			"content_html": "<p>All I can see is poison…\n#musings</p>\n",
-			"date_published": "2018-05-21T17:52:15+04:00",
+			"date_published": "2018-05-21T01:52:15+04:00",
 			"url": "https://www.chirag.biz/2018/05/21/all-i-can.html"
 		},
 		
@@ -191,8 +199,8 @@
 			"title": "t3chtree #8: “Why are you doing my job?”  🎧",
 			
 			"content_html": "<p>We chat about Google I/O &amp; our reactions to the Duplex call. Plus a follow up to the #askt3chtree question on smartphone batteries.</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/363a7d3849d5ec/primary/1526567967.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\n</audio>\n\n<p>Full show notes &amp; links to subscribe are <a href=\"http://techtree.show/8\">here</a>.</p>\n",
-			"date_published": "2018-05-20T10:52:44+04:00",
-			"url": "https://www.chirag.biz/2018/05/20/tchtree-why-are.html"
+			"date_published": "2018-05-19T18:52:44+04:00",
+			"url": "https://www.chirag.biz/2018/05/19/tchtree-why-are.html"
 		},
 		
 		{
@@ -201,26 +209,16 @@
 			"title": "Building the Micro.blog ecosystem",
 			
 			"content_html": "<p><a href=\"http://www.manton.org/2018/05/twitter-streaming-api-and-micro-blog.html\">Manton Reece</a>:</p>\n\n<blockquote>\n  <p>I think a goal for us with Micro.blog should be that third-party developers get access to the same basic tools that we use to build our own apps. Rate-limits should be the same for an app like Icro as they are for the official Micro.blog app, for example.</p>\n</blockquote>\n\n<p>For the last few weeks, I’ve been thinking about blogging and content, and how the breakup of traditional ‘blogs’ have cost us, the netizens, a whole lot.</p>\n\n<p>The more time passes, the more I appreciate the philosophy that sits behind Micro.blog. Every decision won’t be perfect and/or popular, but it is good to see that the driving principles of it all are rooted in the <a href=\"http://www.indieweb.org\">right place</a>. Manton’s been extremely open and communicative about it, so I hope that part scales as this gets bigger. With <a href=\"http://www.chirag.biz/2018/05/16/steve-straza-the.html\">the way Twitter is handling third-party apps that built the platform</a>, the timing is perfect too.</p>\n\n<p>Oh, and:</p>\n\n<blockquote>\n  <p>(To be clear, we’d offer this for free. Our business is blog hosting.)</p>\n</blockquote>\n\n<p>I’m glad to see Micro.blog’s monetary stream is both clear upfront and doesn’t require surrendering user privacy.</p>\n\n",
-			"date_published": "2018-05-19T09:18:56+04:00",
-			"url": "https://www.chirag.biz/2018/05/19/building-the-microdotblog.html"
+			"date_published": "2018-05-18T17:18:56+04:00",
+			"url": "https://www.chirag.biz/2018/05/18/building-the-microdotblog.html"
 		},
 		
 		{
 			"id": "http://chirag.micro.blog/2018/05/16/steve-straza-the.html",
 	      	
 			"content_html": "<p><a href=\"https://twitter.com/stevestreza/status/996786235384516608?s=21\">Steve Straza</a>:</p>\n\n<blockquote>\n  <p>The pricing for Twitter’s new account activity API is ridiculous and doesn’t address how Twitter clients have used the streaming APIs until now. Streaming is effectively dead as of August.</p>\n</blockquote>\n\n<p><a href=\"http://www.chirag.biz/2018/04/11/what-twitter-was.html\">Predictable</a>, but still sad.</p>\n",
-			"date_published": "2018-05-16T22:44:22+04:00",
+			"date_published": "2018-05-16T06:44:22+04:00",
 			"url": "https://www.chirag.biz/2018/05/16/steve-straza-the.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/05/15/tried-out-a.html",
-	      	
-			"title": "The story behind Wildpeeta  🎧",
-			
-			"content_html": "<p>I attempted a storytelling format on my latest episode on the <a href=\"https:/twitter.com/wildpeeta\">Wildpeeta</a> brothers &amp; their journey from startup to shut down, and how the lessons they learnt have led to them coming back in partnership with <a href=\"https://freedompizza.ae\">Freedom Pizza</a>.</p>\n\n<p>As always, full show notes &amp; links are <a href=\"https://pod.coffeeandicedtea.com/Wildpeeta\">here</a>.</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/coffeeandicedtea/episodes/3639903d5d1c8c/primary/1526327731.mp3\" type=\"audio/mpeg\" />\n</audio>\n",
-			"date_published": "2018-05-15T20:27:57+04:00",
-			"url": "https://www.chirag.biz/2018/05/15/tried-out-a.html"
 		}
 		
 	]
