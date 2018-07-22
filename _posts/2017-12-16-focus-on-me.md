@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-16 12:57:01 +0400
+date: 2017-12-15 19:57:01 +0400
 guid: http://chirag.micro.blog/2017/12/16/focus-on-me.html
 ---
 Focus on me. #flowers #marigold #galgota  #weddingphotography #yellow #orange #shaadi #decor #iphonography
