@@ -3,7 +3,7 @@ layout: post
 title: "Behind Deadpool’s blu-ray takeover at Walmart"
 microblog: false
 audio: 
-date: 2018-05-22 09:10:58 +0400
+date: 2018-05-21 17:10:58 +0400
 guid: http://chirag.micro.blog/2018/05/22/behind-deadpools-bluray.html
 ---
 [Julia Howe, as interviewed by David Griner](http://www.adweek.com/brand-marketing/heres-the-story-behind-deadpools-incredible-blu-ray-takeover-at-walmart/amp/):
