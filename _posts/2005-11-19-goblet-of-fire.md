@@ -3,7 +3,7 @@ layout: post
 title: "Goblet of Fire"
 microblog: false
 audio: 
-date: 2005-11-19 17:36:00 +0400
+date: 2005-11-19 00:36:00 +0400
 guid: http://chirag.micro.blog/2005/11/19/goblet-of-fire.html
 ---
 <p>Harry Potter and GoF: Overall 4.75 stars</p>
