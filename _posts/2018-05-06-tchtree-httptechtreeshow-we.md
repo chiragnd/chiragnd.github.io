@@ -3,7 +3,7 @@ layout: post
 title: "t3chtree #7: Careem breach, password management"
 microblog: false
 audio: 
-date: 2018-05-06 10:18:03 +0400
+date: 2018-05-05 18:18:03 +0400
 guid: http://chirag.micro.blog/2018/05/06/tchtree-httptechtreeshow-we.html
 ---
 We chat about ride-sharing platform Careem's security breach notification & some password management tips. Plus, my first @microdotblog outro :)
