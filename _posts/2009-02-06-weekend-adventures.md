@@ -3,7 +3,7 @@ layout: post
 title: "Weekend adventures"
 microblog: false
 audio: 
-date: 2009-02-07 01:19:00 +0400
+date: 2009-02-06 08:19:00 +0400
 guid: http://chirag.micro.blog/2009/02/06/weekend-adventures.html
 ---
 <p>It was long overdue, hello to a real weekend!</p>
