@@ -3,7 +3,7 @@ layout: post
 title: "Massaging egos #facebook"
 microblog: false
 audio: 
-date: 2018-04-08 14:18:55 +0400
+date: 2018-04-07 22:18:55 +0400
 guid: http://chirag.micro.blog/2018/04/08/massaging-egos-facebook.html
 ---
 [Zeynep Tufekci, writing for WIRED](https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/):
