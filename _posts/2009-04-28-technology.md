@@ -3,7 +3,7 @@ layout: post
 title: "Technology"
 microblog: false
 audio: 
-date: 2009-04-29 00:51:00 +0400
+date: 2009-04-28 08:51:00 +0400
 guid: http://chirag.micro.blog/2009/04/28/technology.html
 ---
 <p>Right, so no surprises the posts have been few and far between.</p>
