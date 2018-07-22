@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-18 12:35:03 +0400
+date: 2018-04-17 20:35:03 +0400
 guid: http://chirag.micro.blog/2018/04/18/excited-to-see.html
 ---
 Excited to see our podcast @t3chtree as a friend of @TieDubai & media partner for #TiEConDubai 2018. 
