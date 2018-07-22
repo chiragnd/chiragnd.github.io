@@ -3,7 +3,7 @@ layout: post
 title: "Really any wiser?"
 microblog: false
 audio: 
-date: 2009-10-23 03:18:00 +0400
+date: 2009-10-22 11:18:00 +0400
 guid: http://chirag.micro.blog/2009/10/22/really-any-wiser.html
 ---
 <p>So another year has come and gone. Honestly, this year, I had no expectations. Outside of going to buy myself a new desk chair, no presents were in line either.</p>
