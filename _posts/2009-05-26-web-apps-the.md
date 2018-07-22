@@ -3,7 +3,7 @@ layout: post
 title: "Web Apps: the here and now"
 microblog: false
 audio: 
-date: 2009-05-26 15:44:00 +0400
+date: 2009-05-25 23:44:00 +0400
 guid: http://chirag.micro.blog/2009/05/26/web-apps-the.html
 ---
 <blockquote>Plus, with SaaS, there is another dimension. There is also the requirement to protect user data from each other, not just from external sources. Check out Rudder, <a href="http://www.techcrunch.com/2009/05/19/financial-exposure-rudder-inadvertently-shows-users-each-others-bank-account-info/" target="_blank">who recently managed to show users each others Bank Account info</a>. The problem is much more complex than it seems.</blockquote>
