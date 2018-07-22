@@ -3,7 +3,7 @@ layout: post
 title: "t3chtree #8: “Why are you doing my job?”  🎧"
 microblog: false
 audio: 
-date: 2018-05-20 10:52:44 +0400
+date: 2018-05-19 18:52:44 +0400
 guid: http://chirag.micro.blog/2018/05/20/tchtree-why-are.html
 ---
 We chat about Google I/O & our reactions to the Duplex call. Plus a follow up to the #askt3chtree question on smartphone batteries.
