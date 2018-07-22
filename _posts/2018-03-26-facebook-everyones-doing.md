@@ -3,7 +3,7 @@ layout: post
 title: "Facebook: ‘Everyone’s doing it’"
 microblog: false
 audio: 
-date: 2018-03-26 11:53:36 +0400
+date: 2018-03-25 19:53:36 +0400
 guid: http://chirag.micro.blog/2018/03/26/facebook-everyones-doing.html
 ---
 [Sean Gallagher, writing for Ars Technica](https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones/):
