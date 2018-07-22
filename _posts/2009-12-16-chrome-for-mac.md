@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Mac"
 microblog: false
 audio: 
-date: 2009-12-17 00:00:00 +0400
+date: 2009-12-16 07:00:00 +0400
 guid: http://chirag.micro.blog/2009/12/16/chrome-for-mac.html
 ---
 <p><em>Originally posted at the Shufflegazine Blog (no longer exists)</em></p>
