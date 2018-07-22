@@ -3,7 +3,7 @@ layout: post
 title: "Let the first blogger to die in prison be the last"
 microblog: false
 audio: 
-date: 2010-01-19 11:52:00 +0400
+date: 2010-01-18 18:52:00 +0400
 guid: http://chirag.micro.blog/2010/01/19/let-the-first.html
 ---
 <p>The March 18 movement started in honor of blogger <a href="http://en.wikipedia.org/wiki/Omid_Reza_Mir_Sayafi" target="_blank">Omid Sayafi</a>, who died in Tehran on the same day in 2009. If you’d like to be a part of this movement, I suggest you follow on to this blogpost, giving you details on how to be involved, through videos and a PSA.</p>
