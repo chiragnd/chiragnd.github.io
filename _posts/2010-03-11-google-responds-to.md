@@ -3,7 +3,7 @@ layout: post
 title: "Google Responds To Privacy Concerns With Unsettlingly Specific Apology"
 microblog: false
 audio: 
-date: 2010-03-11 23:37:00 +0400
+date: 2010-03-11 06:37:00 +0400
 guid: http://chirag.micro.blog/2010/03/11/google-responds-to.html
 ---
 <p>Brilliantly written piece.</p>
