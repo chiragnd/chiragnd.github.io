@@ -3,7 +3,7 @@ layout: post
 title: "Learning to walk"
 microblog: false
 audio: 
-date: 2009-01-24 03:24:00 +0400
+date: 2009-01-23 10:24:00 +0400
 guid: http://chirag.micro.blog/2009/01/23/learning-to-walk.html
 ---
 <p>Well I’ve finally got the green light to get rid of all the “assistances” while walking and beginning minor activity..wohoo! Slowly but surely I’m getting there. Although the folks can’t be bothered…they’re staying cautious, and all I want to do is run around like no tomorrow. Oh, and drive. I miss driving.</p>
