@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/07/24/free-podcasting-and.html",
+	      	
+			"title": "Free podcasting, and why we should learn our lessons",
+			
+			"content_html": "<p><a href=\"https://www.manton.org/2018/07/23/anchor-on-free.html\">Manton Reece</a>:</p>\n\n<blockquote>\n  <p>Anchor seems to be going for the YouTube model. They want a huge number of people to use their platform. But the concentration of so much media in one place is <em>one of the problems</em> with today’s web.</p>\n</blockquote>\n\n<p>Cannot stress this line enough:</p>\n<blockquote>\n  <p>Massive social networks like Facebook, Instagram, and YouTube have too much power over writers, photographers, and video creators. We do not want that for podcasts.</p>\n</blockquote>\n\n<p>I want podcasts to be as mainstream as possible. I <a href=\"https://amaeya.fm\">live and breathe them</a>. But, as Manton points out, the platforms that have been running an it’s-free-and-we’ll-raise-money-elsewhere model should have taught us big lessons by now.</p>\n\n<p>They went downhill for users, and sold out. They had to do both of those things, there was no other model for them. They landed up damaging the medium they made mainstream.</p>\n\n<p>Take YouTube, for instance. It is the only place you go to both create and consume video content. YouTube has complete control over the medium itself, and that’s the problem. It translates to control over the creators. What happens when you’re done with YouTube and want to take your viewers elsewhere? Or if YouTube deletes a video, or your account, even if accidentally. What is your recourse to retain what you’ve created?</p>\n\n<p>What does it matter if you outrage over an algorithmic timeline being the only option on Instagram? Everyone you know is there, your followers are there, and although Instagram (finally) allows you to export your content, what can you do with that so that people who want to see your photos can continue to do so easily? Nada.</p>\n\n<p>The models that these platforms sit on can only be run by advertising. Advertisers are their customers, and the platforms will continue to tweak algorithms to ensure best value for their customers, not their users. Which is why Facebook continues to be brazen about all of its data misuse, and why those privacy approvals <a href=\"https://techtree.show/5\">were vague to begin with</a>.</p>\n\n<p>I haven’t even gotten to ownership, but those thoughts are in a <a href=\"http://www.chirag.biz/2018/07/12/social-media-actually.html\">separate post</a> if you’re inclined.</p>\n\n<p>—-</p>\n\n<p>I cannot but be firmly in the camp that believes this model cannot be the default, and will harm the medium it sets foot in. I get that a content creator is bound to find it difficult to pay monthly subscriptions when compensation seems unlikely or at least years away. But I also know how great it is to be able to tell listeners they can listen to me in any channel they prefer, to own my shows in their entirety.</p>\n\n<p>When I switched hosts last year, I was able to simply redirect my domain &amp; feed, thereby retaining my data <em>and</em> the people listening to my shows without them having to change the way they consumed them.</p>\n\n<p>Why shouldn’t it be like that?</p>\n",
+			"date_published": "2018-07-24T11:10:36+04:00",
+			"url": "https://www.chirag.biz/2018/07/24/free-podcasting-and.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/07/22/good-coffee-fuelsgreat.html",
 	      	
 			"content_html": "<p>Good coffee fuels.\nGreat coffee creates.\nWhat are you guys creating currently?\n#coffee #chemex</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/a00e6016bc.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -171,8 +181,8 @@
 			"id": "http://chirag.micro.blog/2018/05/24/a-fantastic-listing.html",
 	      	
 			"content_html": "<p>A <a href=\"https://m.b.wiki.eli.li\">fantastic listing of resources</a> for Micro.blog users by <a href=\"https://micro.blog/eli\">@eli</a>.</p>\n\n<p>(Thanks <a href=\"https://micro.blog/manton\">@manton</a> for sharing)</p>\n",
-			"date_published": "2018-05-23T17:50:03+04:00",
-			"url": "https://www.chirag.biz/2018/05/23/a-fantastic-listing.html"
+			"date_published": "2018-05-24T09:50:03+04:00",
+			"url": "https://www.chirag.biz/2018/05/24/a-fantastic-listing.html"
 		},
 		
 		{
@@ -181,15 +191,15 @@
 			"title": "Behind Deadpool’s blu-ray takeover at Walmart",
 			
 			"content_html": "<p><a href=\"http://www.adweek.com/brand-marketing/heres-the-story-behind-deadpools-incredible-blu-ray-takeover-at-walmart/amp/\">Julia Howe, as interviewed by David Griner</a>:</p>\n\n<blockquote>\n  <p>We asked ourselves, if Deadpool wanted to self-promote himself at retail, how would he do it? The character is a treasure trove of pop culture references, so it just seemed like the logical solution.</p>\n</blockquote>\n\n<p>Was fun seeing the initial pictures flood social media over the last week. While it was obviously an agency-driven campaign, it was still refreshing to see something new, and simultaneously fearing quite a few copycats considering the success.</p>\n",
-			"date_published": "2018-05-21T17:10:58+04:00",
-			"url": "https://www.chirag.biz/2018/05/21/behind-deadpools-bluray.html"
+			"date_published": "2018-05-22T09:10:58+04:00",
+			"url": "https://www.chirag.biz/2018/05/22/behind-deadpools-bluray.html"
 		},
 		
 		{
 			"id": "http://chirag.micro.blog/2018/05/21/all-i-can.html",
 	      	
 			"content_html": "<p>All I can see is poison…\n#musings</p>\n",
-			"date_published": "2018-05-21T01:52:15+04:00",
+			"date_published": "2018-05-21T17:52:15+04:00",
 			"url": "https://www.chirag.biz/2018/05/21/all-i-can.html"
 		},
 		
@@ -199,8 +209,8 @@
 			"title": "t3chtree #8: “Why are you doing my job?”  🎧",
 			
 			"content_html": "<p>We chat about Google I/O &amp; our reactions to the Duplex call. Plus a follow up to the #askt3chtree question on smartphone batteries.</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/363a7d3849d5ec/primary/1526567967.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\n</audio>\n\n<p>Full show notes &amp; links to subscribe are <a href=\"http://techtree.show/8\">here</a>.</p>\n",
-			"date_published": "2018-05-19T18:52:44+04:00",
-			"url": "https://www.chirag.biz/2018/05/19/tchtree-why-are.html"
+			"date_published": "2018-05-20T10:52:44+04:00",
+			"url": "https://www.chirag.biz/2018/05/20/tchtree-why-are.html"
 		},
 		
 		{
@@ -209,16 +219,8 @@
 			"title": "Building the Micro.blog ecosystem",
 			
 			"content_html": "<p><a href=\"http://www.manton.org/2018/05/twitter-streaming-api-and-micro-blog.html\">Manton Reece</a>:</p>\n\n<blockquote>\n  <p>I think a goal for us with Micro.blog should be that third-party developers get access to the same basic tools that we use to build our own apps. Rate-limits should be the same for an app like Icro as they are for the official Micro.blog app, for example.</p>\n</blockquote>\n\n<p>For the last few weeks, I’ve been thinking about blogging and content, and how the breakup of traditional ‘blogs’ have cost us, the netizens, a whole lot.</p>\n\n<p>The more time passes, the more I appreciate the philosophy that sits behind Micro.blog. Every decision won’t be perfect and/or popular, but it is good to see that the driving principles of it all are rooted in the <a href=\"http://www.indieweb.org\">right place</a>. Manton’s been extremely open and communicative about it, so I hope that part scales as this gets bigger. With <a href=\"http://www.chirag.biz/2018/05/16/steve-straza-the.html\">the way Twitter is handling third-party apps that built the platform</a>, the timing is perfect too.</p>\n\n<p>Oh, and:</p>\n\n<blockquote>\n  <p>(To be clear, we’d offer this for free. Our business is blog hosting.)</p>\n</blockquote>\n\n<p>I’m glad to see Micro.blog’s monetary stream is both clear upfront and doesn’t require surrendering user privacy.</p>\n\n",
-			"date_published": "2018-05-18T17:18:56+04:00",
-			"url": "https://www.chirag.biz/2018/05/18/building-the-microdotblog.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/05/16/steve-straza-the.html",
-	      	
-			"content_html": "<p><a href=\"https://twitter.com/stevestreza/status/996786235384516608?s=21\">Steve Straza</a>:</p>\n\n<blockquote>\n  <p>The pricing for Twitter’s new account activity API is ridiculous and doesn’t address how Twitter clients have used the streaming APIs until now. Streaming is effectively dead as of August.</p>\n</blockquote>\n\n<p><a href=\"http://www.chirag.biz/2018/04/11/what-twitter-was.html\">Predictable</a>, but still sad.</p>\n",
-			"date_published": "2018-05-16T06:44:22+04:00",
-			"url": "https://www.chirag.biz/2018/05/16/steve-straza-the.html"
+			"date_published": "2018-05-19T09:18:56+04:00",
+			"url": "https://www.chirag.biz/2018/05/19/building-the-microdotblog.html"
 		}
 		
 	]
