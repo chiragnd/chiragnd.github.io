@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/07/29/the-last-week.html",
+	      	
+			"content_html": "<p>The last week I’ve had multiple conversations off social media, about social media, its impacts &amp; what we’ve lost along the way. A shoutout to those who have patiently heard me out &amp; shared insightful feedback. Can’t thank you enough.\n#socialMedia #indieWeb</p>\n",
+			"date_published": "2018-07-29T11:11:33+04:00",
+			"url": "https://www.chirag.biz/2018/07/29/the-last-week.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/07/28/how-goes-your.html",
 	      	
 			"content_html": "<p>How goes your weekend folks?</p>\n\n<p>Trying out a take on the Aviation cocktail, with gooseberry/amla jam for that little extra Vit C.</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/f6570e0a6a.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -209,16 +217,6 @@
 			"content_html": "<p>All I can see is poison…\n#musings</p>\n",
 			"date_published": "2018-05-21T17:52:15+04:00",
 			"url": "https://www.chirag.biz/2018/05/21/all-i-can.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/05/20/tchtree-why-are.html",
-	      	
-			"title": "t3chtree #8: “Why are you doing my job?”  🎧",
-			
-			"content_html": "<p>We chat about Google I/O &amp; our reactions to the Duplex call. Plus a follow up to the #askt3chtree question on smartphone batteries.</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/363a7d3849d5ec/primary/1526567967.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\n</audio>\n\n<p>Full show notes &amp; links to subscribe are <a href=\"http://techtree.show/8\">here</a>.</p>\n",
-			"date_published": "2018-05-20T10:52:44+04:00",
-			"url": "https://www.chirag.biz/2018/05/20/tchtree-why-are.html"
 		}
 		
 	]
