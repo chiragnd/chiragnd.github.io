@@ -43,7 +43,9 @@ paginate_path: "/page/:num/"
 timezone: "W-SU"
 site_id: "1795"
 gems: ["jekyll-paginate"]
+itunes_description: "Podcaster. Mostly sarcastic, sometimes informative. "
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Chirag Desai"
+itunes_email: ""
 podcast: false
