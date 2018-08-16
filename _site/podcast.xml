@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Chirag Desai</title>
-    <description>Follow &lt;a href=&quot;https://micro.blog/Chirag&quot;&gt;@Chirag on Micro.blog&lt;/a&gt;.</description>
+    <description>Podcaster. Mostly sarcastic, sometimes informative. </description>
     <link>https://www.chirag.biz/</link>
-    <pubDate>Tue, 07 Aug 2018 07:30:52 +0400</pubDate>
-    <lastBuildDate>Tue, 07 Aug 2018 07:30:52 +0400</lastBuildDate>
+    <pubDate>Thu, 16 Aug 2018 17:09:52 +0400</pubDate>
+    <lastBuildDate>Thu, 16 Aug 2018 17:09:52 +0400</lastBuildDate>
 	<itunes:image href="https://micro.blog/Chirag/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
 	</itunes:category>
 	<itunes:author>Chirag Desai</itunes:author>
 	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Chirag Desai</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
 	<language>en</language>
     
 		
