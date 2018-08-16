@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/08/16/a-stalwart-in.html",
+	      	
+			"content_html": "<p>A stalwart in every way. May his life be celebrated.</p>\n\n<p><a href=\"https://mobile.twitter.com/ANI/status/1030063471138754560\">Om Shanti</a> 🙏</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/1706cb7d5b.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"date_published": "2018-08-16T17:09:33+04:00",
+			"url": "https://www.chirag.biz/2018/08/16/a-stalwart-in.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/08/15/doesnt-have-to.html",
+	      	
+			"content_html": "<p>Doesn’t have to look like summer even if it is 45 deg C.</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/f9424ae5ba.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-08-15T10:59:22+04:00",
+			"url": "https://www.chirag.biz/2018/08/15/doesnt-have-to.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/08/07/just-received-the.html",
 	      	
 			"content_html": "<p>Just received the first round of behind the scenes shots of our upcoming podcast season. Been rather enlightening to have a producer on board, not to mention getting a bird’s eye view you can’t really have as a host.\n🎙</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/60965b6b1b.jpg\" width=\"600\" height=\"400\" /></p>\n",
@@ -199,22 +215,6 @@
 			"content_html": "<p>Great opening video at WWDC 2018. A genuine laugh after over a week.</p>\n",
 			"date_published": "2018-06-04T21:08:00+04:00",
 			"url": "https://www.chirag.biz/2018/06/04/great-opening-video.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/05/30/took-about-minutes.html",
-	      	
-			"content_html": "<p>Took about 30 minutes to submit my first VAT return &amp; set up a bank transfer to the UAE <a href=\"https://www.tax.gov.ae/index.aspx\">Federal Tax Authority</a>. Payment was acknowledged later the same day.<br />\n#smooth</p>\n",
-			"date_published": "2018-05-30T11:50:06+04:00",
-			"url": "https://www.chirag.biz/2018/05/30/took-about-minutes.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/05/24/a-fantastic-listing.html",
-	      	
-			"content_html": "<p>A <a href=\"https://m.b.wiki.eli.li\">fantastic listing of resources</a> for Micro.blog users by <a href=\"https://micro.blog/eli\">@eli</a>.</p>\n\n<p>(Thanks <a href=\"https://micro.blog/manton\">@manton</a> for sharing)</p>\n",
-			"date_published": "2018-05-24T09:50:03+04:00",
-			"url": "https://www.chirag.biz/2018/05/24/a-fantastic-listing.html"
 		}
 		
 	]
