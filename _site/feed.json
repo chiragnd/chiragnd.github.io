@@ -6,9 +6,17 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/08/23/121126.html",
+	      	
+			"content_html": "<p>Excited to finally begin the countdown to a project I can’t wait to publish, with behind the scenes on the people behind the scenes of the show, <a href=\"https://talesofthe.trade/bts1\">starting with our producer @gayamusic</a></p>\n\n<p>🎙️ \n#podcast #podernFamily #entrepreneur #dubai</p>\n",
+			"date_published": "2018-08-23T16:11:26+04:00",
+			"url": "https://www.chirag.biz/2018/08/23/121126.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/08/16/a-stalwart-in.html",
 	      	
-			"content_html": "<p>A stalwart in every way. May his life be celebrated.</p>\n\n<p><a href=\"https://mobile.twitter.com/ANI/status/1030063471138754560\">Om Shanti</a> 🙏</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/1706cb7d5b.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"content_html": "<p>A stalwart in every way. May his life be celebrated.</p>\n\n<p><a href=\"https://mobile.twitter.com/ANI/status/1030063471138754560\">Om Shanti</a> 🙏</p>\n\n<p><img alt=\"Atal Bihari Vajpayee\" src=\"http://www.chirag.biz/uploads/2018/1706cb7d5b.jpg\" width=\"600\" height=\"400\" /></p>\n\n<p>Picture: <a href=\"https://swarajyamag.com/politics/atal-bihari-vajpayee-the-man-who-mainstreamed-bjp-and-bharatiyata\">Swarajya</a></p>\n",
 			"date_published": "2018-08-16T17:09:33+04:00",
 			"url": "https://www.chirag.biz/2018/08/16/a-stalwart-in.html"
 		},
@@ -207,14 +215,6 @@
 			"content_html": "<p>Hair force one is the reason we watch the WWDC keynote :)</p>\n",
 			"date_published": "2018-06-04T21:12:07+04:00",
 			"url": "https://www.chirag.biz/2018/06/04/hair-force-one.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/06/04/great-opening-video.html",
-	      	
-			"content_html": "<p>Great opening video at WWDC 2018. A genuine laugh after over a week.</p>\n",
-			"date_published": "2018-06-04T21:08:00+04:00",
-			"url": "https://www.chirag.biz/2018/06/04/great-opening-video.html"
 		}
 		
 	]
