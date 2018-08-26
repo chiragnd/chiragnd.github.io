@@ -6,9 +6,17 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/08/26/twas-a-great.html",
+	      	
+			"content_html": "<p>‘twas a great Saturday!</p>\n\n<p>#podcast #interviews #entrepreneurship</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/b3a1de3322.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-08-26T08:59:19+04:00",
+			"url": "https://www.chirag.biz/2018/08/26/twas-a-great.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/08/23/121126.html",
 	      	
-			"content_html": "<p>Excited to finally begin the countdown to a project I can’t wait to publish, with behind the scenes on the people behind the scenes of the show, <a href=\"https://talesofthe.trade/bts1\">starting with our producer @gayamusic</a></p>\n\n<p>🎙️ \n#podcast #podernFamily #entrepreneur #dubai</p>\n",
+			"content_html": "<p>Excited to begin the countdown to a project I can’t wait to publish, with some special episodes on the people behind the scenes of the show, <a href=\"https://talesofthe.trade/bts1\">starting with our producer Gaya</a></p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://media.podiant.co/spoke/coffeeandicedtea/episodes/366e1975feece4/primary/1534941136.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\n</audio>\n\n<p>🎙️</p>\n",
 			"date_published": "2018-08-23T16:11:26+04:00",
 			"url": "https://www.chirag.biz/2018/08/23/121126.html"
 		},
@@ -207,14 +215,6 @@
 			"content_html": "<p>Workflow 2.0 :) #WWDC\nAlso looks like we have a new notification design?</p>\n",
 			"date_published": "2018-06-04T21:37:26+04:00",
 			"url": "https://www.chirag.biz/2018/06/04/workflow-wwdcalso-looks.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/06/04/hair-force-one.html",
-	      	
-			"content_html": "<p>Hair force one is the reason we watch the WWDC keynote :)</p>\n",
-			"date_published": "2018-06-04T21:12:07+04:00",
-			"url": "https://www.chirag.biz/2018/06/04/hair-force-one.html"
 		}
 		
 	]
