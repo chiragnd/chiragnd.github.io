@@ -6,9 +6,17 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/08/26/twas-a-great.html",
+	      	
+			"content_text": "‘twas a great Saturday!\n\n#podcast #interviews #entrepreneurship\n\n\n",
+			"date_published": "2018-08-26T08:59:19+04:00",
+			"url": "https://www.chirag.biz/2018/08/26/twas-a-great.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/08/23/121126.html",
 	      	
-			"content_text": "Excited to finally begin the countdown to a project I...",
+			"content_text": "Excited to begin the countdown to a project I can’t...",
 			"date_published": "2018-08-23T16:11:26+04:00",
 			"url": "https://www.chirag.biz/2018/08/23/121126.html"
 		},
