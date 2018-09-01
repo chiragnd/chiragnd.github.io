@@ -6,9 +6,17 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/08/30/continuing-the-fun.html",
+	      	
+			"content_text": "Continuing the fun behind-the-scenes episodes for my show’s upcoming season:...",
+			"date_published": "2018-08-30T14:03:31+04:00",
+			"url": "https://www.chirag.biz/2018/08/30/continuing-the-fun.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/08/26/twas-a-great.html",
 	      	
-			"content_text": "‘twas a great Saturday!\n\n#podcast #interviews #entrepreneurship\n\n\n",
+			"content_text": "‘twas a great Saturday!  🎙️\n\n\n",
 			"date_published": "2018-08-26T08:59:19+04:00",
 			"url": "https://www.chirag.biz/2018/08/26/twas-a-great.html"
 		},
