@@ -6,9 +6,17 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/08/30/continuing-the-fun.html",
+	      	
+			"content_html": "<p>Continuing the fun behind-the-scenes episodes for my show’s upcoming season: a chat with <a href=\"https://talesofthe.trade/bts2\">our music composer</a>.</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://media.podiant.co/spoke/coffeeandicedtea/episodes/367bc283834416/primary/1535617110.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\n</audio>\n\n<p>🎙️</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/dba00c45c3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-30T14:03:31+04:00",
+			"url": "https://www.chirag.biz/2018/08/30/continuing-the-fun.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/08/26/twas-a-great.html",
 	      	
-			"content_html": "<p>‘twas a great Saturday!</p>\n\n<p>#podcast #interviews #entrepreneurship</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/b3a1de3322.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"content_html": "<p>‘twas a great Saturday!  🎙️</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/b3a1de3322.jpg\" width=\"800\" /></p>\n",
 			"date_published": "2018-08-26T08:59:19+04:00",
 			"url": "https://www.chirag.biz/2018/08/26/twas-a-great.html"
 		},
@@ -207,14 +215,6 @@
 			"content_html": "<p>Still funny on a second watch: Apple’s “<a href=\"https://www.youtube.com/watch?v=xp6UCQvKKzI\">The Developer Migration</a>” video.</p>\n\n<p>#WWDC18</p>\n",
 			"date_published": "2018-06-05T09:40:36+04:00",
 			"url": "https://www.chirag.biz/2018/06/05/still-funny-on.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/06/04/workflow-wwdcalso-looks.html",
-	      	
-			"content_html": "<p>Workflow 2.0 :) #WWDC\nAlso looks like we have a new notification design?</p>\n",
-			"date_published": "2018-06-04T21:37:26+04:00",
-			"url": "https://www.chirag.biz/2018/06/04/workflow-wwdcalso-looks.html"
 		}
 		
 	]
