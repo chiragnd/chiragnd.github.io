@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/09/03/google-data-collection.html",
+	      	
+			"title": "Google Data Collection",
+			
+			"content_html": "<p><a href=\"https://digitalcontentnext.org/blog/2018/08/21/google-data-collection-research/\">Digital Content Next:</a>:</p>\n\n<blockquote>\n  <p>Both Android and Chrome send data to Google even in the absence of any user interaction. Our experiments show that a dormant, stationary Android phone (with Chrome active in the background) communicated location information to Google 340 times during a 24-hour period, or at an average of 14 data communications per hour. In fact, location information constituted 35% of all the data samples sent to Google. In contrast, a similar experiment showed that on an iOS Apple device with Safari (where neither Android nor Chrome were used), Google could not collect any appreciable data (location or otherwise) in the absence of a user interaction with the device.</p>\n</blockquote>\n\n<p>A link to the detailed report is <a href=\"https://digitalcontentnext.org/wp-content/uploads/2018/08/DCN-Google-Data-Collection-Paper.pdf\">here</a>.</p>\n",
+			"date_published": "2018-09-03T11:06:37+04:00",
+			"url": "https://www.chirag.biz/2018/09/03/google-data-collection.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/08/30/continuing-the-fun.html",
 	      	
 			"content_html": "<p>Continuing the fun behind-the-scenes episodes for my show’s upcoming season: a chat with <a href=\"https://talesofthe.trade/bts2\">our music composer</a>.</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://media.podiant.co/spoke/coffeeandicedtea/episodes/367bc283834416/primary/1535617110.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\n</audio>\n\n<p>🎙️</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/dba00c45c3.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -207,14 +217,6 @@
 			"content_html": "<p><a href=\"https://twitter.com/iryantldr/status/1003842906782863362?s=21\">Ryan Christoffel</a>:</p>\n\n<blockquote>\n  <p>One more thing in iOS 12: Apple Podcasts now supports MP3 chapters, which can be skipped using Siri. 🙌</p>\n</blockquote>\n\n<p>Yay. Also nice it will already work with previous episodes :)</p>\n",
 			"date_published": "2018-06-06T12:51:14+04:00",
 			"url": "https://www.chirag.biz/2018/06/06/ryan-christoffel-one.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/06/05/still-funny-on.html",
-	      	
-			"content_html": "<p>Still funny on a second watch: Apple’s “<a href=\"https://www.youtube.com/watch?v=xp6UCQvKKzI\">The Developer Migration</a>” video.</p>\n\n<p>#WWDC18</p>\n",
-			"date_published": "2018-06-05T09:40:36+04:00",
-			"url": "https://www.chirag.biz/2018/06/05/still-funny-on.html"
 		}
 		
 	]
