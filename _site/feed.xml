@@ -4,8 +4,25 @@
     <title>Chirag Desai</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/Chirag&quot;&gt;@Chirag on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.chirag.biz/</link>
-    <pubDate>Thu, 30 Aug 2018 14:04:25 +0400</pubDate>
-    <lastBuildDate>Thu, 30 Aug 2018 14:04:25 +0400</lastBuildDate>
+    <pubDate>Mon, 03 Sep 2018 11:10:39 +0400</pubDate>
+    <lastBuildDate>Mon, 03 Sep 2018 11:10:39 +0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>Google Data Collection</title>
+        
+        <description>&lt;p&gt;&lt;a href=&quot;https://digitalcontentnext.org/blog/2018/08/21/google-data-collection-research/&quot;&gt;Digital Content Next:&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Both Android and Chrome send data to Google even in the absence of any user interaction. Our experiments show that a dormant, stationary Android phone (with Chrome active in the background) communicated location information to Google 340 times during a 24-hour period, or at an average of 14 data communications per hour. In fact, location information constituted 35% of all the data samples sent to Google. In contrast, a similar experiment showed that on an iOS Apple device with Safari (where neither Android nor Chrome were used), Google could not collect any appreciable data (location or otherwise) in the absence of a user interaction with the device.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A link to the detailed report is &lt;a href=&quot;https://digitalcontentnext.org/wp-content/uploads/2018/08/DCN-Google-Data-Collection-Paper.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Sep 2018 11:06:37 +0400</pubDate>
+        <link>https://www.chirag.biz/2018/09/03/google-data-collection.html</link>
+        <guid isPermaLink="true">http://chirag.micro.blog/2018/09/03/google-data-collection.html</guid>
+      </item>
     
       <item>
       	
@@ -724,30 +741,6 @@ Your browser does not support the audio element.
         <pubDate>Mon, 16 Apr 2018 14:53:54 +0400</pubDate>
         <link>https://www.chirag.biz/2018/04/16/podcast-tchtree-grassroots.html</link>
         <guid isPermaLink="true">http://chirag.micro.blog/2018/04/16/podcast-tchtree-grassroots.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>What Twitter was, and what it is now</title>
-        
-        <description>&lt;p&gt;&lt;a href=&quot;https://macgenie.micro.blog/2018/04/10/a-guide-to.html&quot;&gt;Jean MacDonald&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;I have several friends in “real life” who started as Twitter buddies. But over the years, Twitter has become something I don’t recognize anymore, a place where hate and intolerance and crass commercialism have found a welcoming home.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As a side note, a nice insight into understanding micro.blog as a Twitter user—how they’re same in some ways, and how they’re different.&lt;/p&gt;
-
-&lt;p&gt;Her Twitter experience though is not far away from mine; some of my closest friendships &amp;amp; collaborations have their origins on the network, but … here we are now.&lt;/p&gt;
-
-&lt;p&gt;Jean doesn’t get into this much but a long-standing problem with Twitter is how they’ve stifled third party development, &lt;a href=&quot;https://blog.chirag.biz/goodbye-twimbow-33be1b392cce&quot;&gt;over&lt;/a&gt;, &lt;a href=&quot;https://blog.chirag.biz/more-twitter-api-restrictions-now-for-win8-b14d5ba783fa&quot;&gt;over&lt;/a&gt; and &lt;a href=&quot;http://apps-of-a-feather.com&quot;&gt;over&lt;/a&gt; again. I mean, even a service like &lt;a href=&quot;https://blog.chirag.biz/twitter-vs-linkedin-529c67a84ebc&quot;&gt;LinkedIn doesn’t—well, can’t—really integrate with Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The ‘philosophy’ of increasingly closing off the network to the outside world or the open Web at large has been seeping into other aspects of Twitter’s culture as an organization &amp;amp; a platform. The last few real Twitter apps are now bending under this weight.&lt;/p&gt;
-
-&lt;p&gt;Considering &lt;a href=&quot;http://www.chirag.biz/2018/04/08/massaging-egos-facebook.html&quot;&gt;Facebook isn’t in a particularly great place currently&lt;/a&gt; either, hello to an free-er, open-er Web. And hello, Micro.blog.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 11 Apr 2018 14:59:50 +0400</pubDate>
-        <link>https://www.chirag.biz/2018/04/11/what-twitter-was.html</link>
-        <guid isPermaLink="true">http://chirag.micro.blog/2018/04/11/what-twitter-was.html</guid>
       </item>
     
   </channel>
