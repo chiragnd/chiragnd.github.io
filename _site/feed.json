@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/09/08/its-always-darkest.html",
+	      	
+			"content_html": "<p>“It’s always darkest before the dawn.”\n#musings</p>\n",
+			"date_published": "2018-09-08T11:31:50+04:00",
+			"url": "https://www.chirag.biz/2018/09/08/its-always-darkest.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/09/06/excited-to-have.html",
+	      	
+			"content_html": "<p>Excited to have a teaser for <a href=\"https://talesofthe.trade/teaser\">the upcoming season of the Tales of the Trade</a> podcast. Would love to hear what you think!</p>\n\n<iframe width=\"980\" height=\"551\" src=\"https://www.youtube.com/embed/EePscxkLY9c\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>\n\n<p>🎙️</p>\n",
+			"date_published": "2018-09-06T11:17:08+04:00",
+			"url": "https://www.chirag.biz/2018/09/06/excited-to-have.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/09/03/google-data-collection.html",
 	      	
 			"title": "Google Data Collection",
@@ -201,22 +217,6 @@
 			"content_html": "<p>Had tons of fun reminiscing about tech we grew up with on our latest <a href=\"http://techtree.show/9\">t3chtree episode</a>:</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/364a51aefc4d5e/primary/1528355361.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\n</audio>\n\n<p>🎧</p>\n",
 			"date_published": "2018-06-08T21:56:16+04:00",
 			"url": "https://www.chirag.biz/2018/06/08/had-tons-of.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/06/07/im-really-glad.html",
-	      	
-			"content_html": "<p>I’m really glad I chanced upon this WWDC design session live. A must watch on the qualities of great design, which was really well documented &amp; presented by <a href=\"https://twitter.com/laurenstrehlow\">Lauren Strehlow</a>:</p>\n\n<p><a href=\"https://developer.apple.com/videos/play/wwdc2018/801/\">The Qualities of Great Design</a></p>\n",
-			"date_published": "2018-06-07T13:09:03+04:00",
-			"url": "https://www.chirag.biz/2018/06/07/im-really-glad.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/06/06/ryan-christoffel-one.html",
-	      	
-			"content_html": "<p><a href=\"https://twitter.com/iryantldr/status/1003842906782863362?s=21\">Ryan Christoffel</a>:</p>\n\n<blockquote>\n  <p>One more thing in iOS 12: Apple Podcasts now supports MP3 chapters, which can be skipped using Siri. 🙌</p>\n</blockquote>\n\n<p>Yay. Also nice it will already work with previous episodes :)</p>\n",
-			"date_published": "2018-06-06T12:51:14+04:00",
-			"url": "https://www.chirag.biz/2018/06/06/ryan-christoffel-one.html"
 		}
 		
 	]
