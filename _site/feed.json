@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Chirag Desai",
+	"icon": "https://micro.blog/Chirag/avatar.jpg",
 	"home_page_url": "https://www.chirag.biz/",
 	"feed_url": "https://www.chirag.biz/feed.json",
 	"items": [
+		
+		{
+			"id": "http://chirag.micro.blog/2018/09/12/no-ipad-today.html",
+	      	
+			"content_html": "<p>No iPad today :/ \n#iPhoneXS #AppleEvent</p>\n",
+			"date_published": "2018-09-12T21:08:48+04:00",
+			"url": "https://www.chirag.biz/2018/09/12/no-ipad-today.html"
+		},
 		
 		{
 			"id": "http://chirag.micro.blog/2018/09/08/its-always-darkest.html",
@@ -209,14 +218,6 @@
 			"content_html": "<p>So far, unable to tell whether the current rumblings in (every aspect of my) life are a precursor to big breakthroughs or calm before an extremely unneeded storm.</p>\n",
 			"date_published": "2018-06-12T17:05:55+04:00",
 			"url": "https://www.chirag.biz/2018/06/12/so-far-unable.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/06/08/had-tons-of.html",
-	      	
-			"content_html": "<p>Had tons of fun reminiscing about tech we grew up with on our latest <a href=\"http://techtree.show/9\">t3chtree episode</a>:</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/techtree/episodes/364a51aefc4d5e/primary/1528355361.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\n</audio>\n\n<p>🎧</p>\n",
-			"date_published": "2018-06-08T21:56:16+04:00",
-			"url": "https://www.chirag.biz/2018/06/08/had-tons-of.html"
 		}
 		
 	]
