@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/09/19/trust-me-to.html",
+	      	
+			"content_html": "<p>Trust me to put together an event while a fairly massive cricket match is ongoing all of 10 mins away, another 100 pax group is conducting one at the same venue, and while I publish two episodes.</p>\n\n<p>#suckerForPunishment #greatTiming</p>\n",
+			"date_published": "2018-09-19T16:37:57+04:00",
+			"url": "https://www.chirag.biz/2018/09/19/trust-me-to.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/09/13/ganeshchaturthi.html",
+	      	
+			"content_html": "<p>🙏</p>\n\n<p>#GaneshChaturthi</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/73260967a8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-13T10:01:11+04:00",
+			"url": "https://www.chirag.biz/2018/09/13/ganeshchaturthi.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/09/12/no-ipad-today.html",
 	      	
 			"content_html": "<p>No iPad today :/ \n#iPhoneXS #AppleEvent</p>\n",
@@ -202,22 +218,6 @@
 			"content_html": "<p><a href=\"http://economictimes.indiatimes.com/articleshow/64741606.cms\">Writankar Mukherjee, reporting for The Economic Times</a>:</p>\n\n<blockquote>\n  <p>Apple has started commercial production of the iPhone 6s in India since last week at the Bengaluru facility of its Taiwan-based contract manufacturer Wistron that has set up a new line for the handsets, two senior industry executives said.</p>\n</blockquote>\n\n<p>[ … ]</p>\n\n<blockquote>\n  <p>The Cupertino-based maker of iPhones and Mac computers already makes iPhone SE since last May at the Wistron facility, which will now produce two iPhone models locally.</p>\n</blockquote>\n",
 			"date_published": "2018-06-27T09:49:10+04:00",
 			"url": "https://www.chirag.biz/2018/06/27/production-of-madeinindia.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/06/26/192611.html",
-	      	
-			"content_html": "<p><a href=\"http://www.chirag.biz/uploads/2018/c97a913a2e.jpg\"><img src=\"http://www.chirag.biz/uploads/2018/c97a913a2e.jpg\" width=\"277\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>😬</p>\n\n",
-			"date_published": "2018-06-26T23:26:11+04:00",
-			"url": "https://www.chirag.biz/2018/06/26/192611.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/06/12/so-far-unable.html",
-	      	
-			"content_html": "<p>So far, unable to tell whether the current rumblings in (every aspect of my) life are a precursor to big breakthroughs or calm before an extremely unneeded storm.</p>\n",
-			"date_published": "2018-06-12T17:05:55+04:00",
-			"url": "https://www.chirag.biz/2018/06/12/so-far-unable.html"
 		}
 		
 	]
