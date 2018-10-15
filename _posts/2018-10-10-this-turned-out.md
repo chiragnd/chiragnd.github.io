@@ -10,6 +10,7 @@ This turned out to be one of the best stories I’ve had the opportunity to cove
 <audio style="width:100%" controls><source src="https://tracking.podiant.co/d/spoke/coffeeandicedtea/episodes/36a9d3cad8ce20/primary/1539157661.mp3?referrer%5Bdomain%5D=chirag.biz" type="audio/mpeg">
 </audio>
 
-<img src=“[www.chirag.biz/uploads/2...](http://www.chirag.biz/uploads/2018/d9672f8676.jpg)” />
+<img src="http://www.chirag.biz/uploads/2018/d9672f8676.jpg"  />
+   
 🎙
 
