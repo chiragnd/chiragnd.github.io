@@ -7,9 +7,33 @@
 	"items": [
 		
 		{
+			"id": "http://chirag.micro.blog/2018/11/08/this-week-a.html",
+	      	
+			"content_text": "This week, a story from a slightly past life when...",
+			"date_published": "2018-11-08T15:13:49+04:00",
+			"url": "https://www.chirag.biz/2018/11/08/this-week-a.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/10/30/crap-starts-inspecting.html",
+	      	
+			"content_text": "Crap. starts inspecting bank accounts\n",
+			"date_published": "2018-10-30T18:46:26+04:00",
+			"url": "https://www.chirag.biz/2018/10/30/crap-starts-inspecting.html"
+		},
+		
+		{
+			"id": "http://chirag.micro.blog/2018/10/30/lets-go-ipad.html",
+	      	
+			"content_text": "Let’s go iPad Pro!\n",
+			"date_published": "2018-10-30T18:44:21+04:00",
+			"url": "https://www.chirag.biz/2018/10/30/lets-go-ipad.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/10/24/ive-been-a.html",
 	      	
-			"content_text": "I’ve been a regular and observed these guys grow over...",
+			"content_text": "I’ve been a regular and observed Bull &amp; Roo’s cafes...",
 			"date_published": "2018-10-24T11:30:48+04:00",
 			"url": "https://www.chirag.biz/2018/10/24/ive-been-a.html"
 		},
