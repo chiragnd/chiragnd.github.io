@@ -3,6 +3,7 @@ layout: post
 title: "Cisco launches router manufactured in India"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/03/a3921-0yyj8y-u8nnnx-9b1.jpg
 date: 2017-03-27 11:44:50 +0400
 guid: http://chirag.micro.blog/2017/03/27/cisco-launches-router.html
 ---
