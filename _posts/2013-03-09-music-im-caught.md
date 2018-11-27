@@ -3,6 +3,7 @@ layout: post
 title: "Music: I’m caught in the rain … with you"
 microblog: false
 audio: 
+photo: 
 date: 2013-03-09 17:11:10 +0400
 guid: http://chirag.micro.blog/2013/03/09/music-im-caught.html
 ---
