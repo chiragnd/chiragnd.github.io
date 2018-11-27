@@ -3,6 +3,7 @@ layout: post
 title: "Really any wiser?"
 microblog: false
 audio: 
+photo: 
 date: 2009-10-23 03:18:00 +0400
 guid: http://chirag.micro.blog/2009/10/22/really-any-wiser.html
 ---
