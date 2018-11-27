@@ -3,6 +3,7 @@ layout: post
 title: "What-a-hummus"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/fffc9447dc.jpg
 date: 2012-02-23 11:00:00 +0400
 guid: http://chirag.micro.blog/2012/02/23/whatahummus.html
 ---
