@@ -3,6 +3,7 @@ layout: post
 title: "Ramnath Kovind NDA’s Presidential candidate"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/06/7516d-1cn-jg3bvcf0i3znhcnh1ng.jpeg
 date: 2017-06-19 12:49:26 +0400
 guid: http://chirag.micro.blog/2017/06/19/ramnath-kovind-ndas.html
 ---
