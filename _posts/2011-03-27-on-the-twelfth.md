@@ -3,6 +3,7 @@ layout: post
 title: "On the twelfth day of Christmas…"
 microblog: false
 audio: 
+photo: 
 date: 2011-03-27 22:54:00 +0400
 guid: http://chirag.micro.blog/2011/03/27/on-the-twelfth.html
 ---
