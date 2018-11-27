@@ -3,6 +3,7 @@ layout: post
 title: "34 CAs being investigated for laundering"
 microblog: false
 audio: 
+photo: 
 date: 2017-02-18 13:10:20 +0400
 guid: http://chirag.micro.blog/2017/02/18/cas-being-investigated.html
 ---
