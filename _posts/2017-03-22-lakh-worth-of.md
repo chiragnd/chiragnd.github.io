@@ -3,6 +3,7 @@ layout: post
 title: "10.52 lakh worth of fines under RTI during FY15–16"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-22 14:48:12 +0400
 guid: http://chirag.micro.blog/2017/03/22/lakh-worth-of.html
 ---
