@@ -3,6 +3,7 @@ layout: post
 title: "Amerigos has something for everyone"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/029fe83c14.jpg
 date: 2012-03-28 10:22:00 +0400
 guid: http://chirag.micro.blog/2012/03/28/amerigos-has-something.html
 ---
