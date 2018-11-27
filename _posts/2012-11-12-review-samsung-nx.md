@@ -3,6 +3,7 @@ layout: post
 title: "Review: Samsung NX1000"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2012/11/4cd3a-025x0gcaohfnl0djk.jpg
 date: 2012-11-12 09:33:00 +0400
 guid: http://chirag.micro.blog/2012/11/12/review-samsung-nx.html
 ---
