@@ -3,6 +3,7 @@ layout: post
 title: "Travel o food chaat of Delhi"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/ac18e21e16.jpg
 date: 2012-07-20 18:43:53 +0400
 guid: http://chirag.micro.blog/2012/07/20/travel-o-food.html
 ---
