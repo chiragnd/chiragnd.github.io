@@ -3,6 +3,7 @@ layout: post
 title: "Good read: Are We Back On Track? by @alexandermcnabb"
 microblog: false
 audio: 
+photo: 
 date: 2012-11-21 10:28:14 +0400
 guid: http://chirag.micro.blog/2012/11/21/good-read-are.html
 ---
