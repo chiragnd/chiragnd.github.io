@@ -3,6 +3,7 @@ layout: post
 title: "Mascarpone Cheesecake with Fresh Strawberry Drizzle"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/63e133eeda.jpg
 date: 2011-01-24 12:32:58 +0400
 guid: http://chirag.micro.blog/2011/01/24/mascarpone-cheesecake-with.html
 ---
