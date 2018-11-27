@@ -3,6 +3,7 @@ layout: post
 title: "Happy Ganesh Chaturthi everyone!"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/3243e2f8a7.jpg
 date: 2011-09-01 16:18:00 +0400
 guid: http://chirag.micro.blog/2011/09/01/happy-ganesh-chaturthi.html
 ---
