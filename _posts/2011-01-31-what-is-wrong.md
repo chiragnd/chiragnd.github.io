@@ -3,6 +3,7 @@ layout: post
 title: "What is wrong with Indian television (and society, probably)"
 microblog: false
 audio: 
+photo: 
 date: 2011-01-31 10:33:00 +0400
 guid: http://chirag.micro.blog/2011/01/31/what-is-wrong.html
 ---
