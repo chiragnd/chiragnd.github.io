@@ -3,6 +3,7 @@ layout: post
 title: "Brunching"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/03/80f95-0o1vtnsq0nwhuv8g2.jpg
 date: 2010-03-17 01:13:10 +0400
 guid: http://chirag.micro.blog/2010/03/16/brunching.html
 ---
