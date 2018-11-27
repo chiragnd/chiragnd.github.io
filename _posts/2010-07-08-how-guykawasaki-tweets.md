@@ -3,6 +3,7 @@ layout: post
 title: "How @guykawasaki tweets"
 microblog: false
 audio: 
+photo: 
 date: 2010-07-08 13:08:00 +0400
 guid: http://chirag.micro.blog/2010/07/08/how-guykawasaki-tweets.html
 ---
