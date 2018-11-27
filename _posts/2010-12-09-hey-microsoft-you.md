@@ -3,6 +3,7 @@ layout: post
 title: "Hey Microsoft, you just have issues"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/12/66172-0r4gsgkmx6exaylxs.png
 date: 2010-12-09 15:32:00 +0400
 guid: http://chirag.micro.blog/2010/12/09/hey-microsoft-you.html
 ---
