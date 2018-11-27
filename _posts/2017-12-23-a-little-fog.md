@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chirag.micro.blog/uploads/2017/bb7c003781.jpg
 date: 2017-12-23 14:57:30 +0400
 guid: http://chirag.micro.blog/2017/12/23/a-little-fog.html
 ---
