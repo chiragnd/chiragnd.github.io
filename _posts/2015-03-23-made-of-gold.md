@@ -3,6 +3,7 @@ layout: post
 title: "Made of Gold"
 microblog: false
 audio: 
+photo: 
 date: 2015-03-23 10:00:46 +0400
 guid: http://chirag.micro.blog/2015/03/23/made-of-gold.html
 ---
