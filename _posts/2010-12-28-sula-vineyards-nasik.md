@@ -3,6 +3,7 @@ layout: post
 title: "Sula Vineyards, Nasik"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/e1df018033.jpg
 date: 2010-12-28 10:01:00 +0400
 guid: http://chirag.micro.blog/2010/12/28/sula-vineyards-nasik.html
 ---
