@@ -3,6 +3,7 @@ layout: post
 title: "Why Indian media should take some cues from ‘The Newsroom’"
 microblog: false
 audio: 
+photo: 
 date: 2014-04-27 11:53:30 +0400
 guid: http://chirag.micro.blog/2014/04/27/why-indian-media.html
 ---
