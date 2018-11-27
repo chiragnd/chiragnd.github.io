@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-19 16:37:57 +0400
 guid: http://chirag.micro.blog/2018/09/19/trust-me-to.html
 ---
