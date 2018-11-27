@@ -3,6 +3,7 @@ layout: post
 title: "iCloud may not be the next phase in Cloud technology, but it’s the next step"
 microblog: false
 audio: 
+photo: 
 date: 2011-06-07 23:48:00 +0400
 guid: http://chirag.micro.blog/2011/06/07/icloud-may-not.html
 ---
