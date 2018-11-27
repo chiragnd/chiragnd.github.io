@@ -3,6 +3,7 @@ layout: post
 title: "UIDAI shuts down 12 websites for unauthorized Aadhaar-related services"
 microblog: false
 audio: 
+photo: 
 date: 2017-02-05 10:52:44 +0400
 guid: http://chirag.micro.blog/2017/02/05/uidai-shuts-down.html
 ---
