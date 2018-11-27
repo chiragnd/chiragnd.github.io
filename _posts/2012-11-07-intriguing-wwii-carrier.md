@@ -3,6 +3,7 @@ layout: post
 title: "Intriguing: WWII carrier pigeon crypto-message discovered"
 microblog: false
 audio: 
+photo: 
 date: 2012-11-07 16:00:00 +0400
 guid: http://chirag.micro.blog/2012/11/07/intriguing-wwii-carrier.html
 ---
