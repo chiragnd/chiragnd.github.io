@@ -3,6 +3,7 @@ layout: post
 title: "The GST era"
 microblog: false
 audio: 
+photo: 
 date: 2017-07-02 12:51:05 +0400
 guid: http://chirag.micro.blog/2017/07/02/the-gst-era.html
 ---
