@@ -3,6 +3,7 @@ layout: post
 title: "Facebook: ‘Everyone’s doing it’"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-26 11:53:36 +0400
 guid: http://chirag.micro.blog/2018/03/26/facebook-everyones-doing.html
 ---
