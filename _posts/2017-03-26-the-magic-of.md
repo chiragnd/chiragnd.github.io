@@ -3,6 +3,7 @@ layout: post
 title: "The ‘magic’ of neem-coated urea"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-26 21:04:03 +0400
 guid: http://chirag.micro.blog/2017/03/26/the-magic-of.html
 ---
