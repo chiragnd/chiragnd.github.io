@@ -3,6 +3,7 @@ layout: post
 title: "Explaining Q3 high private consumption growth"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-01 17:41:17 +0400
 guid: http://chirag.micro.blog/2017/03/01/explaining-q-high.html
 ---
