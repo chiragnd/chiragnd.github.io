@@ -3,6 +3,7 @@ layout: post
 title: "Ferrero Rocher Cheesecake"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/b050052821.jpg
 date: 2011-10-25 20:48:00 +0400
 guid: http://chirag.micro.blog/2011/10/25/ferrero-rocher-cheesecake.html
 ---
