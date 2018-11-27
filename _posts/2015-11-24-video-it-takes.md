@@ -3,6 +3,7 @@ layout: post
 title: "Video: It takes hands to build a house, but only hearts can build a home"
 microblog: false
 audio: 
+photo: 
 date: 2015-11-24 12:47:12 +0400
 guid: http://chirag.micro.blog/2015/11/24/video-it-takes.html
 ---
