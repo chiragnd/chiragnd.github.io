@@ -3,6 +3,7 @@ layout: post
 title: "Coffee or Tea?"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/24b6443f1a.jpg
 date: 2010-04-13 00:13:00 +0400
 guid: http://chirag.micro.blog/2010/04/12/coffee-or-tea.html
 ---
