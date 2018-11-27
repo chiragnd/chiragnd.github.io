@@ -3,6 +3,7 @@ layout: post
 title: "Cheese and Chive Muffins"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/681e8e0272.jpg
 date: 2010-08-04 13:37:00 +0400
 guid: http://chirag.micro.blog/2010/08/04/cheese-and-chive.html
 ---
