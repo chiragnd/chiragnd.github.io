@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-02 21:32:30 +0400
 guid: http://chirag.micro.blog/2018/07/02/no-brainer-micro.html
 ---
