@@ -3,6 +3,7 @@ layout: post
 title: "Three’s company"
 microblog: false
 audio: 
+photo: 
 date: 2010-06-27 03:00:00 +0400
 guid: http://chirag.micro.blog/2010/06/26/threes-company.html
 ---
