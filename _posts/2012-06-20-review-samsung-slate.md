@@ -3,6 +3,7 @@ layout: post
 title: "Review: Samsung Slate PC Series 7"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2012/06/10028-0lgomjersgg7iazof.jpg
 date: 2012-06-20 18:20:00 +0400
 guid: http://chirag.micro.blog/2012/06/20/review-samsung-slate.html
 ---
