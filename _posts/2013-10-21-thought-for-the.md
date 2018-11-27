@@ -3,6 +3,7 @@ layout: post
 title: "Thought for the day:"
 microblog: false
 audio: 
+photo: 
 date: 2013-10-21 10:02:32 +0400
 guid: http://chirag.micro.blog/2013/10/21/thought-for-the.html
 ---
