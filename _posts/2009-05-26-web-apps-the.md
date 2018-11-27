@@ -3,6 +3,7 @@ layout: post
 title: "Web Apps: the here and now"
 microblog: false
 audio: 
+photo: 
 date: 2009-05-26 15:44:00 +0400
 guid: http://chirag.micro.blog/2009/05/26/web-apps-the.html
 ---
