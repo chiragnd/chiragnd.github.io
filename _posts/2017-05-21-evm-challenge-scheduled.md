@@ -3,6 +3,7 @@ layout: post
 title: "EVM Challenge scheduled for 3 June"
 microblog: false
 audio: 
+photo: 
 date: 2017-05-21 12:29:34 +0400
 guid: http://chirag.micro.blog/2017/05/21/evm-challenge-scheduled.html
 ---
