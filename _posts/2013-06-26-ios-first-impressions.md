@@ -3,6 +3,7 @@ layout: post
 title: "iOS 7: First Impressions"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2013/06/b17ae-0hdd-zpvec54ei5ko.png
 date: 2013-06-26 12:04:00 +0400
 guid: http://chirag.micro.blog/2013/06/26/ios-first-impressions.html
 ---
