@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chirag.micro.blog/uploads/2017/5b5d0f833c.jpg
 date: 2017-12-16 12:57:01 +0400
 guid: http://chirag.micro.blog/2017/12/16/focus-on-me.html
 ---
