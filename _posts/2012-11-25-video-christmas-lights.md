@@ -3,6 +3,7 @@ layout: post
 title: "Video: Christmas lights Gangnam Style"
 microblog: false
 audio: 
+photo: 
 date: 2012-11-25 22:59:08 +0400
 guid: http://chirag.micro.blog/2012/11/25/video-christmas-lights.html
 ---
