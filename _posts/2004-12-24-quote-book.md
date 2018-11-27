@@ -3,6 +3,7 @@ layout: post
 title: "Quote book"
 microblog: false
 audio: 
+photo: 
 date: 2004-12-24 12:19:00 +0400
 guid: http://chirag.micro.blog/2004/12/24/quote-book.html
 ---
