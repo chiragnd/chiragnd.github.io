@@ -3,6 +3,7 @@ layout: post
 title: "What is with the superlong email signatures?"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-09 17:08:12 +0400
 guid: http://chirag.micro.blog/2013/05/09/what-is-with.html
 ---
