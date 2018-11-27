@@ -3,6 +3,7 @@ layout: post
 title: "Trade mark applications pending for examination down to 29,000"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-27 22:36:14 +0400
 guid: http://chirag.micro.blog/2017/03/27/trade-mark-applications.html
 ---
