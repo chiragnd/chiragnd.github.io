@@ -3,6 +3,7 @@ layout: post
 title: "11 Things about Blogging"
 microblog: false
 audio: 
+photo: 
 date: 2009-12-02 11:12:00 +0400
 guid: http://chirag.micro.blog/2009/12/02/things-about-blogging.html
 ---
