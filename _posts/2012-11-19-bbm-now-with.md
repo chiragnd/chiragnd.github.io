@@ -3,6 +3,7 @@ layout: post
 title: "BBM now with voice over Wi-Fi"
 microblog: false
 audio: 
+photo: 
 date: 2012-11-19 20:31:01 +0400
 guid: http://chirag.micro.blog/2012/11/19/bbm-now-with.html
 ---
