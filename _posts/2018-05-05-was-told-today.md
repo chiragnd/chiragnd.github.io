@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-05 20:39:25 +0400
 guid: http://chirag.micro.blog/2018/05/05/was-told-today.html
 ---
