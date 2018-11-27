@@ -3,6 +3,7 @@ layout: post
 title: "Electronic Voting Machines, a primer"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-15 16:19:28 +0400
 guid: http://chirag.micro.blog/2017/03/15/electronic-voting-machines.html
 ---
