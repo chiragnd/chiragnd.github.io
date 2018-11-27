@@ -3,6 +3,7 @@ layout: post
 title: "Dubai Flow Motion"
 microblog: false
 audio: 
+photo: 
 date: 2015-02-16 17:11:00 +0400
 guid: http://chirag.micro.blog/2015/02/16/dubai-flow-motion.html
 ---
