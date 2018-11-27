@@ -3,6 +3,7 @@ layout: post
 title: "Aadhaar enrolment only at Government centres by September"
 microblog: false
 audio: 
+photo: 
 date: 2017-07-02 12:59:27 +0400
 guid: http://chirag.micro.blog/2017/07/02/aadhaar-enrolment-only.html
 ---
