@@ -3,6 +3,7 @@ layout: post
 title: "Review: Galaxy Nexus Day 1"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2012/07/70123-0kjxjbfi0dtx0ibtb.jpg
 date: 2012-07-16 10:00:00 +0400
 guid: http://chirag.micro.blog/2012/07/16/review-galaxy-nexus.html
 ---
