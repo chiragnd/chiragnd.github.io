@@ -3,6 +3,7 @@ layout: post
 title: "Are you real?"
 microblog: false
 audio: 
+photo: 
 date: 2015-02-11 11:32:42 +0400
 guid: http://chirag.micro.blog/2015/02/11/are-you-real.html
 ---
