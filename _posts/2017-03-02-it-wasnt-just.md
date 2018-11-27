@@ -3,6 +3,7 @@ layout: post
 title: "‘It wasn’t just DeMo’"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-02 15:00:56 +0400
 guid: http://chirag.micro.blog/2017/03/02/it-wasnt-just.html
 ---
