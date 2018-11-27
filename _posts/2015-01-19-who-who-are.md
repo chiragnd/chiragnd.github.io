@@ -3,6 +3,7 @@ layout: post
 title: "Who, who are you really?"
 microblog: false
 audio: 
+photo: 
 date: 2015-01-19 11:08:51 +0400
 guid: http://chirag.micro.blog/2015/01/19/who-who-are.html
 ---
