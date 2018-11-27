@@ -3,6 +3,7 @@ layout: post
 title: "Graduating Cupcakes"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/e19bfe7bd1.jpg
 date: 2010-06-11 15:42:00 +0400
 guid: http://chirag.micro.blog/2010/06/11/graduating-cupcakes.html
 ---
