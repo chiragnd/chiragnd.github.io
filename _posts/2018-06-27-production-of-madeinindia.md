@@ -3,6 +3,7 @@ layout: post
 title: "Production of made-in-India 6s iPhones begins"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-27 09:49:10 +0400
 guid: http://chirag.micro.blog/2018/06/27/production-of-madeinindia.html
 ---
