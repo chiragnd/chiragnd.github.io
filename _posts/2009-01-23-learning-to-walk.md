@@ -3,6 +3,7 @@ layout: post
 title: "Learning to walk"
 microblog: false
 audio: 
+photo: 
 date: 2009-01-24 03:24:00 +0400
 guid: http://chirag.micro.blog/2009/01/23/learning-to-walk.html
 ---
