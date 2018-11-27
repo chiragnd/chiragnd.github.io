@@ -3,6 +3,7 @@ layout: post
 title: "RBI looking to waive or minimize service charges for use of e-transactions"
 microblog: false
 audio: 
+photo: 
 date: 2017-02-04 15:12:36 +0400
 guid: http://chirag.micro.blog/2017/02/04/rbi-looking-to.html
 ---
