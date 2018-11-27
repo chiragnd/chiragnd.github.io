@@ -3,6 +3,7 @@ layout: post
 title: "Goodbye, @Twimbow"
 microblog: false
 audio: 
+photo: 
 date: 2012-09-12 15:32:00 +0400
 guid: http://chirag.micro.blog/2012/09/12/goodbye-twimbow.html
 ---
