@@ -3,6 +3,7 @@ layout: post
 title: "Cricket Team"
 microblog: false
 audio: 
+photo: 
 date: 2011-02-27 12:00:00 +0400
 guid: http://chirag.micro.blog/2011/02/27/cricket-team.html
 ---
