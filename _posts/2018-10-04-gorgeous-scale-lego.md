@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-04 09:48:26 +0400
 guid: http://chirag.micro.blog/2018/10/04/gorgeous-scale-lego.html
 ---
