@@ -3,6 +3,7 @@ layout: post
 title: "The devil’s in the details"
 microblog: false
 audio: 
+photo: 
 date: 2012-08-21 22:55:00 +0400
 guid: http://chirag.micro.blog/2012/08/21/the-devils-in.html
 ---
