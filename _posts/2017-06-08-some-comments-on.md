@@ -3,6 +3,7 @@ layout: post
 title: "Some comments on Aadhaar or Adhar:"
 microblog: false
 audio: 
+photo: 
 date: 2017-06-08 12:47:17 +0400
 guid: http://chirag.micro.blog/2017/06/08/some-comments-on.html
 ---
