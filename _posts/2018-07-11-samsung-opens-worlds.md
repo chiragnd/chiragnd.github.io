@@ -3,6 +3,7 @@ layout: post
 title: "Samsung opens world’s largest mobile phone factory in India"
 microblog: false
 audio: 
+photo: 
 date: 2018-07-11 09:53:20 +0400
 guid: http://chirag.micro.blog/2018/07/11/samsung-opens-worlds.html
 ---
