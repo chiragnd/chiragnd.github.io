@@ -3,6 +3,7 @@ layout: post
 title: "Home screen 2017"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/01/e0685-1vabklqup0snjbp9x4wtlag.png
 date: 2017-01-02 16:53:30 +0400
 guid: http://chirag.micro.blog/2017/01/02/home-screen.html
 ---
