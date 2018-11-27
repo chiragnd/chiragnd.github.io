@@ -3,6 +3,7 @@ layout: post
 title: "Life is fragile."
 microblog: false
 audio: 
+photo: 
 date: 2013-06-27 23:01:00 +0400
 guid: http://chirag.micro.blog/2013/06/27/life-is-fragile.html
 ---
