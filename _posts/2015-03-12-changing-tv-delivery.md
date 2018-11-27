@@ -3,6 +3,7 @@ layout: post
 title: "Changing TV delivery"
 microblog: false
 audio: 
+photo: 
 date: 2015-03-12 12:51:07 +0400
 guid: http://chirag.micro.blog/2015/03/12/changing-tv-delivery.html
 ---
