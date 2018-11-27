@@ -3,6 +3,7 @@ layout: post
 title: "Building the Micro.blog ecosystem"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-19 09:18:56 +0400
 guid: http://chirag.micro.blog/2018/05/19/building-the-microdotblog.html
 ---
