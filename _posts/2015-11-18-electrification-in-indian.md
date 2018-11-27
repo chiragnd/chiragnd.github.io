@@ -3,6 +3,7 @@ layout: post
 title: "Electrification in Indian villages"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2015/11/0f66d-1naopww5mxs-2btownycnow.png
 date: 2015-11-18 11:05:04 +0400
 guid: http://chirag.micro.blog/2015/11/18/electrification-in-indian.html
 ---
