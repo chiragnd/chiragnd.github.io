@@ -3,6 +3,7 @@ layout: post
 title: "Visa on arrival for Indians with US visa, Green Card to the UAE"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-29 21:14:49 +0400
 guid: http://chirag.micro.blog/2017/03/29/visa-on-arrival.html
 ---
