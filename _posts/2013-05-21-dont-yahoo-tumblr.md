@@ -3,6 +3,7 @@ layout: post
 title: "Don’t Yahoo! Tumblr"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-21 10:41:00 +0400
 guid: http://chirag.micro.blog/2013/05/21/dont-yahoo-tumblr.html
 ---
