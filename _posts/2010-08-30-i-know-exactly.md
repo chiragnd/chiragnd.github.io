@@ -3,6 +3,7 @@ layout: post
 title: "I know *exactly* what they mean…"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/08/78451-0bavm6-anqmehself.png
 date: 2010-08-30 19:20:00 +0400
 guid: http://chirag.micro.blog/2010/08/30/i-know-exactly.html
 ---
