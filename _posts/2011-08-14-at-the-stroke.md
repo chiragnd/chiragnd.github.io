@@ -3,6 +3,7 @@ layout: post
 title: "At the stroke of midnight hour"
 microblog: false
 audio: 
+photo: 
 date: 2011-08-15 00:01:00 +0400
 guid: http://chirag.micro.blog/2011/08/14/at-the-stroke.html
 ---
