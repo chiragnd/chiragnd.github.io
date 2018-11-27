@@ -3,6 +3,7 @@ layout: post
 title: "A Warby Parker experience"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2016/06/4685c-1htdtv9xsbowpwb-r5dfocw.jpeg
 date: 2016-06-27 12:56:26 +0400
 guid: http://chirag.micro.blog/2016/06/27/a-warby-parker.html
 ---
