@@ -3,6 +3,7 @@ layout: post
 title: "Let there be ‘cake’"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2011/10/60b7c-0cb5b4r3m9gleonzd.jpg
 date: 2011-10-25 11:43:00 +0400
 guid: http://chirag.micro.blog/2011/10/25/let-there-be.html
 ---
