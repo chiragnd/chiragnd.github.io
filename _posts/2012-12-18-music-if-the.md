@@ -3,6 +3,7 @@ layout: post
 title: "Music: If the Hudson overflows"
 microblog: false
 audio: 
+photo: 
 date: 2012-12-18 23:42:36 +0400
 guid: http://chirag.micro.blog/2012/12/18/music-if-the.html
 ---
