@@ -3,6 +3,7 @@ layout: post
 title: "Some thoughts post the Bihar election results"
 microblog: false
 audio: 
+photo: 
 date: 2015-11-08 12:41:51 +0400
 guid: http://chirag.micro.blog/2015/11/08/some-thoughts-post.html
 ---
