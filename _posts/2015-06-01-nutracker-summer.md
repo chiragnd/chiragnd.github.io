@@ -3,6 +3,7 @@ layout: post
 title: "Nutracker Summer"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2015/06/90819-16awc17-gfpi8qpzddirk9w.jpeg
 date: 2015-06-01 10:24:09 +0400
 guid: http://chirag.micro.blog/2015/06/01/nutracker-summer.html
 ---
