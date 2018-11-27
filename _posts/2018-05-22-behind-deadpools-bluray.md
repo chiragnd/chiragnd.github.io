@@ -3,6 +3,7 @@ layout: post
 title: "Behind Deadpool’s blu-ray takeover at Walmart"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-22 09:10:58 +0400
 guid: http://chirag.micro.blog/2018/05/22/behind-deadpools-bluray.html
 ---
