@@ -3,6 +3,7 @@ layout: post
 title: "Mohanthal v2"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/539d7b3134.jpg
 date: 2012-10-24 11:00:00 +0400
 guid: http://chirag.micro.blog/2012/10/24/mohanthal-v.html
 ---
