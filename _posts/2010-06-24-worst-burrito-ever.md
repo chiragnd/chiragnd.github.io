@@ -3,6 +3,7 @@ layout: post
 title: "Worst Burrito Ever"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/e02863ec62.jpg
 date: 2010-06-24 11:07:12 +0400
 guid: http://chirag.micro.blog/2010/06/24/worst-burrito-ever.html
 ---
