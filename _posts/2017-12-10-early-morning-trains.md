@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chirag.micro.blog/uploads/2017/d7d25b3c32.jpg
 date: 2017-12-10 18:38:23 +0400
 guid: http://chirag.micro.blog/2017/12/10/early-morning-trains.html
 ---
