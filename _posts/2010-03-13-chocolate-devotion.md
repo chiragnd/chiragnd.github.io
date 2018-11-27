@@ -3,6 +3,7 @@ layout: post
 title: "Chocolate devotion…"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/d3470fc7eb.jpg
 date: 2010-03-13 23:46:16 +0400
 guid: http://chirag.micro.blog/2010/03/13/chocolate-devotion.html
 ---
