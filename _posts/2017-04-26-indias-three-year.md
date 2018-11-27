@@ -3,6 +3,7 @@ layout: post
 title: "India’s Three year Action Agenda"
 microblog: false
 audio: 
+photo: 
 date: 2017-04-26 11:57:13 +0400
 guid: http://chirag.micro.blog/2017/04/26/indias-three-year.html
 ---
