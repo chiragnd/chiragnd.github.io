@@ -3,6 +3,7 @@ layout: post
 title: "Now Listening to ‘Attaboy’ from The Goat Rodeo Sessions."
 microblog: false
 audio: 
+photo: 
 date: 2013-12-24 10:45:48 +0400
 guid: http://chirag.micro.blog/2013/12/24/now-listening-to.html
 ---
