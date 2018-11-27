@@ -3,6 +3,7 @@ layout: post
 title: "White chocolate clusters"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/29fead5da4.jpg
 date: 2010-08-04 14:51:00 +0400
 guid: http://chirag.micro.blog/2010/08/04/white-chocolate-clusters.html
 ---
