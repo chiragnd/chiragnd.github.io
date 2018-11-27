@@ -3,6 +3,7 @@ layout: post
 title: "Kachori-craving pilot delays flight by an hour"
 microblog: false
 audio: 
+photo: 
 date: 2013-01-17 10:50:40 +0400
 guid: http://chirag.micro.blog/2013/01/17/kachoricraving-pilot-delays.html
 ---
