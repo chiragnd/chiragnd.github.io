@@ -3,6 +3,7 @@ layout: post
 title: "BakeFestDXB — Round 2"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/4c189479b7.jpg
 date: 2011-06-04 02:11:00 +0400
 guid: http://chirag.micro.blog/2011/06/03/bakefestdxb-round.html
 ---
