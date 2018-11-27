@@ -3,6 +3,7 @@ layout: post
 title: "Holy…Arrested Development is back!"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2013/04/69251-0c3lp-uuh6kyxme2.jpg
 date: 2013-04-04 17:41:06 +0400
 guid: http://chirag.micro.blog/2013/04/04/holyarrested-development-is.html
 ---
