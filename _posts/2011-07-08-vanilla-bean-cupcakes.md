@@ -3,6 +3,7 @@ layout: post
 title: "Vanilla Bean Cupcakes With Dulce De Leche Frosting"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/8f7bb9d066.jpg
 date: 2011-07-08 12:00:00 +0400
 guid: http://chirag.micro.blog/2011/07/08/vanilla-bean-cupcakes.html
 ---
