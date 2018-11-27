@@ -3,6 +3,7 @@ layout: post
 title: "Random things you discover at 1 a.m."
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/03/03dae-0ksc_fvekbbz8iu0m.png
 date: 2010-03-16 01:18:00 +0400
 guid: http://chirag.micro.blog/2010/03/15/random-things-you.html
 ---
