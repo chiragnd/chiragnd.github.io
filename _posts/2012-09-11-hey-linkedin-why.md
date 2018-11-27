@@ -3,6 +3,7 @@ layout: post
 title: "Hey, LinkedIn, why would I believe you this time?"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2012/09/f68a2-01ovd5ns-otjxwcn5.png
 date: 2012-09-11 14:36:00 +0400
 guid: http://chirag.micro.blog/2012/09/11/hey-linkedin-why.html
 ---
