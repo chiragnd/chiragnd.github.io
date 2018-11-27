@@ -3,6 +3,7 @@ layout: post
 title: "Molten goodness, or not?"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/2bad4783b9.jpg
 date: 2010-08-03 18:17:00 +0400
 guid: http://chirag.micro.blog/2010/08/03/molten-goodness-or.html
 ---
