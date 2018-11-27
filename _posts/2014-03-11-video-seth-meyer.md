@@ -3,6 +3,7 @@ layout: post
 title: "Video: Seth Meyer rips the White House, Congress and Trump."
 microblog: false
 audio: 
+photo: 
 date: 2014-03-11 11:05:40 +0400
 guid: http://chirag.micro.blog/2014/03/11/video-seth-meyer.html
 ---
