@@ -3,6 +3,7 @@ layout: post
 title: "Union Co-op Barsha outlet bans single men, via @bilalhouri"
 microblog: false
 audio: 
+photo: 
 date: 2011-07-26 16:24:00 +0400
 guid: http://chirag.micro.blog/2011/07/26/union-coop-barsha.html
 ---
