@@ -3,6 +3,7 @@ layout: post
 title: "And…Google’s at it again."
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/05/d70f3-0wj9ir_xwgwoxnk3f.png
 date: 2010-05-21 23:12:00 +0400
 guid: http://chirag.micro.blog/2010/05/21/andgoogles-at-it.html
 ---
