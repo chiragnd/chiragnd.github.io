@@ -3,6 +3,7 @@ layout: post
 title: "Vote for @DXBFlashMob logo!"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/04/2cf98-0oemjqluql9vso8el.jpg
 date: 2010-04-17 17:25:00 +0400
 guid: http://chirag.micro.blog/2010/04/17/vote-for-dxbflashmob.html
 ---
