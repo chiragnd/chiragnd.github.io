@@ -3,6 +3,7 @@ layout: post
 title: "Elco Pani Puri Center"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/fe945dd4cc.jpg
 date: 2010-11-02 00:47:00 +0400
 guid: http://chirag.micro.blog/2010/11/01/elco-pani-puri.html
 ---
