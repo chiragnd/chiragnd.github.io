@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-10 08:02:16 +0400
 guid: http://chirag.micro.blog/2018/04/10/what-is-this.html
 ---
