@@ -3,6 +3,7 @@ layout: post
 title: "Technology"
 microblog: false
 audio: 
+photo: 
 date: 2009-04-29 00:51:00 +0400
 guid: http://chirag.micro.blog/2009/04/28/technology.html
 ---
