@@ -3,6 +3,7 @@ layout: post
 title: "Deep dish Pizza"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/f717c5a0b9.jpg
 date: 2010-06-03 15:45:00 +0400
 guid: http://chirag.micro.blog/2010/06/03/deep-dish-pizza.html
 ---
