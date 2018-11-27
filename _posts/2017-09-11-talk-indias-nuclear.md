@@ -3,6 +3,7 @@ layout: post
 title: "Talk 108: India’s nuclear energy outlook"
 microblog: false
 audio: 
+photo: 
 date: 2017-09-11 13:11:08 +0400
 guid: http://chirag.micro.blog/2017/09/11/talk-indias-nuclear.html
 ---
