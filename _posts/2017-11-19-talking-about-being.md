@@ -3,6 +3,7 @@ layout: post
 title: "Talking about being vegan…"
 microblog: false
 audio: 
+photo: 
 date: 2017-11-19 15:01:16 +0400
 guid: http://chirag.micro.blog/2017/11/19/talking-about-being.html
 ---
