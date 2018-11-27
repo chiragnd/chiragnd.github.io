@@ -3,6 +3,7 @@ layout: post
 title: "The black money exit"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2016/11/1d09b-1cdmbv1gixrppem29gcwmxg.jpeg
 date: 2016-11-09 12:14:07 +0400
 guid: http://chirag.micro.blog/2016/11/09/the-black-money.html
 ---
