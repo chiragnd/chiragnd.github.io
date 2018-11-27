@@ -3,6 +3,7 @@ layout: post
 title: "Twitter vs LinkedIn"
 microblog: false
 audio: 
+photo: 
 date: 2012-06-30 11:33:00 +0400
 guid: http://chirag.micro.blog/2012/06/30/twitter-vs-linkedin.html
 ---
