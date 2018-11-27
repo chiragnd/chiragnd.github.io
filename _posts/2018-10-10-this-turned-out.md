@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.chirag.biz/uploads/2018/d9672f8676.jpg
 date: 2018-10-10 12:51:51 +0400
 guid: http://chirag.micro.blog/2018/10/10/this-turned-out.html
 ---
