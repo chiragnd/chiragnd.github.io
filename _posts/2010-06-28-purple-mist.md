@@ -3,6 +3,7 @@ layout: post
 title: "Purple mist"
 microblog: false
 audio: 
+photo: 
 date: 2010-06-28 21:23:00 +0400
 guid: http://chirag.micro.blog/2010/06/28/purple-mist.html
 ---
