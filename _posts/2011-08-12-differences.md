@@ -3,6 +3,7 @@ layout: post
 title: "Differences"
 microblog: false
 audio: 
+photo: 
 date: 2011-08-12 23:06:00 +0400
 guid: http://chirag.micro.blog/2011/08/12/differences.html
 ---
