@@ -3,6 +3,7 @@ layout: post
 title: "California-based techie helping fellow expats return to India"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/03/a6a04-1nzqvyeq7voet324xy3iqsq2x.png
 date: 2017-03-13 10:45:26 +0400
 guid: http://chirag.micro.blog/2017/03/13/californiabased-techie-helping.html
 ---
