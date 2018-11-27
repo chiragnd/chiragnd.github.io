@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-30 11:50:06 +0400
 guid: http://chirag.micro.blog/2018/05/30/took-about-minutes.html
 ---
