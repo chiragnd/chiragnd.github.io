@@ -3,6 +3,7 @@ layout: post
 title: "Getting past the jargon"
 microblog: false
 audio: 
+photo: 
 date: 2012-06-28 09:35:00 +0400
 guid: http://chirag.micro.blog/2012/06/28/getting-past-the.html
 ---
