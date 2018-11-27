@@ -3,6 +3,7 @@ layout: post
 title: "Reliance, Part III (…and I’m done)"
 microblog: false
 audio: 
+photo: 
 date: 2010-12-21 10:39:00 +0400
 guid: http://chirag.micro.blog/2010/12/21/reliance-part-iii.html
 ---
