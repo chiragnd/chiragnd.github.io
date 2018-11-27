@@ -3,6 +3,7 @@ layout: post
 title: "It all ends."
 microblog: false
 audio: 
+photo: 
 date: 2011-07-14 10:38:00 +0400
 guid: http://chirag.micro.blog/2011/07/14/it-all-ends.html
 ---
