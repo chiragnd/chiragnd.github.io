@@ -3,6 +3,7 @@ layout: post
 title: "Devil’s Food Cake topped with Chocolate Ganache"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/399392a69c.jpg
 date: 2011-02-12 17:39:40 +0400
 guid: http://chirag.micro.blog/2011/02/12/devils-food-cake.html
 ---
