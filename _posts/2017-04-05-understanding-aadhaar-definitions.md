@@ -3,6 +3,7 @@ layout: post
 title: "Understanding Aadhaar: Definitions &amp; Entities"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/04/a3535-1viawjjzlxqi4anotuqouwa2x.jpeg
 date: 2017-04-05 10:55:58 +0400
 guid: http://chirag.micro.blog/2017/04/05/understanding-aadhaar-definitions.html
 ---
