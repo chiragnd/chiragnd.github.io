@@ -3,6 +3,7 @@ layout: post
 title: "Dear @dutweets, maybe you can help me understand?"
 microblog: false
 audio: 
+photo: 
 date: 2010-10-08 14:58:00 +0400
 guid: http://chirag.micro.blog/2010/10/08/dear-dutweets-maybe.html
 ---
