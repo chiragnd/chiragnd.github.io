@@ -3,6 +3,7 @@ layout: post
 title: "Talk 107: Secularism, with Dimple Kaul"
 microblog: false
 audio: 
+photo: 
 date: 2017-08-25 11:26:00 +0400
 guid: http://chirag.micro.blog/2017/08/25/talk-secularism-with.html
 ---
