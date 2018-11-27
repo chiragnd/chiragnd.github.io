@@ -3,6 +3,7 @@ layout: post
 title: "What are you doing tomorrow? @bakefestdxb"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/9655255df5.jpg
 date: 2011-11-25 20:08:00 +0400
 guid: http://chirag.micro.blog/2011/11/25/what-are-you.html
 ---
