@@ -3,6 +3,7 @@ layout: post
 title: "Foodscapes"
 microblog: false
 audio: 
+photo: 
 date: 2010-07-01 01:34:00 +0400
 guid: http://chirag.micro.blog/2010/06/30/foodscapes.html
 ---
