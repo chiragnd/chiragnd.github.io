@@ -3,6 +3,7 @@ layout: post
 title: "Chunky Chocolate Chip Cookies"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/eabe4e4b02.jpg
 date: 2011-02-03 15:45:00 +0400
 guid: http://chirag.micro.blog/2011/02/03/chunky-chocolate-chip.html
 ---
