@@ -3,6 +3,7 @@ layout: post
 title: "Nothing beats a big-ass (home-made) brunch!"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/1a299ce5e5.jpg
 date: 2010-04-10 12:35:00 +0400
 guid: http://chirag.micro.blog/2010/04/10/nothing-beats-a.html
 ---
