@@ -3,6 +3,7 @@ layout: post
 title: "Snapple Theater"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/6b4fdeca62.jpg
 date: 2010-06-14 23:30:00 +0400
 guid: http://chirag.micro.blog/2010/06/14/snapple-theater.html
 ---
