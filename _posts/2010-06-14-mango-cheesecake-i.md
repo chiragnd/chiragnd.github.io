@@ -3,6 +3,7 @@ layout: post
 title: "Mango cheesecake — I just couldn’t resist the temptation!"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/ac5b10ae78.jpg
 date: 2010-06-14 19:17:00 +0400
 guid: http://chirag.micro.blog/2010/06/14/mango-cheesecake-i.html
 ---
