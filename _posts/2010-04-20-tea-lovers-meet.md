@@ -3,6 +3,7 @@ layout: post
 title: "Tea lovers, meet Whittard of Chelsea."
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/baf50eec00.jpg
 date: 2010-04-20 19:57:00 +0400
 guid: http://chirag.micro.blog/2010/04/20/tea-lovers-meet.html
 ---
