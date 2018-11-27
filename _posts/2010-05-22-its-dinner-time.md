@@ -3,6 +3,7 @@ layout: post
 title: "It’s dinner time!"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/4e3da9f15f.jpg
 date: 2010-05-22 12:45:00 +0400
 guid: http://chirag.micro.blog/2010/05/22/its-dinner-time.html
 ---
