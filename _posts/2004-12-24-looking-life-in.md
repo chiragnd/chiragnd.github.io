@@ -3,6 +3,7 @@ layout: post
 title: "Looking life in the eye…"
 microblog: false
 audio: 
+photo: 
 date: 2004-12-24 06:55:00 +0400
 guid: http://chirag.micro.blog/2004/12/24/looking-life-in.html
 ---
