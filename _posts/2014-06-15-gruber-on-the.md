@@ -3,6 +3,7 @@ layout: post
 title: "@gruber on the WWDC ’14 Keynote"
 microblog: false
 audio: 
+photo: 
 date: 2014-06-15 09:38:02 +0400
 guid: http://chirag.micro.blog/2014/06/15/gruber-on-the.html
 ---
