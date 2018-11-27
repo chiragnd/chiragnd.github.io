@@ -3,6 +3,7 @@ layout: post
 title: "Sponge Cake with Dulce De Leche Filling and Whipped Cream Topping"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/13f7779074.jpg
 date: 2011-01-16 00:43:00 +0400
 guid: http://chirag.micro.blog/2011/01/15/sponge-cake-with.html
 ---
