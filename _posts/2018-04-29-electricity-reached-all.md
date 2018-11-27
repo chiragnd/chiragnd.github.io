@@ -3,6 +3,7 @@ layout: post
 title: "Electricity reached all Indian villages on Saturday"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-29 10:28:25 +0400
 guid: http://chirag.micro.blog/2018/04/29/electricity-reached-all.html
 ---
