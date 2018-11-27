@@ -7,9 +7,17 @@
 	"items": [
 		
 		{
+			"id": "",
+	      	
+			"content_html": "<p>On the <a href=\"https://talesofthe.trade/wildpeeta\">latest episode of Tales of the Trade</a>, how shutting down their restaurant taught the Al Awadhi brothers important lessons that shaped their revival.</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/coffeeandicedtea/episodes/3639903d5d1c8c/primary/1543220047.mp3?referrer%5Bdomain%5D=chirag.biz&amp;referrer%5Bformat%5D=episode_detail\" type=\"audio/mpeg\" />\n</audio>\n\n<p>&lt;img src=”https://www.chirag.biz/uploads/2018/9ccc2b4ce7.jpg /&gt;</p>\n\n<p>🎙</p>\n",
+			"date_published": "2018-11-27T10:01:36+04:00",
+			"url": "https://www.chirag.biz/2018/11/27/2018-11-27-on-the-latest.html"
+		},
+		
+		{
 			"id": "http://chirag.micro.blog/2018/11/08/this-week-a.html",
 	      	
-			"content_html": "<p>This week, a story from a slightly past life when I was a dedicated food blogger, and came across <a href=\"http://mycustardpie.com\">My Custard Pie</a>, not just a blog but a brand that is growing strong day by day.</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/coffeeandicedtea/episodes/36bf366565e3c0/primary/1541503475.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\n</audio>\n\n<p><img src=\"https://www.chirag.biz/uploads/2018/9286fc24e7.jpg\" /></p>\n\n<p>🎙</p>\n",
+			"content_html": "<p>This week, a story from a slightly past life when I was a dedicated food blogger, and came across My Custard Pie, not just a blog but a brand that is growing strong day by day.</p>\n\n<audio style=\"width:100%\" controls=\"\"><source src=\"https://tracking.podiant.co/d/spoke/coffeeandicedtea/episodes/36bf366565e3c0/primary/1541503475.mp3?referrer%5Bdomain%5D=chirag.biz\" type=\"audio/mpeg\" />\n</audio>\n\n<p><img src=\"https://www.chirag.biz/uploads/2018/9286fc24e7.jpg\" /></p>\n\n<p>🎙</p>\n",
 			"date_published": "2018-11-08T15:13:49+04:00",
 			"url": "https://www.chirag.biz/2018/11/08/this-week-a.html"
 		},
@@ -198,14 +206,6 @@
 			"content_html": "<p>The last week I’ve had multiple conversations off social media, about social media, its impacts &amp; what we’ve lost along the way. A shoutout to those who have patiently heard me out &amp; shared insightful feedback. Can’t thank you enough.\n#socialMedia #indieWeb</p>\n",
 			"date_published": "2018-07-29T11:11:33+04:00",
 			"url": "https://www.chirag.biz/2018/07/29/the-last-week.html"
-		},
-		
-		{
-			"id": "http://chirag.micro.blog/2018/07/28/how-goes-your.html",
-	      	
-			"content_html": "<p>How goes your weekend folks?</p>\n\n<p>Trying out a take on the Aviation cocktail, with gooseberry/amla jam for that little extra Vit C.</p>\n\n<p><img src=\"http://www.chirag.biz/uploads/2018/f6570e0a6a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-28T13:45:52+04:00",
-			"url": "https://www.chirag.biz/2018/07/28/how-goes-your.html"
 		}
 		
 	]
