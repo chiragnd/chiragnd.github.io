@@ -3,6 +3,7 @@ layout: post
 title: "Banoffee Pie"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/6f90d435e6.jpg
 date: 2011-01-21 17:34:48 +0400
 guid: http://chirag.micro.blog/2011/01/21/banoffee-pie.html
 ---
