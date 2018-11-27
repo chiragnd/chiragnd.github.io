@@ -3,6 +3,7 @@ layout: post
 title: "Tendulkar adopts second village for transformation"
 microblog: false
 audio: 
+photo: 
 date: 2017-02-14 12:08:37 +0400
 guid: http://chirag.micro.blog/2017/02/14/tendulkar-adopts-second.html
 ---
