@@ -3,6 +3,7 @@ layout: post
 title: "Travel-o-food Delhi"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/5f64db84dc.jpg
 date: 2012-05-11 12:33:38 +0400
 guid: http://chirag.micro.blog/2012/05/11/travelofood-delhi.html
 ---
