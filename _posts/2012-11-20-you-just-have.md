@@ -3,6 +3,7 @@ layout: post
 title: "You just have to do something"
 microblog: false
 audio: 
+photo: 
 date: 2012-11-20 10:00:49 +0400
 guid: http://chirag.micro.blog/2012/11/20/you-just-have.html
 ---
