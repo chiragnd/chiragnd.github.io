@@ -3,6 +3,7 @@ layout: post
 title: "The operation to rescue Manhattan’s drowned internet"
 microblog: false
 audio: 
+photo: 
 date: 2012-11-19 23:47:24 +0400
 guid: http://chirag.micro.blog/2012/11/19/the-operation-to.html
 ---
