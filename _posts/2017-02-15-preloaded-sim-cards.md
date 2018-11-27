@@ -3,6 +3,7 @@ layout: post
 title: "Pre-loaded SIM cards available to tourists with e-visa"
 microblog: false
 audio: 
+photo: 
 date: 2017-02-15 15:47:25 +0400
 guid: http://chirag.micro.blog/2017/02/15/preloaded-sim-cards.html
 ---
