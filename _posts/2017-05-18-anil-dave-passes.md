@@ -3,6 +3,7 @@ layout: post
 title: "Anil Dave passes away"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/05/99071-1rhmvz-umxjppr45fhug-q2x.png
 date: 2017-05-18 11:51:35 +0400
 guid: http://chirag.micro.blog/2017/05/18/anil-dave-passes.html
 ---
