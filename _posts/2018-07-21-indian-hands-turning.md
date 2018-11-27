@@ -3,6 +3,7 @@ layout: post
 title: "Indian hands turning wheels of global auto companies"
 microblog: false
 audio: 
+photo: 
 date: 2018-07-21 11:02:03 +0400
 guid: http://chirag.micro.blog/2018/07/21/indian-hands-turning.html
 ---
