@@ -3,6 +3,7 @@ layout: post
 title: "First Impressions: Lion (OS X 10.7)"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2011/07/01412-0vuzimzxkmoh5s-yw.png
 date: 2011-07-22 22:52:00 +0400
 guid: http://chirag.micro.blog/2011/07/22/first-impressions-lion.html
 ---
