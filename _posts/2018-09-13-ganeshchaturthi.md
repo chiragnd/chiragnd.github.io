@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.chirag.biz/uploads/2018/73260967a8.jpg
 date: 2018-09-13 10:01:11 +0400
 guid: http://chirag.micro.blog/2018/09/13/ganeshchaturthi.html
 ---
