@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.chirag.biz/uploads/2018/dba00c45c3.jpg
 date: 2018-08-30 14:03:31 +0400
 guid: http://chirag.micro.blog/2018/08/30/continuing-the-fun.html
 ---
