@@ -3,6 +3,7 @@ layout: post
 title: "And… @picplz shuts down"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2012/06/d5c81-03vpsupdteoybi5z4.png
 date: 2012-06-03 09:25:00 +0400
 guid: http://chirag.micro.blog/2012/06/03/and-picplz-shuts.html
 ---
