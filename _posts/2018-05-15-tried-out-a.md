@@ -3,6 +3,7 @@ layout: post
 title: "The story behind Wildpeeta  🎧"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-15 20:27:57 +0400
 guid: http://chirag.micro.blog/2018/05/15/tried-out-a.html
 ---
