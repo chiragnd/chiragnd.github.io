@@ -3,6 +3,7 @@ layout: post
 title: "Confessions of a teenage drama queen"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/05/efa11-0maovno0kx8pwt8-c.png
 date: 2010-05-21 23:00:00 +0400
 guid: http://chirag.micro.blog/2010/05/21/confessions-of-a.html
 ---
