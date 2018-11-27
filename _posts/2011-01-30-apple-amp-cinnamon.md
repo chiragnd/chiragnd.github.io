@@ -3,6 +3,7 @@ layout: post
 title: "Apple &amp; Cinnamon Muffins"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/1e3ec5dbda.jpg
 date: 2011-01-30 19:48:00 +0400
 guid: http://chirag.micro.blog/2011/01/30/apple-amp-cinnamon.html
 ---
