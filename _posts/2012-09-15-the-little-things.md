@@ -3,6 +3,7 @@ layout: post
 title: "The little things"
 microblog: false
 audio: 
+photo: 
 date: 2012-09-16 00:27:00 +0400
 guid: http://chirag.micro.blog/2012/09/15/the-little-things.html
 ---
