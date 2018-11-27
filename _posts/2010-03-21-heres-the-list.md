@@ -3,6 +3,7 @@ layout: post
 title: "Here’s the list of computer hosts running on my Home LAN. If you know the reference, we must talk!"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/03/3f1c5-0uvdv_0eih2awrptc.png
 date: 2010-03-21 17:42:00 +0400
 guid: http://chirag.micro.blog/2010/03/21/heres-the-list.html
 ---
