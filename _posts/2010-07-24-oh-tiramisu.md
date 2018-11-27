@@ -3,6 +3,7 @@ layout: post
 title: "Oh, Tiramisu!"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/07/1aa16-0bxsrk0g9dkqeyylb.jpg
 date: 2010-07-24 17:39:00 +0400
 guid: http://chirag.micro.blog/2010/07/24/oh-tiramisu.html
 ---
