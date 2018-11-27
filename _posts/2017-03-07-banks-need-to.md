@@ -3,6 +3,7 @@ layout: post
 title: "Banks need to decide they want to digitise"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-07 10:29:47 +0400
 guid: http://chirag.micro.blog/2017/03/07/banks-need-to.html
 ---
