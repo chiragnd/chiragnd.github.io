@@ -3,6 +3,7 @@ layout: post
 title: "Spicy pineapple from CA"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/d310573b00.jpg
 date: 2012-05-17 16:03:52 +0400
 guid: http://chirag.micro.blog/2012/05/17/spicy-pineapple-from.html
 ---
