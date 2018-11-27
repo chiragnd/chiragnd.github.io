@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-06 11:17:08 +0400
 guid: http://chirag.micro.blog/2018/09/06/excited-to-have.html
 ---
