@@ -3,6 +3,7 @@ layout: post
 title: "Brioche Dor??e @dubaimallnews"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/4d250346e4.jpg
 date: 2010-04-21 14:26:00 +0400
 guid: http://chirag.micro.blog/2010/04/21/brioche-dore-dubaimallnews.html
 ---
