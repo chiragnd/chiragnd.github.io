@@ -3,6 +3,7 @@ layout: post
 title: "I’d like some bread please :)"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2009/07/4833c-0exy3e_lrbom7mrzc.jpg
 date: 2009-07-27 23:00:00 +0400
 guid: http://chirag.micro.blog/2009/07/27/id-like-some.html
 ---
