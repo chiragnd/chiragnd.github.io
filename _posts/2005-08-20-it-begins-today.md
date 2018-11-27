@@ -3,6 +3,7 @@ layout: post
 title: "It begins today…"
 microblog: false
 audio: 
+photo: 
 date: 2005-08-20 09:35:00 +0400
 guid: http://chirag.micro.blog/2005/08/20/it-begins-today.html
 ---
