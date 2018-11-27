@@ -3,6 +3,7 @@ layout: post
 title: "Always nice to be featured,so nice to have a photo I took featured on a travel site for…"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2011/09/cf1ff-0srszyjpfdsjqzmwy.png
 date: 2011-09-02 14:10:00 +0400
 guid: http://chirag.micro.blog/2011/09/02/always-nice-to.html
 ---
