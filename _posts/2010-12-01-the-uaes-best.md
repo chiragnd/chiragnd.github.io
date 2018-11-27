@@ -3,6 +3,7 @@ layout: post
 title: "The UAE’s best food blogs, featuring @InaFryingPan, @sally2hats and others. Nice work foodies!"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/12/ba180-0akcsqvzjeionbdyj.jpg
 date: 2010-12-01 08:27:00 +0400
 guid: http://chirag.micro.blog/2010/12/01/the-uaes-best.html
 ---
