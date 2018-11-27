@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chirag.micro.blog/uploads/2017/523bbad101.jpg
 date: 2017-09-21 12:34:46 +0400
 guid: http://chirag.micro.blog/2017/09/21/my-favourite-time.html
 ---
