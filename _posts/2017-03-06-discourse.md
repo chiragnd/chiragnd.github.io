@@ -3,6 +3,7 @@ layout: post
 title: "Discourse 2.0"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/03/30ca6-1k5wg985ik3ka-i-oiqwmna.png
 date: 2017-03-06 12:57:17 +0400
 guid: http://chirag.micro.blog/2017/03/06/discourse.html
 ---
