@@ -3,6 +3,7 @@ layout: post
 title: "Mohanthal"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/8f888de728.jpg
 date: 2010-06-04 11:29:00 +0400
 guid: http://chirag.micro.blog/2010/06/04/mohanthal.html
 ---
