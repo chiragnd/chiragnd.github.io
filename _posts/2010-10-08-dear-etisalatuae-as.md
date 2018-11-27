@@ -3,6 +3,7 @@ layout: post
 title: "Dear @EtisalatUAE, as an ISP and all, you do know we use forward slashes in URLs, right Sigh."
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/10/6b411-0j-7_juj7wns92f-x.jpg
 date: 2010-10-08 18:21:00 +0400
 guid: http://chirag.micro.blog/2010/10/08/dear-etisalatuae-as.html
 ---
