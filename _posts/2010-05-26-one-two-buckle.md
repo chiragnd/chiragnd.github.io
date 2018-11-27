@@ -3,6 +3,7 @@ layout: post
 title: "One, two, buckle my shoe"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/05/1e420-0jhhafrmnx2bkvtrd.jpg
 date: 2010-05-27 00:40:00 +0400
 guid: http://chirag.micro.blog/2010/05/26/one-two-buckle.html
 ---
