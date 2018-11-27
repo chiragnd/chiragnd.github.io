@@ -3,6 +3,7 @@ layout: post
 title: "How to cure a cheesecake infatuation"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/845ef01698.jpg
 date: 2010-08-10 14:34:00 +0400
 guid: http://chirag.micro.blog/2010/08/10/how-to-cure.html
 ---
