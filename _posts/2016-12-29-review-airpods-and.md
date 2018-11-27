@@ -3,6 +3,7 @@ layout: post
 title: "Review: AirPods, and liberation"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2016/12/663ee-1lsnnzdjezil-jrtwwybtxg.png
 date: 2016-12-29 15:43:56 +0400
 guid: http://chirag.micro.blog/2016/12/29/review-airpods-and.html
 ---
