@@ -3,6 +3,7 @@ layout: post
 title: "Tried a Falafel Man’ousheh yet?"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/4856058702.jpg
 date: 2012-05-10 11:00:00 +0400
 guid: http://chirag.micro.blog/2012/05/10/tried-a-falafel.html
 ---
