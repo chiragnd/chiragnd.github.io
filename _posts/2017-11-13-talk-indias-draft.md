@@ -3,6 +3,7 @@ layout: post
 title: "Talk 111: India’s draft regulation for drones"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/11/058eb-1z184rys2dzxg1frrlx6z6g.jpeg
 date: 2017-11-13 13:53:26 +0400
 guid: http://chirag.micro.blog/2017/11/13/talk-indias-draft.html
 ---
