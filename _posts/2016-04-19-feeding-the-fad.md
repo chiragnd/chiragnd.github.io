@@ -3,6 +3,7 @@ layout: post
 title: "Feeding the fad @ Farzi"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2016/04/abb4f-1huvzu482pc0kpmhqfaphwq.jpeg
 date: 2016-04-19 16:26:20 +0400
 guid: http://chirag.micro.blog/2016/04/19/feeding-the-fad.html
 ---
