@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chirag.micro.blog/uploads/2017/21aae694f9.jpg
 date: 2017-11-26 09:36:15 +0400
 guid: http://chirag.micro.blog/2017/11/26/pomelo-citrus-iced.html
 ---
