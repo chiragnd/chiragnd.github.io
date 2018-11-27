@@ -3,6 +3,7 @@ layout: post
 title: "Welcome @rawatcentral!"
 microblog: false
 audio: 
+photo: 
 date: 2010-06-25 12:26:04 +0400
 guid: http://chirag.micro.blog/2010/06/25/welcome-rawatcentral.html
 ---
