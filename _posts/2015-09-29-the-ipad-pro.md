@@ -3,6 +3,7 @@ layout: post
 title: "The iPad Pro and why it’s for me"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2015/09/d9d51-1c7wxtow7me1pk8vg8dhkza.png
 date: 2015-09-30 00:04:27 +0400
 guid: http://chirag.micro.blog/2015/09/29/the-ipad-pro.html
 ---
