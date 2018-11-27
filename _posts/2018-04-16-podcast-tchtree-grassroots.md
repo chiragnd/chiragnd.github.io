@@ -3,6 +3,7 @@ layout: post
 title: "[Podcast] t3chtree 6: Grassroots innovation, mentorship & @TiEDubai Con 2018"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-16 14:53:54 +0400
 guid: http://chirag.micro.blog/2018/04/16/podcast-tchtree-grassroots.html
 ---
