@@ -3,6 +3,7 @@ layout: post
 title: "Talk 101: Who moved my law &amp; order"
 microblog: false
 audio: 
+photo: 
 date: 2017-04-22 09:39:13 +0400
 guid: http://chirag.micro.blog/2017/04/22/talk-who-moved.html
 ---
