@@ -3,6 +3,7 @@ layout: post
 title: "Why iOS 7 fascinates me"
 microblog: false
 audio: 
+photo: https://cdn-images-1.medium.com/fit/t/NaN/NaN/0*TroPecCkdlQnWIjp.jpeg
 date: 2013-07-02 14:25:41 +0400
 guid: http://chirag.micro.blog/2013/07/02/why-ios-fascinates.html
 ---
