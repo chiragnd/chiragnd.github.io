@@ -3,6 +3,7 @@ layout: post
 title: "From @the_webhamster."
 microblog: false
 audio: 
+photo: 
 date: 2012-10-16 09:31:00 +0400
 guid: http://chirag.micro.blog/2012/10/16/from-thewebhamster.html
 ---
