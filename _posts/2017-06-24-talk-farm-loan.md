@@ -3,6 +3,7 @@ layout: post
 title: "Talk 105: Farm loan waiver"
 microblog: false
 audio: 
+photo: 
 date: 2017-06-24 20:16:45 +0400
 guid: http://chirag.micro.blog/2017/06/24/talk-farm-loan.html
 ---
