@@ -3,6 +3,7 @@ layout: post
 title: "Air India in talks with OnAir to have Wifi on board"
 microblog: false
 audio: 
+photo: 
 date: 2014-06-22 10:18:00 +0400
 guid: http://chirag.micro.blog/2014/06/22/air-india-in.html
 ---
