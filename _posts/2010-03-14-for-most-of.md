@@ -3,6 +3,7 @@ layout: post
 title: "For most of the world, today is March 14th, or 3/14."
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/03/0ba94-0-mcoom8efkevaxtf.gif
 date: 2010-03-15 01:42:00 +0400
 guid: http://chirag.micro.blog/2010/03/14/for-most-of.html
 ---
