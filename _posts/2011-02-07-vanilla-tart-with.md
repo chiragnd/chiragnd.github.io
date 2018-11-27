@@ -3,6 +3,7 @@ layout: post
 title: "Vanilla Tart with Kiwi Topping"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/5285f48b2e.jpg
 date: 2011-02-07 14:10:00 +0400
 guid: http://chirag.micro.blog/2011/02/07/vanilla-tart-with.html
 ---
