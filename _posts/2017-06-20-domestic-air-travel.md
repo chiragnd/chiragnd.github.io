@@ -3,6 +3,7 @@ layout: post
 title: "Domestic air travel grows 17.63% YoY"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/06/630b2-1h7xrzivqfatzmixvufdjjg.jpeg
 date: 2017-06-20 12:48:12 +0400
 guid: http://chirag.micro.blog/2017/06/20/domestic-air-travel.html
 ---
