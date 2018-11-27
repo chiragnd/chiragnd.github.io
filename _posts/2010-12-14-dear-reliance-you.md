@@ -3,6 +3,7 @@ layout: post
 title: "Dear Reliance, you need work"
 microblog: false
 audio: 
+photo: 
 date: 2010-12-14 10:01:00 +0400
 guid: http://chirag.micro.blog/2010/12/14/dear-reliance-you.html
 ---
