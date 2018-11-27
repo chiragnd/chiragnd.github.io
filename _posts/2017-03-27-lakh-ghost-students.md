@@ -3,6 +3,7 @@ layout: post
 title: "4.4 lakh ‘ghost’ students in Jharkhand, Manipur, Andhra Pradesh"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-27 13:28:22 +0400
 guid: http://chirag.micro.blog/2017/03/27/lakh-ghost-students.html
 ---
