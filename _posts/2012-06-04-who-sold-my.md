@@ -3,6 +3,7 @@ layout: post
 title: "Who sold my email address?"
 microblog: false
 audio: 
+photo: 
 date: 2012-06-04 15:01:00 +0400
 guid: http://chirag.micro.blog/2012/06/04/who-sold-my.html
 ---
