@@ -3,6 +3,7 @@ layout: post
 title: "How much of DeMo deposits were black?"
 microblog: false
 audio: 
+photo: 
 date: 2017-02-08 14:44:38 +0400
 guid: http://chirag.micro.blog/2017/02/08/how-much-of.html
 ---
