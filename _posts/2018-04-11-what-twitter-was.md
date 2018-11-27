@@ -3,6 +3,7 @@ layout: post
 title: "What Twitter was, and what it is now"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-11 14:59:50 +0400
 guid: http://chirag.micro.blog/2018/04/11/what-twitter-was.html
 ---
