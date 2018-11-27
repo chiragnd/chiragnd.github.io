@@ -3,6 +3,7 @@ layout: post
 title: "Wildpeeta!"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/cc811367c7.jpg
 date: 2010-04-13 20:48:00 +0400
 guid: http://chirag.micro.blog/2010/04/13/wildpeeta.html
 ---
