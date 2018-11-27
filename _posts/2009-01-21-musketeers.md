@@ -3,6 +3,7 @@ layout: post
 title: "(3) musketeers"
 microblog: false
 audio: 
+photo: 
 date: 2009-01-21 17:38:00 +0400
 guid: http://chirag.micro.blog/2009/01/21/musketeers.html
 ---
