@@ -3,6 +3,7 @@ layout: post
 title: "First Impressions: Samsung Slate PC, Series 7"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2012/06/a08c3-0qng3dbelzcx5hx4j.jpg
 date: 2012-06-02 17:03:00 +0400
 guid: http://chirag.micro.blog/2012/06/02/first-impressions-samsung.html
 ---
