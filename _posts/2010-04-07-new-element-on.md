@@ -3,6 +3,7 @@ layout: post
 title: "New Element on the Periodic Table"
 microblog: false
 audio: 
+photo: 
 date: 2010-04-07 09:21:00 +0400
 guid: http://chirag.micro.blog/2010/04/07/new-element-on.html
 ---
