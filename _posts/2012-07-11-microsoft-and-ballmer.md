@@ -3,6 +3,7 @@ layout: post
 title: "Microsoft and Ballmer"
 microblog: false
 audio: 
+photo: 
 date: 2012-07-11 10:18:00 +0400
 guid: http://chirag.micro.blog/2012/07/11/microsoft-and-ballmer.html
 ---
