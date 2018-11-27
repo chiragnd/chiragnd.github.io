@@ -3,6 +3,7 @@ layout: post
 title: "Pizza pizza"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/cc47981e7d.jpg
 date: 2010-04-05 23:51:00 +0400
 guid: http://chirag.micro.blog/2010/04/05/pizza-pizza.html
 ---
