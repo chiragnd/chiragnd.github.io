@@ -3,6 +3,7 @@ layout: post
 title: "Pricing Experiments You Might Not Know, But Can Learn From"
 microblog: false
 audio: 
+photo: 
 date: 2014-02-16 10:24:29 +0400
 guid: http://chirag.micro.blog/2014/02/16/pricing-experiments-you.html
 ---
