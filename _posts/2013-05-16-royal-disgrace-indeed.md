@@ -3,6 +3,7 @@ layout: post
 title: "Royal disgrace indeed"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-16 15:11:55 +0400
 guid: http://chirag.micro.blog/2013/05/16/royal-disgrace-indeed.html
 ---
