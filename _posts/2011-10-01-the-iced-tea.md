@@ -3,6 +3,7 @@ layout: post
 title: "*The* Iced Tea, Brunetti"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/28f3c1304f.jpg
 date: 2011-10-01 22:30:00 +0400
 guid: http://chirag.micro.blog/2011/10/01/the-iced-tea.html
 ---
