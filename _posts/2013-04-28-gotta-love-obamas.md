@@ -3,6 +3,7 @@ layout: post
 title: "Gotta love Obama’s sense of humor"
 microblog: false
 audio: 
+photo: 
 date: 2013-04-28 19:06:00 +0400
 guid: http://chirag.micro.blog/2013/04/28/gotta-love-obamas.html
 ---
