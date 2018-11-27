@@ -3,6 +3,7 @@ layout: post
 title: "Presentations at Google I/O 2012"
 microblog: false
 audio: 
+photo: 
 date: 2012-06-28 18:27:00 +0400
 guid: http://chirag.micro.blog/2012/06/28/presentations-at-google.html
 ---
