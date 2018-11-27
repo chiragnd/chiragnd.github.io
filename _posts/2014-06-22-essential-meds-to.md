@@ -3,6 +3,7 @@ layout: post
 title: "50 essential meds to be given free?"
 microblog: false
 audio: 
+photo: 
 date: 2014-06-22 10:28:57 +0400
 guid: http://chirag.micro.blog/2014/06/22/essential-meds-to.html
 ---
