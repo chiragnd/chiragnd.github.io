@@ -3,6 +3,7 @@ layout: post
 title: "India extends Ujala LED programme to the UK"
 microblog: false
 audio: 
+photo: 
 date: 2017-05-15 11:13:18 +0400
 guid: http://chirag.micro.blog/2017/05/15/india-extends-ujala.html
 ---
