@@ -3,6 +3,7 @@ layout: post
 title: "Music: Perfect Darkness"
 microblog: false
 audio: 
+photo: 
 date: 2012-11-26 10:00:35 +0400
 guid: http://chirag.micro.blog/2012/11/26/music-perfect-darkness.html
 ---
