@@ -3,6 +3,7 @@ layout: post
 title: "Restaurant Review: On The Border"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/754c1f8803.jpg
 date: 2010-04-20 00:35:00 +0400
 guid: http://chirag.micro.blog/2010/04/19/restaurant-review-on.html
 ---
