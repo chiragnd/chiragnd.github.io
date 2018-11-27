@@ -3,6 +3,7 @@ layout: post
 title: "Nine eleven"
 microblog: false
 audio: 
+photo: 
 date: 2011-09-11 16:45:00 +0400
 guid: http://chirag.micro.blog/2011/09/11/nine-eleven.html
 ---
