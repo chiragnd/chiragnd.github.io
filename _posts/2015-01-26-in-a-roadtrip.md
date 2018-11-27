@@ -3,6 +3,7 @@ layout: post
 title: "In a roadtrip kind of mood today."
 microblog: false
 audio: 
+photo: 
 date: 2015-01-26 11:29:41 +0400
 guid: http://chirag.micro.blog/2015/01/26/in-a-roadtrip.html
 ---
