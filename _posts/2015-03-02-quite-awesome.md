@@ -3,6 +3,7 @@ layout: post
 title: "Quite awesome."
 microblog: false
 audio: 
+photo: 
 date: 2015-03-02 10:00:38 +0400
 guid: http://chirag.micro.blog/2015/03/02/quite-awesome.html
 ---
