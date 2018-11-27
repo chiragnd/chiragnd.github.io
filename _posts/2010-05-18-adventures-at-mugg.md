@@ -3,6 +3,7 @@ layout: post
 title: "Adventures at Mugg &amp; Bean"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/5f7a39b221.jpg
 date: 2010-05-18 13:58:00 +0400
 guid: http://chirag.micro.blog/2010/05/18/adventures-at-mugg.html
 ---
