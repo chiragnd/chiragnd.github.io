@@ -3,6 +3,7 @@ layout: post
 title: "15 additional SC judges will be available over the summer break"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-31 08:38:27 +0400
 guid: http://chirag.micro.blog/2017/03/31/additional-sc-judges.html
 ---
