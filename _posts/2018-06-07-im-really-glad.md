@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-07 13:09:03 +0400
 guid: http://chirag.micro.blog/2018/06/07/im-really-glad.html
 ---
