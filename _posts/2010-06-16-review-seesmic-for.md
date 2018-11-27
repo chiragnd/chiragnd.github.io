@@ -3,6 +3,7 @@ layout: post
 title: "Review: Seesmic for iPhone"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/06/2a712-0ptbpuz3zoe68rcrx.jpg
 date: 2010-06-16 08:18:00 +0400
 guid: http://chirag.micro.blog/2010/06/16/review-seesmic-for.html
 ---
