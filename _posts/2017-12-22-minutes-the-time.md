@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chirag.micro.blog/uploads/2017/8a9d77cac8.jpg
 date: 2017-12-22 12:41:07 +0400
 guid: http://chirag.micro.blog/2017/12/22/minutes-the-time.html
 ---
