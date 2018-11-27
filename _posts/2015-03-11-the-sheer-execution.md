@@ -3,6 +3,7 @@ layout: post
 title: "The sheer execution of Apple, Inc."
 microblog: false
 audio: 
+photo: 
 date: 2015-03-11 21:48:31 +0400
 guid: http://chirag.micro.blog/2015/03/11/the-sheer-execution.html
 ---
