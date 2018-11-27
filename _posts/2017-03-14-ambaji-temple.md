@@ -3,6 +3,7 @@ layout: post
 title: "Ambaji Temple"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/03/c797f-1h4k1wgap1i81hv_ano9kza2x.jpeg
 date: 2017-03-14 12:04:10 +0400
 guid: http://chirag.micro.blog/2017/03/14/ambaji-temple.html
 ---
