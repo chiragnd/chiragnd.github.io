@@ -3,6 +3,7 @@ layout: post
 title: "Microsoft Education Competencies: Humor"
 microblog: false
 audio: 
+photo: 
 date: 2010-04-30 19:10:00 +0400
 guid: http://chirag.micro.blog/2010/04/30/microsoft-education-competencies.html
 ---
