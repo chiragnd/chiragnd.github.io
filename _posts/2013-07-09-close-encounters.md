@@ -3,6 +3,7 @@ layout: post
 title: "Close encounters"
 microblog: false
 audio: 
+photo: 
 date: 2013-07-09 14:03:45 +0400
 guid: http://chirag.micro.blog/2013/07/09/close-encounters.html
 ---
