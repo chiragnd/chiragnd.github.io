@@ -3,6 +3,7 @@ layout: post
 title: "Dark Chocolate Mousse Cake"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/1e3eb5bb00.jpg
 date: 2011-01-21 18:06:29 +0400
 guid: http://chirag.micro.blog/2011/01/21/dark-chocolate-mousse.html
 ---
