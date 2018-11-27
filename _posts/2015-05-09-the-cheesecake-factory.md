@@ -3,6 +3,7 @@ layout: post
 title: "The Cheesecake Factory, Dubai"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/662af8a6d9.jpg
 date: 2015-05-09 22:56:24 +0400
 guid: http://chirag.micro.blog/2015/05/09/the-cheesecake-factory.html
 ---
