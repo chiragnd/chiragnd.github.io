@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-12 19:29:01 +0400
 guid: http://chirag.micro.blog/2018/07/12/manton-reece-ive.html
 ---
