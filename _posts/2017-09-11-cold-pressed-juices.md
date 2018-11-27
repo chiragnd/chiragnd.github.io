@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chirag.micro.blog/uploads/2017/1e971b41cf.jpg
 date: 2017-09-11 09:14:53 +0400
 guid: http://chirag.micro.blog/2017/09/11/cold-pressed-juices.html
 ---
