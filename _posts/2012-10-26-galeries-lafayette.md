@@ -3,6 +3,7 @@ layout: post
 title: "Galeries Lafayette"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/1ff29cfc78.jpg
 date: 2012-10-27 01:39:00 +0400
 guid: http://chirag.micro.blog/2012/10/26/galeries-lafayette.html
 ---
