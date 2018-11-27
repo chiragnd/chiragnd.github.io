@@ -3,6 +3,7 @@ layout: post
 title: "Massaging egos #facebook"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-08 14:18:55 +0400
 guid: http://chirag.micro.blog/2018/04/08/massaging-egos-facebook.html
 ---
