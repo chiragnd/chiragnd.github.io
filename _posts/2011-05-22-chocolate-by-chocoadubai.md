@@ -3,6 +3,7 @@ layout: post
 title: "Chocolate by @ChoCoaDubai"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/50f0574a04.jpg
 date: 2011-05-22 12:05:00 +0400
 guid: http://chirag.micro.blog/2011/05/22/chocolate-by-chocoadubai.html
 ---
