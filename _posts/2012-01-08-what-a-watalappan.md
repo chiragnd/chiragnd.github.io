@@ -3,6 +3,7 @@ layout: post
 title: "What a Watalappan!"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/47f20388bd.jpg
 date: 2012-01-08 13:12:00 +0400
 guid: http://chirag.micro.blog/2012/01/08/what-a-watalappan.html
 ---
