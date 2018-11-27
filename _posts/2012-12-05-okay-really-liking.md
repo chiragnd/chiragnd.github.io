@@ -3,6 +3,7 @@ layout: post
 title: "Okay, really liking the new Gmail app’s look &amp; feel updates! Some slick animations as well."
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2012/12/13063-0bww_3nqcxovngfhn.jpg
 date: 2012-12-05 11:00:00 +0400
 guid: http://chirag.micro.blog/2012/12/05/okay-really-liking.html
 ---
