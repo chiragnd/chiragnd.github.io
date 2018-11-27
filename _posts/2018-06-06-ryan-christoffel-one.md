@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-06 12:51:14 +0400
 guid: http://chirag.micro.blog/2018/06/06/ryan-christoffel-one.html
 ---
