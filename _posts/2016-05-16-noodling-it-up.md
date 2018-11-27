@@ -3,6 +3,7 @@ layout: post
 title: "Noodling it up at Wokyo"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2016/05/29b02-1ipkpcmrvuwqafxyi6yblqa.jpeg
 date: 2016-05-16 10:36:01 +0400
 guid: http://chirag.micro.blog/2016/05/16/noodling-it-up.html
 ---
