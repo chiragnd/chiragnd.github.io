@@ -3,6 +3,7 @@ layout: post
 title: "Free podcasting, and why we should learn our lessons"
 microblog: false
 audio: 
+photo: 
 date: 2018-07-24 11:10:36 +0400
 guid: http://chirag.micro.blog/2018/07/24/free-podcasting-and.html
 ---
