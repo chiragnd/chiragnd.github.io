@@ -3,6 +3,7 @@ layout: post
 title: "Opinion: How can we discuss new Prevention of Cruelty to Animals Rules without discussing cruelty…"
 microblog: false
 audio: 
+photo: 
 date: 2017-05-28 14:03:36 +0400
 guid: http://chirag.micro.blog/2017/05/28/opinion-how-can.html
 ---
