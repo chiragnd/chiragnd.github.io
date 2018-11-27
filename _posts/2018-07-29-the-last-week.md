@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-29 11:11:33 +0400
 guid: http://chirag.micro.blog/2018/07/29/the-last-week.html
 ---
