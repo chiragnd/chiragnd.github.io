@@ -3,6 +3,7 @@ layout: post
 title: "‘Death didn’t happen to Steve, he achieved it.’"
 microblog: false
 audio: 
+photo: 
 date: 2012-07-12 17:11:00 +0400
 guid: http://chirag.micro.blog/2012/07/12/death-didnt-happen.html
 ---
