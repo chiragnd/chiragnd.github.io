@@ -3,6 +3,7 @@ layout: post
 title: "The lesser known #win’s of Google+"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2011/07/eb153-0s15d4gbrxtph5e8l.gif
 date: 2011-07-04 08:49:00 +0400
 guid: http://chirag.micro.blog/2011/07/04/the-lesser-known.html
 ---
