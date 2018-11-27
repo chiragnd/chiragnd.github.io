@@ -3,6 +3,7 @@ layout: post
 title: "Apple’s upcoming inventions."
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/04/c8a5c-0_tluu3qjo8ixfmhc.jpg
 date: 2010-04-15 16:54:00 +0400
 guid: http://chirag.micro.blog/2010/04/15/apples-upcoming-inventions.html
 ---
