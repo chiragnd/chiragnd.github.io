@@ -3,6 +3,7 @@ layout: post
 title: "Mango &amp; Chick Pea Salad- Part Deux"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/a5a661276d.jpg
 date: 2010-05-28 21:47:51 +0400
 guid: http://chirag.micro.blog/2010/05/28/mango-amp-chick.html
 ---
