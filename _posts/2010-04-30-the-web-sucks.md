@@ -3,6 +3,7 @@ layout: post
 title: "The web sucks. Browsers need to innovate"
 microblog: false
 audio: 
+photo: 
 date: 2010-05-01 01:16:00 +0400
 guid: http://chirag.micro.blog/2010/04/30/the-web-sucks.html
 ---
