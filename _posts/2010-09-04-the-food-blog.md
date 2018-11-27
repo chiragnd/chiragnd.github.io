@@ -3,6 +3,7 @@ layout: post
 title: "The food blog: A hundred, and more."
 microblog: false
 audio: 
+photo: 
 date: 2010-09-04 18:55:00 +0400
 guid: http://chirag.micro.blog/2010/09/04/the-food-blog.html
 ---
