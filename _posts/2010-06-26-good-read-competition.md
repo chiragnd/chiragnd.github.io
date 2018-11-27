@@ -3,6 +3,7 @@ layout: post
 title: "Good read: competition is overrated by @cdixon"
 microblog: false
 audio: 
+photo: 
 date: 2010-06-26 18:43:00 +0400
 guid: http://chirag.micro.blog/2010/06/26/good-read-competition.html
 ---
