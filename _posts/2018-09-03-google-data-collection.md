@@ -3,6 +3,7 @@ layout: post
 title: "Google Data Collection"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-03 11:06:37 +0400
 guid: http://chirag.micro.blog/2018/09/03/google-data-collection.html
 ---
