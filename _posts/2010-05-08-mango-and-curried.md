@@ -3,6 +3,7 @@ layout: post
 title: "Mango and curried chickpea salad"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/b844f0e9e5.jpg
 date: 2010-05-08 13:45:00 +0400
 guid: http://chirag.micro.blog/2010/05/08/mango-and-curried.html
 ---
