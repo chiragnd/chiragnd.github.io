@@ -3,6 +3,7 @@ layout: post
 title: "‘Up to 87 million’ #facebook"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-05 09:54:38 +0400
 guid: http://chirag.micro.blog/2018/04/05/up-to-million.html
 ---
