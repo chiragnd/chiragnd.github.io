@@ -3,6 +3,7 @@ layout: post
 title: "The Aadhaar ‘breach’"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-06 12:04:06 +0400
 guid: http://chirag.micro.blog/2017/03/06/the-aadhaar-breach.html
 ---
