@@ -3,6 +3,7 @@ layout: post
 title: "“Can’t innovate, my ass”"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2013/06/c4a07-0cyrbdpzqqsxatpfr.png
 date: 2013-06-11 11:19:27 +0400
 guid: http://chirag.micro.blog/2013/06/11/cant-innovate-my.html
 ---
