@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chirag.micro.blog/uploads/2017/06212cbba2.jpg
 date: 2017-12-12 20:21:27 +0400
 guid: http://chirag.micro.blog/2017/12/12/a-moment-in.html
 ---
