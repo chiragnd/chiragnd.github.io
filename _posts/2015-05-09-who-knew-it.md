@@ -3,6 +3,7 @@ layout: post
 title: "Who knew it was so easy to feel like we were in Pariee?"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2015/05/713c2-0z0_gmfbnfffzzy9y.jpg
 date: 2015-05-09 23:02:17 +0400
 guid: http://chirag.micro.blog/2015/05/09/who-knew-it.html
 ---
