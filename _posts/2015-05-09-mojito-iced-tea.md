@@ -3,6 +3,7 @@ layout: post
 title: "Mojito Iced Tea"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/848ea6c70f.jpg
 date: 2015-05-09 22:47:26 +0400
 guid: http://chirag.micro.blog/2015/05/09/mojito-iced-tea.html
 ---
