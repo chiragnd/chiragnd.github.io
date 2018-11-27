@@ -3,6 +3,7 @@ layout: post
 title: "The (planned) end of an era…"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2011/08/0ccf0-0m2f3qfv_9dt5vlpn.png
 date: 2011-08-25 11:39:00 +0400
 guid: http://chirag.micro.blog/2011/08/25/the-planned-end.html
 ---
