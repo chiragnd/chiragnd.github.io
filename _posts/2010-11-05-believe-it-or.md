@@ -3,6 +3,7 @@ layout: post
 title: "Believe it or not, but I’ve actually never spent a Diwali in India. Until this time, that is."
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/11/adfc5-0h8ekllpmkl6kgl5z.jpg
 date: 2010-11-05 15:42:00 +0400
 guid: http://chirag.micro.blog/2010/11/05/believe-it-or.html
 ---
