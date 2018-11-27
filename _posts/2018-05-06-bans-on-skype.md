@@ -3,6 +3,7 @@ layout: post
 title: "Bans on Skype & FaceTime could be lifted in the UAE"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-06 10:56:51 +0400
 guid: http://chirag.micro.blog/2018/05/06/bans-on-skype.html
 ---
