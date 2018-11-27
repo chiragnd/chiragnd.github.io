@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chirag.micro.blog/uploads/2018/6ab31a062b.jpg
 date: 2018-02-06 13:30:33 +0400
 guid: http://chirag.micro.blog/2018/02/06/who-says-you.html
 ---
