@@ -3,6 +3,7 @@ layout: post
 title: "My Flake 99, courtesy @desertchill"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/37d2e44ed6.jpg
 date: 2010-09-10 17:13:00 +0400
 guid: http://chirag.micro.blog/2010/09/10/my-flake-courtesy.html
 ---
