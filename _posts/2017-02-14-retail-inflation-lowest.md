@@ -3,6 +3,7 @@ layout: post
 title: "Retail inflation lowest in 5 years"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/02/0fd21-1g9yvta5nhhnvnrthrwa1pw.jpeg
 date: 2017-02-14 13:16:22 +0400
 guid: http://chirag.micro.blog/2017/02/14/retail-inflation-lowest.html
 ---
