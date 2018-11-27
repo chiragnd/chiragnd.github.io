@@ -3,6 +3,7 @@ layout: post
 title: "Happy Diwali everyone!"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2015/11/c5f66-1vivaz4yb-vqcjavccy7tcq.jpeg
 date: 2015-11-11 09:57:16 +0400
 guid: http://chirag.micro.blog/2015/11/11/happy-diwali-everyone.html
 ---
