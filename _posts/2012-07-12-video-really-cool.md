@@ -3,6 +3,7 @@ layout: post
 title: "Video: Really cool guitar cover to MJ’s ‘Beat it’"
 microblog: false
 audio: 
+photo: 
 date: 2012-07-12 16:59:00 +0400
 guid: http://chirag.micro.blog/2012/07/12/video-really-cool.html
 ---
