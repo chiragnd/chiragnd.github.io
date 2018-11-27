@@ -3,6 +3,7 @@ layout: post
 title: "You should get married soon. Or else.."
 microblog: false
 audio: 
+photo: 
 date: 2013-05-16 15:49:00 +0400
 guid: http://chirag.micro.blog/2013/05/16/you-should-get.html
 ---
