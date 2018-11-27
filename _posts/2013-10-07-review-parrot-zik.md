@@ -3,6 +3,7 @@ layout: post
 title: "Review: Parrot Zik Headphones"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2013/10/f8e5b-0iwk2qudevwhjjco6.jpeg
 date: 2013-10-07 18:21:05 +0400
 guid: http://chirag.micro.blog/2013/10/07/review-parrot-zik.html
 ---
