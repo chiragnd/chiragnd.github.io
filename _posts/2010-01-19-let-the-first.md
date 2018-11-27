@@ -3,6 +3,7 @@ layout: post
 title: "Let the first blogger to die in prison be the last"
 microblog: false
 audio: 
+photo: 
 date: 2010-01-19 11:52:00 +0400
 guid: http://chirag.micro.blog/2010/01/19/let-the-first.html
 ---
