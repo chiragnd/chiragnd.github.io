@@ -3,6 +3,7 @@ layout: post
 title: "Talk 104: ‘The cows come home’, with Girish Alva"
 microblog: false
 audio: 
+photo: 
 date: 2017-06-01 12:08:43 +0400
 guid: http://chirag.micro.blog/2017/06/01/talk-the-cows.html
 ---
