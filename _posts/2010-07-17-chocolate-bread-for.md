@@ -3,6 +3,7 @@ layout: post
 title: "Chocolate bread for a divine breakfast makes"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/c4a6ef7e05.jpg
 date: 2010-07-17 10:32:00 +0400
 guid: http://chirag.micro.blog/2010/07/17/chocolate-bread-for.html
 ---
