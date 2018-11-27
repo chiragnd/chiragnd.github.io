@@ -3,6 +3,7 @@ layout: post
 title: "Clumsy bank thief’s bad day gets worse"
 microblog: false
 audio: 
+photo: 
 date: 2014-02-23 12:35:35 +0400
 guid: http://chirag.micro.blog/2014/02/23/clumsy-bank-thiefs.html
 ---
