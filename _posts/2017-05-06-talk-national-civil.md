@@ -3,6 +3,7 @@ layout: post
 title: "Talk 102: National Civil Aviation Policy"
 microblog: false
 audio: 
+photo: 
 date: 2017-05-06 10:01:00 +0400
 guid: http://chirag.micro.blog/2017/05/06/talk-national-civil.html
 ---
