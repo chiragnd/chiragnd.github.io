@@ -3,6 +3,7 @@ layout: post
 title: "While digitalisation has proceeded, cash has not become unimportant"
 microblog: false
 audio: 
+photo: 
 date: 2017-02-19 12:20:29 +0400
 guid: http://chirag.micro.blog/2017/02/19/while-digitalisation-has.html
 ---
