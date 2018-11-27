@@ -3,6 +3,7 @@ layout: post
 title: "Watching @localarchade team argue on stage is more entertaining when you have @theregos’ diva-ing…"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/04/e463b-0wup72adw_zibbqpk.jpg
 date: 2010-04-29 20:46:00 +0400
 guid: http://chirag.micro.blog/2010/04/29/watching-localarchade-team.html
 ---
