@@ -3,6 +3,7 @@ layout: post
 title: "Evil Mud Cake @ C???est ici Brasserie"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/309005d4ad.jpg
 date: 2011-09-27 13:00:00 +0400
 guid: http://chirag.micro.blog/2011/09/27/evil-mud-cake.html
 ---
