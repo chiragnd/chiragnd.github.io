@@ -3,6 +3,7 @@ layout: post
 title: "Talk 112: Right to Education (RTE)"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2018/01/80026-12wzk1_2wskb_tlqesgmlzw.jpeg
 date: 2018-01-07 09:49:32 +0400
 guid: http://chirag.micro.blog/2018/01/07/talk-right-to.html
 ---
