@@ -3,6 +3,7 @@ layout: post
 title: "Magic Masala!"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/b502f94641.jpg
 date: 2011-03-27 14:19:17 +0400
 guid: http://chirag.micro.blog/2011/03/27/magic-masala.html
 ---
