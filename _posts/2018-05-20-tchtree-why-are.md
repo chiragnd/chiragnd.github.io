@@ -3,6 +3,7 @@ layout: post
 title: "t3chtree #8: “Why are you doing my job?”  🎧"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-20 10:52:44 +0400
 guid: http://chirag.micro.blog/2018/05/20/tchtree-why-are.html
 ---
