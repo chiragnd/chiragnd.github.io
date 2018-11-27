@@ -3,6 +3,7 @@ layout: post
 title: "This is funny…and time-consuming..and *goes back to clicking button*"
 microblog: false
 audio: 
+photo: 
 date: 2010-05-17 14:32:00 +0400
 guid: http://chirag.micro.blog/2010/05/17/this-is-funnyand.html
 ---
