@@ -3,6 +3,7 @@ layout: post
 title: "Podcast: India v China"
 microblog: false
 audio: 
+photo: 
 date: 2017-08-09 15:36:37 +0400
 guid: http://chirag.micro.blog/2017/08/09/podcast-india-v.html
 ---
