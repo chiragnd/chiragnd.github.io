@@ -3,6 +3,7 @@ layout: post
 title: "India plans special farms, infrastructure for export to UAE"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-06 11:20:31 +0400
 guid: http://chirag.micro.blog/2017/03/06/india-plans-special.html
 ---
