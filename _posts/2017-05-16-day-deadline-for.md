@@ -3,6 +3,7 @@ layout: post
 title: "30 day deadline for NGOs to file pending returns"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/05/0c361-1ucd_aeoiiznbbpb5pgblhw2x.jpeg
 date: 2017-05-16 12:23:14 +0400
 guid: http://chirag.micro.blog/2017/05/16/day-deadline-for.html
 ---
