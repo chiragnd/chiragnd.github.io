@@ -3,6 +3,7 @@ layout: post
 title: "What a mess…"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/12/1f18f-0koqfugtr1yveigen.jpg
 date: 2010-12-05 16:24:00 +0400
 guid: http://chirag.micro.blog/2010/12/05/what-a-mess.html
 ---
