@@ -3,6 +3,7 @@ layout: post
 title: "From the Kitchen: Pasta"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/985dbad7ee.jpg
 date: 2010-08-11 00:34:00 +0400
 guid: http://chirag.micro.blog/2010/08/10/from-the-kitchen.html
 ---
