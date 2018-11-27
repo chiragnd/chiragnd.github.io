@@ -3,6 +3,7 @@ layout: post
 title: "Major GST bills passed in Lok Sabha"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-30 10:10:21 +0400
 guid: http://chirag.micro.blog/2017/03/30/major-gst-bills.html
 ---
