@@ -3,6 +3,7 @@ layout: post
 title: "Cyber Swachhta Kendra — Botnet cleaning and malware analysis Centre launched"
 microblog: false
 audio: 
+photo: 
 date: 2017-02-22 14:28:30 +0400
 guid: http://chirag.micro.blog/2017/02/22/cyber-swachhta-kendrabotnet.html
 ---
