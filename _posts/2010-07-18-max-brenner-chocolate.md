@@ -3,6 +3,7 @@ layout: post
 title: "Max Brenner — Chocolate by the Bald Man"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/3967bc14ce.jpg
 date: 2010-07-18 22:46:00 +0400
 guid: http://chirag.micro.blog/2010/07/18/max-brenner-chocolate.html
 ---
