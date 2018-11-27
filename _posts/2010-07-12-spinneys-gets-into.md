@@ -3,6 +3,7 @@ layout: post
 title: "Spinneys gets into World Cup mode"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/2c0ec5707a.jpg
 date: 2010-07-12 10:26:15 +0400
 guid: http://chirag.micro.blog/2010/07/12/spinneys-gets-into.html
 ---
