@@ -3,6 +3,7 @@ layout: post
 title: "All pre-2006 EVMs to be replaced with new M3's"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-08 13:20:25 +0400
 guid: http://chirag.micro.blog/2017/03/08/all-pre-evms.html
 ---
