@@ -3,6 +3,7 @@ layout: post
 title: "Panagariya reviews Indian economy over the last 2.5 years"
 microblog: false
 audio: 
+photo: 
 date: 2017-02-19 10:33:48 +0400
 guid: http://chirag.micro.blog/2017/02/19/panagariya-reviews-indian.html
 ---
