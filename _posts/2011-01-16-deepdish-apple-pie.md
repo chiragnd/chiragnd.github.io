@@ -3,6 +3,7 @@ layout: post
 title: "Deep-Dish Apple Pie"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/d9be698c79.jpg
 date: 2011-01-16 22:51:00 +0400
 guid: http://chirag.micro.blog/2011/01/16/deepdish-apple-pie.html
 ---
