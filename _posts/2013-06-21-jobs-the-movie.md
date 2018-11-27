@@ -3,6 +3,7 @@ layout: post
 title: "Jobs, the movie"
 microblog: false
 audio: 
+photo: 
 date: 2013-06-21 23:40:48 +0400
 guid: http://chirag.micro.blog/2013/06/21/jobs-the-movie.html
 ---
