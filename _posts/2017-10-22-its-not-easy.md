@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chirag.micro.blog/uploads/2017/8cf73101eb.jpg
 date: 2017-10-22 15:37:19 +0400
 guid: http://chirag.micro.blog/2017/10/22/its-not-easy.html
 ---
