@@ -3,6 +3,7 @@ layout: post
 title: "Lessons to learn from Mat Honan’s epic hacking"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2012/08/1eaaa-0jralijfl0bqf533x.jpg
 date: 2012-08-08 12:15:00 +0400
 guid: http://chirag.micro.blog/2012/08/08/lessons-to-learn.html
 ---
