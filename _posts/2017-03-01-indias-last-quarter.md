@@ -3,6 +3,7 @@ layout: post
 title: "India’s last quarter GDP settles at 7%"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-01 12:21:08 +0400
 guid: http://chirag.micro.blog/2017/03/01/indias-last-quarter.html
 ---
