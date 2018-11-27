@@ -3,6 +3,7 @@ layout: post
 title: "Caribou’s Chocolate Cupcake"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/ea030a7ad7.jpg
 date: 2010-04-12 22:50:11 +0400
 guid: http://chirag.micro.blog/2010/04/12/caribous-chocolate-cupcake.html
 ---
