@@ -3,6 +3,7 @@ layout: post
 title: "India launches South Asia satellite"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/05/bce00-1bmtnrg1dt-5h9jfcysdp_g2x.jpeg
 date: 2017-05-07 16:47:34 +0400
 guid: http://chirag.micro.blog/2017/05/07/india-launches-south.html
 ---
