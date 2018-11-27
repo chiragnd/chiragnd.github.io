@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.chirag.biz/uploads/2018/21f7171680.jpg
 date: 2018-10-18 14:57:20 +0400
 guid: http://chirag.micro.blog/2018/10/18/happy-dussehra-to.html
 ---
