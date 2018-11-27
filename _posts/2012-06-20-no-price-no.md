@@ -3,6 +3,7 @@ layout: post
 title: "No Price, No Date, No Apps, No Problem. No Wait, Problem- MG Siegler"
 microblog: false
 audio: 
+photo: 
 date: 2012-06-20 22:10:00 +0400
 guid: http://chirag.micro.blog/2012/06/20/no-price-no.html
 ---
