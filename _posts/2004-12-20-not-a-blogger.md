@@ -3,6 +3,7 @@ layout: post
 title: "Not a blogger…"
 microblog: false
 audio: 
+photo: 
 date: 2004-12-20 19:33:00 +0400
 guid: http://chirag.micro.blog/2004/12/20/not-a-blogger.html
 ---
