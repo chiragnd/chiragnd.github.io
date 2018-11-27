@@ -3,6 +3,7 @@ layout: post
 title: "SaaS and the symbiosis between IT &amp; business"
 microblog: false
 audio: 
+photo: 
 date: 2011-03-17 13:44:00 +0400
 guid: http://chirag.micro.blog/2011/03/17/saas-and-the.html
 ---
