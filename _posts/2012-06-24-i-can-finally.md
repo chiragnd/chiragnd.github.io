@@ -3,6 +3,7 @@ layout: post
 title: "I can finally rave about pizza in Dubai again."
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/119e49053e.jpg
 date: 2012-06-24 18:09:00 +0400
 guid: http://chirag.micro.blog/2012/06/24/i-can-finally.html
 ---
