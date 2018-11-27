@@ -3,6 +3,7 @@ layout: post
 title: "Steve Jobs"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2011/11/0fa44-0soiaepmufhkf1c2i.png
 date: 2011-11-09 14:00:00 +0400
 guid: http://chirag.micro.blog/2011/11/09/steve-jobs.html
 ---
