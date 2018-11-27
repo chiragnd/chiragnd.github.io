@@ -3,6 +3,7 @@ layout: post
 title: "Think about it."
 microblog: false
 audio: 
+photo: 
 date: 2015-03-08 10:13:25 +0400
 guid: http://chirag.micro.blog/2015/03/08/think-about-it.html
 ---
