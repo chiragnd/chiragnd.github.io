@@ -3,6 +3,7 @@ layout: post
 title: "Bukhara of Samlesbury"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/9ce03e66e3.jpg
 date: 2010-06-23 13:25:00 +0400
 guid: http://chirag.micro.blog/2010/06/23/bukhara-of-samlesbury.html
 ---
