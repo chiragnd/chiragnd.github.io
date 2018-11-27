@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.chirag.biz/uploads/2018/60965b6b1b.jpg
 date: 2018-08-07 07:26:29 +0400
 guid: http://chirag.micro.blog/2018/08/07/just-received-the.html
 ---
