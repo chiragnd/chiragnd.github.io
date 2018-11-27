@@ -3,6 +3,7 @@ layout: post
 title: "The Indian Web Archive block"
 microblog: false
 audio: 
+photo: 
 date: 2017-08-10 10:32:14 +0400
 guid: http://chirag.micro.blog/2017/08/10/the-indian-web.html
 ---
