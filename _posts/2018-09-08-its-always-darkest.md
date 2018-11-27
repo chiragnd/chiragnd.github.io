@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-08 11:31:50 +0400
 guid: http://chirag.micro.blog/2018/09/08/its-always-darkest.html
 ---
