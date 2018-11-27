@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chirag.micro.blog/uploads/2017/be7d81e385.jpg
 date: 2017-11-23 23:17:06 +0400
 guid: http://chirag.micro.blog/2017/11/23/smoke-em-dubai.html
 ---
