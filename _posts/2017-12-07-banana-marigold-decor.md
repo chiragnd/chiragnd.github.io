@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chirag.micro.blog/uploads/2017/7cb7b55599.jpg
 date: 2017-12-07 22:26:59 +0400
 guid: http://chirag.micro.blog/2017/12/07/banana-marigold-decor.html
 ---
