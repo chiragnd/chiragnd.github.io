@@ -3,6 +3,7 @@ layout: post
 title: "Talk 103: 'Indian Apparel', with Bhushan Shah"
 microblog: false
 audio: 
+photo: 
 date: 2017-05-19 09:41:00 +0400
 guid: http://chirag.micro.blog/2017/05/19/talk-indian-apparel.html
 ---
