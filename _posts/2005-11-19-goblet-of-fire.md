@@ -3,6 +3,7 @@ layout: post
 title: "Goblet of Fire"
 microblog: false
 audio: 
+photo: 
 date: 2005-11-19 17:36:00 +0400
 guid: http://chirag.micro.blog/2005/11/19/goblet-of-fire.html
 ---
