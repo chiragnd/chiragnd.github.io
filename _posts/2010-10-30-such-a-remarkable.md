@@ -3,6 +3,7 @@ layout: post
 title: "Such a remarkable name for an educational entity."
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/10/67cd4-0tg-qqmfnv8sf-fa.jpg
 date: 2010-10-30 09:49:00 +0400
 guid: http://chirag.micro.blog/2010/10/30/such-a-remarkable.html
 ---
