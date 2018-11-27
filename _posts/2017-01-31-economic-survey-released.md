@@ -3,6 +3,7 @@ layout: post
 title: "Economic Survey 2017 released"
 microblog: false
 audio: 
+photo: 
 date: 2017-01-31 15:27:09 +0400
 guid: http://chirag.micro.blog/2017/01/31/economic-survey-released.html
 ---
