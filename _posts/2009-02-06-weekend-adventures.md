@@ -3,6 +3,7 @@ layout: post
 title: "Weekend adventures"
 microblog: false
 audio: 
+photo: 
 date: 2009-02-07 01:19:00 +0400
 guid: http://chirag.micro.blog/2009/02/06/weekend-adventures.html
 ---
