@@ -3,6 +3,7 @@ layout: post
 title: "Understanding Aadhaar: Data Security"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/04/24d5a-1is2pyyb6aszme_sokuc80g.jpeg
 date: 2017-04-13 15:49:59 +0400
 guid: http://chirag.micro.blog/2017/04/13/understanding-aadhaar-data.html
 ---
