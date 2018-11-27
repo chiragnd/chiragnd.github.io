@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chirag.micro.blog/uploads/2018/a22cd38a56.jpg
 date: 2018-01-06 19:13:30 +0400
 guid: http://chirag.micro.blog/2018/01/06/from-flower-to.html
 ---
