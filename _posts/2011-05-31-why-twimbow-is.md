@@ -3,6 +3,7 @@ layout: post
 title: "Why @twimbow is my favorite twitter client"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2011/05/f3a71-0cxm7fzep-qlvhkvo.png
 date: 2011-05-31 10:35:00 +0400
 guid: http://chirag.micro.blog/2011/05/31/why-twimbow-is.html
 ---
