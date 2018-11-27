@@ -3,6 +3,7 @@ layout: post
 title: "CSIS’ India reform scorecard tracks 30 ‘big reforms’ since 2014"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-26 12:21:39 +0400
 guid: http://chirag.micro.blog/2017/03/26/csis-india-reform.html
 ---
