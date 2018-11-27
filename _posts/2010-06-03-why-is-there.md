@@ -3,6 +3,7 @@ layout: post
 title: "Why is there such little professionalism around here?"
 microblog: false
 audio: 
+photo: 
 date: 2010-06-03 15:04:00 +0400
 guid: http://chirag.micro.blog/2010/06/03/why-is-there.html
 ---
