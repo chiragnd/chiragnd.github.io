@@ -3,6 +3,7 @@ layout: post
 title: "More Twitter API restrictions, now for Win8"
 microblog: false
 audio: 
+photo: 
 date: 2012-11-17 17:10:28 +0400
 guid: http://chirag.micro.blog/2012/11/17/more-twitter-api.html
 ---
