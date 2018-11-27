@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-24 12:49:54 +0400
 guid: http://chirag.micro.blog/2018/04/24/maybe-together-we.html
 ---
