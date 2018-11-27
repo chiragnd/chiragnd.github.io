@@ -3,6 +3,7 @@ layout: post
 title: "Geese a-layin’"
 microblog: false
 audio: 
+photo: 
 date: 2010-09-27 15:11:00 +0400
 guid: http://chirag.micro.blog/2010/09/27/geese-alayin.html
 ---
