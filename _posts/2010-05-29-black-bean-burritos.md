@@ -3,6 +3,7 @@ layout: post
 title: "Black Bean Burritos"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/24e8ba5d9e.jpg
 date: 2010-05-29 14:44:00 +0400
 guid: http://chirag.micro.blog/2010/05/29/black-bean-burritos.html
 ---
