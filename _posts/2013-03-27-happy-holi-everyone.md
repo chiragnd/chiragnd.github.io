@@ -3,6 +3,7 @@ layout: post
 title: "Happy Holi everyone!"
 microblog: false
 audio: 
+photo: 
 date: 2013-03-27 10:00:46 +0400
 guid: http://chirag.micro.blog/2013/03/27/happy-holi-everyone.html
 ---
