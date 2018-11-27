@@ -3,6 +3,7 @@ layout: post
 title: "Social media & actually owning what you publish"
 microblog: false
 audio: 
+photo: 
 date: 2018-07-12 10:48:58 +0400
 guid: http://chirag.micro.blog/2018/07/12/social-media-actually.html
 ---
