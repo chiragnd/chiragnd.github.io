@@ -3,6 +3,7 @@ layout: post
 title: "We begin. Again."
 microblog: false
 audio: 
+photo: 
 date: 2009-10-03 12:39:00 +0400
 guid: http://chirag.micro.blog/2009/10/03/we-begin-again.html
 ---
