@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-03 10:14:56 +0400
 guid: http://chirag.micro.blog/2018/05/03/picked-up-my.html
 ---
