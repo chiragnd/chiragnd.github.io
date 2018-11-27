@@ -3,6 +3,7 @@ layout: post
 title: "KajuKatri"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/4ec6e4385d.jpg
 date: 2011-12-02 19:03:00 +0400
 guid: http://chirag.micro.blog/2011/12/02/kajukatri.html
 ---
