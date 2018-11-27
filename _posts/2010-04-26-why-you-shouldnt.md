@@ -3,6 +3,7 @@ layout: post
 title: "Why you shouldn’t bother with #Etisalat"
 microblog: false
 audio: 
+photo: 
 date: 2010-04-26 23:07:00 +0400
 guid: http://chirag.micro.blog/2010/04/26/why-you-shouldnt.html
 ---
