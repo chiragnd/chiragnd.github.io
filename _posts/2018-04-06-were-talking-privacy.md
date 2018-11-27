@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-06 12:18:51 +0400
 guid: http://chirag.micro.blog/2018/04/06/were-talking-privacy.html
 ---
