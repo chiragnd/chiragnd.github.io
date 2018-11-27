@@ -3,6 +3,7 @@ layout: post
 title: "Sometimes…"
 microblog: false
 audio: 
+photo: 
 date: 2009-12-03 01:20:00 +0400
 guid: http://chirag.micro.blog/2009/12/02/sometimes.html
 ---
