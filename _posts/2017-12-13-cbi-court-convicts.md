@@ -3,6 +3,7 @@ layout: post
 title: "CBI Court convicts former CM, former secretaries in coal scam"
 microblog: false
 audio: 
+photo: 
 date: 2017-12-13 08:58:27 +0400
 guid: http://chirag.micro.blog/2017/12/13/cbi-court-convicts.html
 ---
