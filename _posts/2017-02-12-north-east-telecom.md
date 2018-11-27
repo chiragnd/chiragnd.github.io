@@ -3,6 +3,7 @@ layout: post
 title: "North East telecom project to be completed by Dec 2018"
 microblog: false
 audio: 
+photo: 
 date: 2017-02-12 16:42:10 +0400
 guid: http://chirag.micro.blog/2017/02/12/north-east-telecom.html
 ---
