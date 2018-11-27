@@ -3,6 +3,7 @@ layout: post
 title: "The Reliance saga continues…"
 microblog: false
 audio: 
+photo: 
 date: 2010-12-15 09:18:00 +0400
 guid: http://chirag.micro.blog/2010/12/15/the-reliance-saga.html
 ---
