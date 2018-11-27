@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.chirag.biz/uploads/2018/ef4b949b5f.jpg
 date: 2018-09-20 13:54:58 +0400
 guid: http://chirag.micro.blog/2018/09/20/excited-to-be.html
 ---
