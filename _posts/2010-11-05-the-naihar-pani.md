@@ -3,6 +3,7 @@ layout: post
 title: "The naihar Pani Puri"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/def943e3eb.jpg
 date: 2010-11-05 20:59:00 +0400
 guid: http://chirag.micro.blog/2010/11/05/the-naihar-pani.html
 ---
