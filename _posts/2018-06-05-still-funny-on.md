@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-05 09:40:36 +0400
 guid: http://chirag.micro.blog/2018/06/05/still-funny-on.html
 ---
