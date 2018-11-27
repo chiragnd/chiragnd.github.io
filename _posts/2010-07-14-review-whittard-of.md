@@ -3,6 +3,7 @@ layout: post
 title: "Review: Whittard Of Chelsea"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/04115da441.jpg
 date: 2010-07-15 00:32:00 +0400
 guid: http://chirag.micro.blog/2010/07/14/review-whittard-of.html
 ---
