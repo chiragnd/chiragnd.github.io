@@ -3,6 +3,7 @@ layout: post
 title: "SC Collegium clears MoP for appointment of judges"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-20 13:14:43 +0400
 guid: http://chirag.micro.blog/2017/03/20/sc-collegium-clears.html
 ---
