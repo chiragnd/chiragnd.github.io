@@ -3,6 +3,7 @@ layout: post
 title: "For fighting"
 microblog: false
 audio: 
+photo: 
 date: 2010-08-27 00:00:00 +0400
 guid: http://chirag.micro.blog/2010/08/26/for-fighting.html
 ---
