@@ -3,6 +3,7 @@ layout: post
 title: "Video: What conf calls would be like in real life"
 microblog: false
 audio: 
+photo: 
 date: 2014-02-09 13:03:18 +0400
 guid: http://chirag.micro.blog/2014/02/09/video-what-conf.html
 ---
