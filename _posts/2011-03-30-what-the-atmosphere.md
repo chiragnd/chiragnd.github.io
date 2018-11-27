@@ -3,6 +3,7 @@ layout: post
 title: "What the atmosphere in India is like right now #CWC2011"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2011/03/3c1e5-0kso1bex7j0romwpc.jpg
 date: 2011-03-30 23:10:00 +0400
 guid: http://chirag.micro.blog/2011/03/30/what-the-atmosphere.html
 ---
