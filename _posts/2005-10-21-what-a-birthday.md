@@ -3,6 +3,7 @@ layout: post
 title: "What a birthday"
 microblog: false
 audio: 
+photo: 
 date: 2005-10-21 13:16:00 +0400
 guid: http://chirag.micro.blog/2005/10/21/what-a-birthday.html
 ---
