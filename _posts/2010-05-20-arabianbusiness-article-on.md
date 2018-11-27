@@ -3,6 +3,7 @@ layout: post
 title: "ArabianBusiness’ article on the #lemagnifique situation…"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2010/05/5ea46-0djl6ezmv9kzocmfm.png
 date: 2010-05-20 18:54:00 +0400
 guid: http://chirag.micro.blog/2010/05/20/arabianbusiness-article-on.html
 ---
