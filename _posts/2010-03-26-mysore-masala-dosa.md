@@ -3,6 +3,7 @@ layout: post
 title: "Mysore Masala Dosa — breakfast of champions!"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/4ce70ee1e1.jpg
 date: 2010-03-26 11:22:06 +0400
 guid: http://chirag.micro.blog/2010/03/26/mysore-masala-dosa.html
 ---
