@@ -3,6 +3,7 @@ layout: post
 title: "LinkedIn has a fun prank today too!"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2011/04/9fe1c-0nbhjs0doxt1v5rdr.png
 date: 2011-04-01 12:05:00 +0400
 guid: http://chirag.micro.blog/2011/04/01/linkedin-has-a.html
 ---
