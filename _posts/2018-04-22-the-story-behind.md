@@ -3,6 +3,7 @@ layout: post
 title: "The story behind @FryingPanAdventures 🎧 "
 microblog: false
 audio: 
+photo: 
 date: 2018-04-22 15:04:02 +0400
 guid: http://chirag.micro.blog/2018/04/22/the-story-behind.html
 ---
