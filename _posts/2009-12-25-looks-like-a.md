@@ -3,6 +3,7 @@ layout: post
 title: "Looks like a train…"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/9ec7536ce5.jpg
 date: 2009-12-25 23:27:00 +0400
 guid: http://chirag.micro.blog/2009/12/25/looks-like-a.html
 ---
