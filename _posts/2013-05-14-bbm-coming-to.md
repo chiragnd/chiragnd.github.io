@@ -3,6 +3,7 @@ layout: post
 title: "BBM coming to iOS, Android"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-14 22:34:55 +0400
 guid: http://chirag.micro.blog/2013/05/14/bbm-coming-to.html
 ---
