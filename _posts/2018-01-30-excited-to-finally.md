@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-30 18:49:55 +0400
 guid: http://chirag.micro.blog/2018/01/30/excited-to-finally.html
 ---
