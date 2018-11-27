@@ -3,6 +3,7 @@ layout: post
 title: "Microsoft launches Skype lite with built in Aadhaar verification"
 microblog: false
 audio: 
+photo: 
 date: 2017-02-22 11:30:53 +0400
 guid: http://chirag.micro.blog/2017/02/22/microsoft-launches-skype.html
 ---
