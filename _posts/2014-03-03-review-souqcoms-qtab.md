@@ -3,6 +3,7 @@ layout: post
 title: "Review: Souq.com’s QTAB tablet"
 microblog: false
 audio: 
+photo: 
 date: 2014-03-03 09:04:00 +0400
 guid: http://chirag.micro.blog/2014/03/03/review-souqcoms-qtab.html
 ---
