@@ -3,6 +3,7 @@ layout: post
 title: "Chocopologie"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2011/01/d2c51-077fpv1csglvzoj3z.jpg
 date: 2011-01-19 16:06:00 +0400
 guid: http://chirag.micro.blog/2011/01/19/chocopologie.html
 ---
