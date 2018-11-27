@@ -3,6 +3,7 @@ layout: post
 title: "Pizza @ Mamma Rossella"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/9bcdf24981.jpg
 date: 2011-06-27 11:27:00 +0400
 guid: http://chirag.micro.blog/2011/06/27/pizza-mamma-rossella.html
 ---
