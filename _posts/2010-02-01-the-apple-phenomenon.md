@@ -3,6 +3,7 @@ layout: post
 title: "The Apple phenomenon"
 microblog: false
 audio: 
+photo: 
 date: 2010-02-02 00:00:00 +0400
 guid: http://chirag.micro.blog/2010/02/01/the-apple-phenomenon.html
 ---
