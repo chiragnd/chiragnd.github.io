@@ -3,6 +3,7 @@ layout: post
 title: "Reading Terminal Market, Philadelphia"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/f478fb16d1.jpg
 date: 2010-06-25 16:27:00 +0400
 guid: http://chirag.micro.blog/2010/06/25/reading-terminal-market.html
 ---
