@@ -3,6 +3,7 @@ layout: post
 title: "Because Take 1 just wasn’t good enough."
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2011/09/99b4e-0nqco9cbxy60dz3n9.jpg
 date: 2011-09-27 19:57:00 +0400
 guid: http://chirag.micro.blog/2011/09/27/because-take-just.html
 ---
