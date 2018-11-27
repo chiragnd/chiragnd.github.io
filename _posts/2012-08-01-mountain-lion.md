@@ -3,6 +3,7 @@ layout: post
 title: "Mountain Lion"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2012/08/0ec05-0w1tv8ypfvktu-w9p.png
 date: 2012-08-01 12:19:00 +0400
 guid: http://chirag.micro.blog/2012/08/01/mountain-lion.html
 ---
