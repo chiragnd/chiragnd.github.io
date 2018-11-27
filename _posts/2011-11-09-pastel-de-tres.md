@@ -3,6 +3,7 @@ layout: post
 title: "Pastel de Tres Leches"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/0e258819ec.jpg
 date: 2011-11-09 15:47:00 +0400
 guid: http://chirag.micro.blog/2011/11/09/pastel-de-tres.html
 ---
