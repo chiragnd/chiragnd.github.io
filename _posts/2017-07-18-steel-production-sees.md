@@ -3,6 +3,7 @@ layout: post
 title: "Steel production sees 10% YoY growth"
 microblog: false
 audio: 
+photo: https://cdtestweb.files.wordpress.com/2017/07/82d3e-17fmzvczzazmudsuv7bxvna.jpg
 date: 2017-07-18 13:43:15 +0400
 guid: http://chirag.micro.blog/2017/07/18/steel-production-sees.html
 ---
