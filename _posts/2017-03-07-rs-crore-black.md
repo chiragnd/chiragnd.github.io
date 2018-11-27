@@ -3,6 +3,7 @@ layout: post
 title: "Rs. 70,000 crore black money detected so far"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-07 21:56:52 +0400
 guid: http://chirag.micro.blog/2017/03/07/rs-crore-black.html
 ---
