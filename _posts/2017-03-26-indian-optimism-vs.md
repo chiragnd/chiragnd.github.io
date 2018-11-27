@@ -3,6 +3,7 @@ layout: post
 title: "Indian optimism vs Western pessimism"
 microblog: false
 audio: 
+photo: 
 date: 2017-03-26 13:15:11 +0400
 guid: http://chirag.micro.blog/2017/03/26/indian-optimism-vs.html
 ---
