@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-30 15:54:35 +0400
 guid: http://chirag.micro.blog/2018/04/30/its-been-ages.html
 ---
