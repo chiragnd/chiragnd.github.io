@@ -3,6 +3,7 @@ layout: post
 title: "Post-demonetization"
 microblog: false
 audio: 
+photo: 
 date: 2016-11-16 12:31:17 +0400
 guid: http://chirag.micro.blog/2016/11/16/postdemonetization.html
 ---
