@@ -3,6 +3,7 @@ layout: post
 title: "Famous Famigla #Pizza"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/87b9a44895.jpg
 date: 2010-06-14 22:45:00 +0400
 guid: http://chirag.micro.blog/2010/06/14/famous-famigla-pizza.html
 ---
