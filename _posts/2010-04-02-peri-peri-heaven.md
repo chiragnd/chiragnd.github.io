@@ -3,6 +3,7 @@ layout: post
 title: "Peri Peri heaven"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/8a24353233.jpg
 date: 2010-04-02 14:51:43 +0400
 guid: http://chirag.micro.blog/2010/04/02/peri-peri-heaven.html
 ---
