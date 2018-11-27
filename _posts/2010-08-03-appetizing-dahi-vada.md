@@ -3,6 +3,7 @@ layout: post
 title: "Appetizing Dahi Vada"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/5707ba11a7.jpg
 date: 2010-08-03 17:42:00 +0400
 guid: http://chirag.micro.blog/2010/08/03/appetizing-dahi-vada.html
 ---
