@@ -3,6 +3,7 @@ layout: post
 title: "Some great advice for your first job by @atulchitnis"
 microblog: false
 audio: 
+photo: 
 date: 2011-06-02 11:00:00 +0400
 guid: http://chirag.micro.blog/2011/06/02/some-great-advice.html
 ---
