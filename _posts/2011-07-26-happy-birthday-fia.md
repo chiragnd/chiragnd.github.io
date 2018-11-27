@@ -3,6 +3,7 @@ layout: post
 title: "Happy Birthday FiA"
 microblog: false
 audio: 
+photo: http://www.chirag.biz/uploads/2018/d4c5e8fa94.jpg
 date: 2011-07-26 18:21:00 +0400
 guid: http://chirag.micro.blog/2011/07/26/happy-birthday-fia.html
 ---
