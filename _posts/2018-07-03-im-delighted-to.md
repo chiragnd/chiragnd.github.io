@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-03 12:48:08 +0400
 guid: http://chirag.micro.blog/2018/07/03/im-delighted-to.html
 ---
