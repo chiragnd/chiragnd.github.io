@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-28 10:03:50 +0400
 guid: http://chirag.micro.blog/2018/03/28/foxconn-buys-belkin.html
 ---
