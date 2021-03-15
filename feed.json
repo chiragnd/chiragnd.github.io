@@ -7,12 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://chirag.micro.blog/2021/03/15/lights-picoftheweek.html",
+				
+				"content_html": "<p>Lights.</p>\n\n<p>#picoftheweek</p>\n\n<p><img src=\"uploads/2021/0fbe4504e6.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Lights.\r\n\r\n#picoftheweek\n\n<img src=\"uploads/2021/0fbe4504e6.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-03-15T13:41:28+04:00",
+				"url": "http://chirag.biz/2021/03/15/lights-picoftheweek.html"
+			},
+			{
+				"id": "http://chirag.micro.blog/2021/03/08/sit-picoftheweek.html",
+				
+				"content_html": "<p>Sit.</p>\n\n<p>#picoftheweek</p>\n\n<p><img src=\"uploads/2021/c0a4850a31.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sit.\r\n\r\n#picoftheweek\n\n<img src=\"uploads/2021/c0a4850a31.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-03-08T14:03:42+04:00",
+				"url": "http://chirag.biz/2021/03/08/sit-picoftheweek.html"
+			},
+			{
 				"id": "http://chirag.micro.blog/2021/03/07/unpacking-amaeyamedias-state.html",
 				
-				"content_html": "<p><a href=\"https://www.communicateonline.me/category/industry-insights/post-details/what-we-learned-from-the-latest-state-of-podcast-industry-report\">Unpacking @AmaeyaMedia&rsquo;s State of the Industry Report, and the #podcast industry&rsquo;s movements</a> standardisation including The Podcast Index, and some thoughts on monetisation. Thanks Arjun and the @CommunicateME team for the chat! #Podcasts #MENA</p>\n",
-				"content_text": "[Unpacking @AmaeyaMedia's State of the Industry Report, and the #podcast industry's movements](https://www.communicateonline.me/category/industry-insights/post-details/what-we-learned-from-the-latest-state-of-podcast-industry-report) standardisation including The Podcast Index, and some thoughts on monetisation. Thanks Arjun and the @CommunicateME team for the chat! #Podcasts #MENA\n",
-				"date_published": "2021-03-07T10:22:19+04:00",
-				"url": "http://chirag.biz/2021/03/07/unpacking-amaeyamedias-state.html"
+				"content_html": "<p>Unpacking <a href=\"https://micro.blog/amaeya\">Amaeya Media</a>&rsquo;s State of the Industry Report, and the #podcast industry&rsquo;s movements standardisation including The Podcast Index, and some thoughts on monetisation, on <a href=\"https://www.communicateonline.me/category/industry-insights/post-details/what-we-learned-from-the-latest-state-of-podcast-industry-report\">Communicate Middle East</a>.</p>\n\n<p>Thanks Arjun and the CommunicateME team for the chat!</p>\n",
+				"content_text": "Unpacking [Amaeya Media](https://micro.blog/amaeya)'s State of the Industry Report, and the #podcast industry's movements standardisation including The Podcast Index, and some thoughts on monetisation, on [Communicate Middle East](https://www.communicateonline.me/category/industry-insights/post-details/what-we-learned-from-the-latest-state-of-podcast-industry-report).\n\nThanks Arjun and the CommunicateME team for the chat! \n",
+				"date_published": "2021-03-07T10:22:00+04:00",
+				"url": "http://chirag.biz/2021/03/07/unpacking-amaeyamedias-state.html",
+				"tags": ["Podcasts"]
+			},
+			{
+				"id": "http://chirag.micro.blog/2021/03/07/i-spoke-to.html",
+				
+				"content_html": "<p>I spoke to Zaira Lakhpatwala about our <a href=\"https://more.amaeya.media/2020-state-of-the-industry-report\">State of Industry 2020 report</a> for #podcasts, and some thoughts on the brand opportunity in the medium, on <a href=\"[https://www.arabnews.com/node/1809551/media]\">Arab News</a>.</p>\n\n<p>Thanks to Zaira and the ArabNews team for the chat!</p>\n",
+				"content_text": "I spoke to Zaira Lakhpatwala about our [State of Industry 2020 report](https://more.amaeya.media/2020-state-of-the-industry-report) for #podcasts, and some thoughts on the brand opportunity in the medium, on [Arab News]([https://www.arabnews.com/node/1809551/media]). \n\nThanks to Zaira and the ArabNews team for the chat!\n",
+				"date_published": "2021-03-01T10:28:00+04:00",
+				"url": "http://chirag.biz/2021/03/07/i-spoke-to.html",
+				"tags": ["Podcasts"]
 			},
 			{
 				"id": "http://chirag.micro.blog/2021/02/27/the-social-accountability.html",
