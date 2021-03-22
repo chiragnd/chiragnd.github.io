@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://chirag.micro.blog/2021/03/21/camera-picoftheweek.html",
+				
+				"content_html": "<p>Camera.<br />\n#picoftheweek</p>\n\n<p><img src=\"uploads/2021/9e802f79cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Camera.    \r\n#picoftheweek\r\n\r\n<img src=\"uploads/2021/9e802f79cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-03-21T22:09:37+04:00",
+				"url": "http://chirag.biz/2021/03/21/camera-picoftheweek.html"
+			},
+			{
 				"id": "http://chirag.micro.blog/2021/03/15/lights-picoftheweek.html",
 				
 				"content_html": "<p>Lights.</p>\n\n<p>#picoftheweek</p>\n\n<p><img src=\"uploads/2021/0fbe4504e6.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
