@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://chirag.micro.blog/2021/04/18/a-delightful-little.html",
+				
+				"content_html": "<p>A delightful little surprise from @PodiantHQ, our partners since 2017.</p>\n\n<p>#strongerTogether\n#picoftheweek</p>\n\n<p><img src=\"uploads/2021/4ea6801144.jpg\" width=\"449\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A delightful little surprise from @PodiantHQ, our partners since 2017.\r\n\r\n#strongerTogether\r\n#picoftheweek\n\n<img src=\"uploads/2021/4ea6801144.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-04-18T21:59:37+04:00",
+				"url": "http://chirag.biz/2021/04/18/a-delightful-little.html"
+			},
+			{
+				"id": "http://chirag.micro.blog/2021/04/11/win-and-help.html",
+				
+				"content_html": "<p>&ldquo;Win, and help win.&rdquo;</p>\n\n<p>A powerful shift in philosophy. It might be just a little insight into the brain of Balaji S., but it’s a wealth of information that will explode your worldview.</p>\n\n<p><a href=\"https://tim.blog/2021/03/24/balaji-srinivasan/\">The Tim Ferriss show ep. 506: Balaji Srinivasan</a></p>\n\n<video src=\"http://chirag.biz/uploads/2021/5588fe3d6f.mov\" controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" poster=\"http://chirag.biz/uploads/2021/fadd153d69.jpg\"></video>\n",
+				"content_text": "\"Win, and help win.\"\n\nA powerful shift in philosophy. It might be just a little insight into the brain of Balaji S., but it’s a wealth of information that will explode your worldview.\n\n[The Tim Ferriss show ep. 506: Balaji Srinivasan](https://tim.blog/2021/03/24/balaji-srinivasan/)\n\n<video src=\"http://chirag.biz/uploads/2021/5588fe3d6f.mov\" controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" poster=\"http://chirag.biz/uploads/2021/fadd153d69.jpg\"></video>\n",
+				"date_published": "2021-04-11T18:42:00+04:00",
+				"url": "http://chirag.biz/2021/04/11/win-and-help.html",
+				"tags": ["Podcasts"]
+			},
+			{
 				"id": "http://chirag.micro.blog/2021/04/04/vintage-picoftheweek.html",
 				
 				"content_html": "<p>Vintage.</p>\n\n<p>#picoftheweek</p>\n\n<p><img src=\"uploads/2021/8ab67f6fea.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
